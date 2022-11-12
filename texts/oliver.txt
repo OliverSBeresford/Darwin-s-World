@@ -1,0 +1,13411 @@
+ifenemy 12
+ifwall 6
+ifsame 11001
+hop
+go 5041
+go 12190
+go 9805
+left
+go 1
+left
+go 841
+infect 1
+go 91
+right
+go 1
+ifenemy 7002
+ifwall 12036
+ifsame 21
+right
+go 7696
+go 3265
+ifrandom 29
+left
+go 16
+left
+go 11281
+infect 2896
+go 16
+right
+go 9076
+ifenemy 7197
+ifwall 1716
+ifsame 10986
+left
+go 4666
+go 11605
+go 40
+left
+go 2206
+right
+go 31
+infect 13276
+go 4636
+right
+go 3616
+ifenemy 552
+ifwall 5586
+ifsame 13341
+hop
+go 5506
+go 55
+go 6055
+left
+go 46
+left
+go 46
+infect 46
+go 46
+right
+go 46
+ifenemy 72
+ifwall 66
+ifsame 66
+right
+go 8011
+go 11620
+go 2785
+left
+go 4366
+left
+go 12571
+infect 5266
+go 61
+right
+go 2026
+ifenemy 267
+ifwall 96
+ifsame 8481
+left
+go 376
+go 8290
+go 85
+left
+go 76
+left
+go 331
+infect 5746
+go 1786
+right
+go 3571
+ifenemy 102
+ifwall 4101
+ifsame 96
+left
+go 9316
+go 190
+ifrandom 12719
+left
+go 91
+right
+go 91
+infect 9871
+go 11776
+right
+go 91
+ifenemy 2547
+ifwall 4791
+ifsame 111
+right
+go 106
+go 115
+go 4855
+left
+go 6001
+right
+go 13276
+infect 106
+go 106
+right
+go 121
+ifenemy 9162
+ifwall 126
+ifsame 8691
+hop
+go 6991
+go 130
+go 130
+left
+go 121
+left
+go 8221
+infect 12061
+go 121
+right
+go 6796
+ifenemy 147
+ifwall 141
+ifsame 9441
+hop
+go 136
+go 2380
+ifrandom 149
+left
+go 5956
+right
+go 136
+infect 2476
+go 7066
+right
+go 136
+ifenemy 9987
+ifwall 11661
+ifsame 5391
+hop
+go 7276
+go 5470
+go 160
+left
+go 10336
+left
+go 5236
+infect 5236
+go 11926
+right
+go 151
+ifenemy 177
+ifwall 171
+ifsame 6426
+right
+go 166
+go 175
+ifrandom 179
+left
+go 8551
+left
+go 166
+infect 166
+go 166
+right
+go 166
+ifenemy 7467
+ifwall 8331
+ifsame 486
+right
+go 181
+go 13330
+go 190
+left
+go 1246
+left
+go 8146
+infect 181
+go 181
+right
+go 181
+ifenemy 11892
+ifwall 4761
+ifsame 4836
+hop
+go 196
+go 205
+ifrandom 9704
+left
+go 196
+left
+go 7006
+infect 196
+go 196
+right
+go 4906
+ifenemy 222
+ifwall 5661
+ifsame 216
+hop
+go 211
+go 220
+go 1345
+left
+go 3721
+left
+go 211
+infect 7261
+go 12256
+right
+go 3496
+ifenemy 7452
+ifwall 231
+ifsame 2091
+right
+go 226
+go 235
+ifrandom 239
+left
+go 10576
+right
+go 2986
+infect 12646
+go 226
+right
+go 226
+ifenemy 252
+ifwall 246
+ifsame 3891
+hop
+go 946
+go 250
+go 250
+left
+go 241
+left
+go 11086
+infect 1246
+go 5251
+right
+go 6931
+ifenemy 267
+ifwall 261
+ifsame 261
+hop
+go 11686
+go 10255
+go 8365
+left
+go 256
+left
+go 11761
+infect 1786
+go 11581
+right
+go 256
+ifenemy 282
+ifwall 5661
+ifsame 9291
+hop
+go 11146
+go 2620
+ifrandom 1199
+left
+go 8266
+left
+go 271
+infect 271
+go 271
+right
+go 271
+ifenemy 10677
+ifwall 291
+ifsame 291
+right
+go 5491
+go 295
+ifrandom 11159
+left
+go 10726
+right
+go 286
+infect 286
+go 286
+right
+go 286
+ifenemy 8772
+ifwall 306
+ifsame 306
+right
+go 6031
+go 10210
+go 13315
+left
+go 301
+right
+go 7786
+infect 301
+go 301
+right
+go 6286
+ifenemy 3072
+ifwall 321
+ifsame 11706
+left
+go 6886
+go 430
+go 325
+left
+go 316
+left
+go 3061
+infect 6781
+go 316
+right
+go 7786
+ifenemy 11757
+ifwall 336
+ifsame 336
+left
+go 1141
+go 505
+go 10060
+left
+go 1951
+right
+go 2626
+infect 5281
+go 331
+right
+go 331
+ifenemy 4452
+ifwall 2331
+ifsame 351
+left
+go 10156
+go 13060
+go 355
+left
+go 11926
+left
+go 346
+infect 11296
+go 7321
+right
+go 11311
+ifenemy 3027
+ifwall 366
+ifsame 2046
+left
+go 361
+go 370
+go 370
+left
+go 361
+left
+go 2821
+infect 361
+go 361
+right
+go 361
+ifenemy 2757
+ifwall 381
+ifsame 11631
+hop
+go 376
+go 1675
+ifrandom 389
+left
+go 2956
+left
+go 376
+infect 376
+go 2821
+right
+go 376
+ifenemy 402
+ifwall 10536
+ifsame 9486
+hop
+go 12526
+go 6205
+go 400
+left
+go 391
+left
+go 11296
+infect 1036
+go 12121
+right
+go 391
+ifenemy 417
+ifwall 66
+ifsame 8481
+right
+go 406
+go 10945
+go 925
+left
+go 406
+left
+go 2251
+infect 406
+go 406
+right
+go 1246
+ifenemy 432
+ifwall 2451
+ifsame 2691
+right
+go 421
+go 430
+go 9160
+left
+go 9106
+left
+go 631
+infect 3001
+go 421
+right
+go 11701
+ifenemy 447
+ifwall 2706
+ifsame 441
+hop
+go 436
+go 10555
+go 445
+left
+go 436
+left
+go 436
+infect 436
+go 8146
+right
+go 436
+ifenemy 462
+ifwall 3231
+ifsame 12426
+right
+go 451
+go 460
+go 460
+left
+go 2401
+right
+go 451
+infect 12211
+go 451
+right
+go 3451
+ifenemy 477
+ifwall 6366
+ifsame 8961
+left
+go 466
+go 1585
+ifrandom 479
+left
+go 466
+right
+go 556
+infect 466
+go 11776
+right
+go 466
+ifenemy 492
+ifwall 7461
+ifsame 486
+hop
+go 481
+go 490
+go 4405
+left
+go 7441
+right
+go 8836
+infect 7891
+go 481
+right
+go 481
+ifenemy 12582
+ifwall 2151
+ifsame 13251
+left
+go 7846
+go 7240
+go 5905
+left
+go 6166
+right
+go 7441
+infect 2791
+go 7636
+right
+go 496
+ifenemy 522
+ifwall 516
+ifsame 516
+right
+go 6496
+go 520
+ifrandom 524
+left
+go 511
+left
+go 8701
+infect 13186
+go 2161
+right
+go 7291
+ifenemy 11742
+ifwall 5856
+ifsame 10431
+hop
+go 3691
+go 2425
+go 535
+left
+go 5296
+right
+go 5746
+infect 7426
+go 8386
+right
+go 526
+ifenemy 552
+ifwall 4926
+ifsame 546
+hop
+go 7816
+go 3160
+go 550
+left
+go 1981
+left
+go 1201
+infect 541
+go 541
+right
+go 2401
+ifenemy 567
+ifwall 3006
+ifsame 561
+left
+go 5041
+go 6970
+ifrandom 6119
+left
+go 9466
+left
+go 13081
+infect 4066
+go 556
+right
+go 1471
+ifenemy 582
+ifwall 576
+ifsame 576
+hop
+go 571
+go 5065
+ifrandom 3614
+left
+go 571
+right
+go 571
+infect 121
+go 4276
+right
+go 5596
+ifenemy 597
+ifwall 591
+ifsame 591
+right
+go 586
+go 595
+go 595
+left
+go 9061
+left
+go 586
+infect 4336
+go 586
+right
+go 586
+ifenemy 5022
+ifwall 13236
+ifsame 4296
+hop
+go 601
+go 5230
+ifrandom 10364
+left
+go 10216
+right
+go 601
+infect 13396
+go 601
+right
+go 601
+ifenemy 627
+ifwall 7206
+ifsame 621
+left
+go 616
+go 625
+go 2470
+left
+go 2311
+right
+go 616
+infect 616
+go 616
+right
+go 1
+ifenemy 12687
+ifwall 636
+ifsame 636
+left
+go 631
+go 640
+go 5305
+left
+go 8641
+right
+go 346
+infect 631
+go 1066
+right
+go 631
+ifenemy 657
+ifwall 3381
+ifsame 651
+right
+go 11161
+go 2770
+go 7435
+left
+go 3241
+left
+go 5731
+infect 5206
+go 5341
+right
+go 1411
+ifenemy 672
+ifwall 666
+ifsame 9141
+right
+go 3076
+go 3325
+ifrandom 6119
+left
+go 6556
+right
+go 661
+infect 9301
+go 7561
+right
+go 12316
+ifenemy 687
+ifwall 681
+ifsame 13371
+left
+go 6571
+go 685
+ifrandom 8339
+left
+go 10771
+left
+go 676
+infect 6331
+go 676
+right
+go 8116
+ifenemy 702
+ifwall 696
+ifsame 696
+hop
+go 3766
+go 5770
+go 700
+left
+go 11296
+left
+go 12661
+infect 856
+go 3076
+right
+go 691
+ifenemy 717
+ifwall 711
+ifsame 711
+right
+go 706
+go 715
+ifrandom 719
+left
+go 6706
+left
+go 706
+infect 11341
+go 6406
+right
+go 7246
+ifenemy 732
+ifwall 726
+ifsame 726
+left
+go 11926
+go 40
+ifrandom 734
+left
+go 4216
+right
+go 721
+infect 721
+go 721
+right
+go 10681
+ifenemy 297
+ifwall 741
+ifsame 741
+hop
+go 736
+go 745
+ifrandom 749
+left
+go 736
+left
+go 6331
+infect 2941
+go 736
+right
+go 13066
+ifenemy 11352
+ifwall 756
+ifsame 5961
+hop
+go 3271
+go 760
+go 760
+left
+go 751
+left
+go 8326
+infect 4126
+go 5791
+right
+go 6016
+ifenemy 777
+ifwall 12366
+ifsame 4146
+hop
+go 766
+go 775
+go 775
+left
+go 766
+right
+go 7336
+infect 766
+go 766
+right
+go 766
+ifenemy 792
+ifwall 11016
+ifsame 6246
+right
+go 781
+go 13180
+ifrandom 794
+left
+go 12961
+left
+go 10096
+infect 781
+go 781
+right
+go 9496
+ifenemy 4077
+ifwall 2706
+ifsame 801
+hop
+go 10366
+go 4825
+go 805
+left
+go 1576
+left
+go 46
+infect 796
+go 796
+right
+go 796
+ifenemy 9432
+ifwall 816
+ifsame 4686
+left
+go 811
+go 8395
+go 1975
+left
+go 811
+right
+go 8416
+infect 811
+go 811
+right
+go 811
+ifenemy 6567
+ifwall 831
+ifsame 1866
+right
+go 826
+go 6355
+go 9415
+left
+go 826
+left
+go 10231
+infect 7741
+go 10426
+right
+go 826
+ifenemy 11457
+ifwall 9351
+ifsame 846
+left
+go 6076
+go 1900
+go 850
+left
+go 841
+left
+go 9691
+infect 841
+go 841
+right
+go 841
+ifenemy 3327
+ifwall 861
+ifsame 3471
+hop
+go 4276
+go 11695
+ifrandom 3404
+left
+go 136
+left
+go 856
+infect 3016
+go 4846
+right
+go 856
+ifenemy 1182
+ifwall 876
+ifsame 876
+right
+go 7186
+go 13135
+ifrandom 6299
+left
+go 12061
+right
+go 871
+infect 871
+go 8761
+right
+go 4306
+ifenemy 4032
+ifwall 7371
+ifsame 891
+hop
+go 4801
+go 9775
+ifrandom 9989
+left
+go 11521
+right
+go 3916
+infect 886
+go 886
+right
+go 886
+ifenemy 12507
+ifwall 906
+ifsame 2556
+left
+go 5896
+go 7405
+ifrandom 1829
+left
+go 901
+right
+go 2446
+infect 13066
+go 901
+right
+go 901
+ifenemy 3087
+ifwall 921
+ifsame 921
+right
+go 9106
+go 1960
+go 5365
+left
+go 916
+left
+go 916
+infect 1591
+go 8701
+right
+go 916
+ifenemy 3897
+ifwall 936
+ifsame 936
+right
+go 10216
+go 2800
+ifrandom 2234
+left
+go 10666
+right
+go 6346
+infect 11611
+go 5881
+right
+go 931
+ifenemy 5442
+ifwall 5541
+ifsame 951
+right
+go 4921
+go 955
+ifrandom 11864
+left
+go 541
+right
+go 946
+infect 316
+go 10156
+right
+go 946
+ifenemy 11532
+ifwall 7386
+ifsame 8841
+left
+go 961
+go 6340
+go 10195
+left
+go 13306
+left
+go 961
+infect 961
+go 961
+right
+go 856
+ifenemy 987
+ifwall 13356
+ifsame 10911
+left
+go 976
+go 985
+go 5425
+left
+go 6901
+right
+go 976
+infect 1381
+go 4516
+right
+go 9556
+ifenemy 8337
+ifwall 8406
+ifsame 2046
+right
+go 991
+go 11650
+ifrandom 1004
+left
+go 991
+left
+go 991
+infect 9256
+go 2656
+right
+go 8461
+ifenemy 1017
+ifwall 1011
+ifsame 1011
+left
+go 2281
+go 1015
+ifrandom 1019
+left
+go 1006
+right
+go 4171
+infect 12736
+go 1006
+right
+go 1006
+ifenemy 1032
+ifwall 1026
+ifsame 1026
+hop
+go 5356
+go 1030
+ifrandom 404
+left
+go 1021
+right
+go 1021
+infect 10336
+go 10561
+right
+go 1021
+ifenemy 1047
+ifwall 12096
+ifsame 1041
+hop
+go 1036
+go 1045
+go 8185
+left
+go 1036
+left
+go 1036
+infect 11506
+go 1036
+right
+go 1036
+ifenemy 1062
+ifwall 1056
+ifsame 1056
+right
+go 1051
+go 11680
+go 1060
+left
+go 1051
+right
+go 1051
+infect 9631
+go 10726
+right
+go 10981
+ifenemy 1077
+ifwall 3231
+ifsame 1071
+left
+go 4891
+go 1075
+ifrandom 7709
+left
+go 9676
+left
+go 1066
+infect 1066
+go 5521
+right
+go 1066
+ifenemy 1092
+ifwall 516
+ifsame 1086
+left
+go 12841
+go 1090
+ifrandom 1094
+left
+go 11506
+right
+go 2206
+infect 1081
+go 1636
+right
+go 5206
+ifenemy 1107
+ifwall 11886
+ifsame 1101
+left
+go 1801
+go 12520
+ifrandom 1544
+left
+go 1096
+left
+go 1096
+infect 11101
+go 1096
+right
+go 12871
+ifenemy 1317
+ifwall 2796
+ifsame 13176
+right
+go 8461
+go 1120
+go 1120
+left
+go 1111
+left
+go 1111
+infect 1111
+go 7681
+right
+go 1111
+ifenemy 4707
+ifwall 1131
+ifsame 5541
+hop
+go 1126
+go 8650
+ifrandom 1139
+left
+go 2551
+right
+go 13081
+infect 1126
+go 1126
+right
+go 2371
+ifenemy 1152
+ifwall 1146
+ifsame 4086
+left
+go 10171
+go 1150
+ifrandom 1154
+left
+go 2191
+left
+go 346
+infect 1141
+go 1141
+right
+go 11536
+ifenemy 4497
+ifwall 1161
+ifsame 1161
+left
+go 1156
+go 4360
+ifrandom 2039
+left
+go 8221
+right
+go 1156
+infect 7171
+go 7936
+right
+go 1156
+ifenemy 1182
+ifwall 8001
+ifsame 8466
+left
+go 12196
+go 2935
+go 12925
+left
+go 1171
+right
+go 1171
+infect 1171
+go 9616
+right
+go 12301
+ifenemy 8067
+ifwall 2196
+ifsame 12111
+hop
+go 8446
+go 1195
+go 1195
+left
+go 1186
+left
+go 4681
+infect 7231
+go 6436
+right
+go 8281
+ifenemy 1632
+ifwall 10806
+ifsame 1206
+hop
+go 1201
+go 1210
+go 1210
+left
+go 1201
+right
+go 7381
+infect 5071
+go 1201
+right
+go 10681
+ifenemy 1227
+ifwall 1221
+ifsame 8676
+hop
+go 7426
+go 13300
+ifrandom 10169
+left
+go 1216
+right
+go 1216
+infect 1216
+go 10756
+right
+go 1216
+ifenemy 11337
+ifwall 2091
+ifsame 1236
+right
+go 1231
+go 4045
+go 2110
+left
+go 12301
+right
+go 13156
+infect 4276
+go 4141
+right
+go 3796
+ifenemy 11037
+ifwall 1251
+ifsame 8646
+hop
+go 1246
+go 1255
+ifrandom 9929
+left
+go 1246
+left
+go 3331
+infect 1246
+go 1246
+right
+go 3436
+ifenemy 1272
+ifwall 1266
+ifsame 801
+left
+go 1261
+go 11470
+ifrandom 1274
+left
+go 11791
+right
+go 1261
+infect 5041
+go 1261
+right
+go 12196
+ifenemy 4617
+ifwall 1281
+ifsame 81
+hop
+go 1276
+go 1285
+go 1285
+left
+go 7756
+right
+go 1276
+infect 10831
+go 5176
+right
+go 10006
+ifenemy 8097
+ifwall 9471
+ifsame 1296
+right
+go 1291
+go 9655
+go 1300
+left
+go 1291
+left
+go 796
+infect 1291
+go 8941
+right
+go 11446
+ifenemy 1317
+ifwall 9726
+ifsame 1311
+hop
+go 1306
+go 1315
+ifrandom 7679
+left
+go 1306
+right
+go 1306
+infect 1351
+go 1306
+right
+go 1306
+ifenemy 11772
+ifwall 12741
+ifsame 3936
+left
+go 1321
+go 1330
+go 9115
+left
+go 12481
+right
+go 13336
+infect 1321
+go 8746
+right
+go 1486
+ifenemy 9027
+ifwall 1341
+ifsame 1341
+hop
+go 1636
+go 1345
+go 4120
+left
+go 1336
+right
+go 12016
+infect 1336
+go 1336
+right
+go 1336
+ifenemy 8562
+ifwall 9906
+ifsame 1356
+hop
+go 7621
+go 3790
+ifrandom 1364
+left
+go 1351
+left
+go 9316
+infect 1351
+go 5881
+right
+go 1351
+ifenemy 1377
+ifwall 1371
+ifsame 1371
+right
+go 1366
+go 1375
+ifrandom 1379
+left
+go 1366
+left
+go 826
+infect 3331
+go 3376
+right
+go 11071
+ifenemy 12867
+ifwall 10011
+ifsame 12831
+right
+go 5791
+go 8560
+go 1390
+left
+go 5191
+left
+go 556
+infect 12001
+go 1381
+right
+go 8536
+ifenemy 9582
+ifwall 1401
+ifsame 441
+left
+go 1396
+go 1405
+ifrandom 9149
+left
+go 13336
+left
+go 1396
+infect 1396
+go 10996
+right
+go 1396
+ifenemy 4722
+ifwall 12666
+ifsame 5496
+right
+go 331
+go 1420
+go 1420
+left
+go 2701
+left
+go 11011
+infect 1411
+go 1411
+right
+go 1411
+ifenemy 1437
+ifwall 1431
+ifsame 1431
+hop
+go 2461
+go 805
+go 13390
+left
+go 1426
+right
+go 6301
+infect 1426
+go 1426
+right
+go 13186
+ifenemy 10197
+ifwall 1446
+ifsame 3906
+hop
+go 1441
+go 1450
+ifrandom 1454
+left
+go 8596
+right
+go 12916
+infect 3751
+go 7486
+right
+go 5416
+ifenemy 12702
+ifwall 8001
+ifsame 1461
+right
+go 9871
+go 2935
+go 1465
+left
+go 12061
+right
+go 1456
+infect 1456
+go 1456
+right
+go 1891
+ifenemy 9357
+ifwall 1476
+ifsame 1476
+left
+go 1471
+go 1480
+ifrandom 1484
+left
+go 9106
+left
+go 1471
+infect 1471
+go 6061
+right
+go 811
+ifenemy 1077
+ifwall 756
+ifsame 1491
+hop
+go 2176
+go 11575
+ifrandom 5684
+left
+go 13231
+left
+go 1486
+infect 5116
+go 181
+right
+go 1486
+ifenemy 1512
+ifwall 4701
+ifsame 2676
+hop
+go 1501
+go 6265
+ifrandom 1514
+left
+go 1501
+left
+go 1501
+infect 6391
+go 3676
+right
+go 11041
+ifenemy 6957
+ifwall 1521
+ifsame 1521
+hop
+go 3346
+go 1525
+go 1525
+left
+go 13261
+right
+go 4981
+infect 12346
+go 3826
+right
+go 1516
+ifenemy 11922
+ifwall 6516
+ifsame 12936
+left
+go 12241
+go 2020
+go 1540
+left
+go 9991
+left
+go 3811
+infect 5926
+go 7936
+right
+go 2896
+ifenemy 13332
+ifwall 1551
+ifsame 1551
+left
+go 8296
+go 10240
+ifrandom 7394
+left
+go 1756
+right
+go 8161
+infect 1546
+go 1546
+right
+go 12586
+ifenemy 1572
+ifwall 8841
+ifsame 3606
+right
+go 2626
+go 1570
+go 8410
+left
+go 9526
+right
+go 1351
+infect 9391
+go 3856
+right
+go 1561
+ifenemy 1587
+ifwall 13221
+ifsame 8661
+left
+go 7621
+go 1585
+go 12835
+left
+go 1036
+right
+go 1336
+infect 5761
+go 1576
+right
+go 6586
+ifenemy 1602
+ifwall 1596
+ifsame 3921
+right
+go 1591
+go 1600
+go 1600
+left
+go 1591
+right
+go 10276
+infect 1591
+go 11731
+right
+go 12601
+ifenemy 87
+ifwall 1611
+ifsame 1611
+right
+go 7291
+go 9595
+go 1615
+left
+go 1606
+right
+go 10456
+infect 1606
+go 1606
+right
+go 1606
+ifenemy 5922
+ifwall 12801
+ifsame 1626
+hop
+go 1621
+go 1630
+go 5185
+left
+go 1621
+right
+go 691
+infect 7351
+go 181
+right
+go 4471
+ifenemy 1647
+ifwall 1641
+ifsame 1641
+hop
+go 11581
+go 7000
+go 1645
+left
+go 5896
+left
+go 5581
+infect 4396
+go 2116
+right
+go 1636
+ifenemy 1662
+ifwall 1656
+ifsame 2526
+hop
+go 7726
+go 10810
+go 10135
+left
+go 11971
+right
+go 1651
+infect 11086
+go 1651
+right
+go 1651
+ifenemy 1467
+ifwall 636
+ifsame 5751
+left
+go 1666
+go 1675
+go 12850
+left
+go 7831
+right
+go 3691
+infect 1666
+go 1666
+right
+go 10966
+ifenemy 7287
+ifwall 1686
+ifsame 1686
+left
+go 1681
+go 1690
+go 1690
+left
+go 1681
+left
+go 1681
+infect 1681
+go 8701
+right
+go 1681
+ifenemy 1707
+ifwall 1701
+ifsame 1701
+hop
+go 2596
+go 1825
+go 1705
+left
+go 1696
+right
+go 1696
+infect 1696
+go 4891
+right
+go 1696
+ifenemy 10107
+ifwall 1716
+ifsame 5046
+left
+go 1711
+go 13075
+go 4495
+left
+go 1711
+left
+go 6481
+infect 1711
+go 12346
+right
+go 1711
+ifenemy 1737
+ifwall 11016
+ifsame 3231
+right
+go 1726
+go 5935
+ifrandom 2414
+left
+go 1726
+left
+go 5131
+infect 1726
+go 1726
+right
+go 1726
+ifenemy 1752
+ifwall 1746
+ifsame 9456
+hop
+go 9781
+go 1750
+go 1750
+left
+go 271
+right
+go 1741
+infect 12391
+go 3691
+right
+go 5956
+ifenemy 1767
+ifwall 531
+ifsame 1761
+right
+go 1756
+go 1765
+ifrandom 1769
+left
+go 1756
+right
+go 1756
+infect 1756
+go 1756
+right
+go 13261
+ifenemy 1782
+ifwall 1776
+ifsame 9666
+left
+go 1771
+go 1780
+ifrandom 5834
+left
+go 11641
+right
+go 1771
+infect 1771
+go 4186
+right
+go 11266
+ifenemy 1797
+ifwall 1791
+ifsame 1791
+left
+go 2881
+go 1795
+ifrandom 2174
+left
+go 1786
+right
+go 12766
+infect 7606
+go 1786
+right
+go 1786
+ifenemy 12192
+ifwall 1806
+ifsame 1806
+left
+go 1801
+go 8680
+ifrandom 1814
+left
+go 1801
+left
+go 5026
+infect 9526
+go 11851
+right
+go 11476
+ifenemy 6957
+ifwall 1821
+ifsame 1821
+left
+go 1816
+go 1825
+ifrandom 929
+left
+go 1816
+left
+go 4366
+infect 5866
+go 3406
+right
+go 3136
+ifenemy 1842
+ifwall 2121
+ifsame 1836
+left
+go 1831
+go 1840
+go 5260
+left
+go 6481
+right
+go 9451
+infect 1831
+go 1831
+right
+go 1831
+ifenemy 1857
+ifwall 1851
+ifsame 2046
+left
+go 11116
+go 1855
+ifrandom 6914
+left
+go 6376
+right
+go 691
+infect 9166
+go 4771
+right
+go 3631
+ifenemy 11352
+ifwall 5976
+ifsame 1866
+right
+go 886
+go 1870
+ifrandom 1874
+left
+go 12466
+right
+go 1861
+infect 8431
+go 1861
+right
+go 1861
+ifenemy 5427
+ifwall 1881
+ifsame 1881
+left
+go 1876
+go 12715
+ifrandom 3284
+left
+go 1876
+left
+go 13036
+infect 1876
+go 6781
+right
+go 1876
+ifenemy 2667
+ifwall 1896
+ifsame 1896
+left
+go 8686
+go 1210
+ifrandom 12599
+left
+go 1891
+left
+go 6151
+infect 4501
+go 1891
+right
+go 6301
+ifenemy 1917
+ifwall 12351
+ifsame 1911
+right
+go 1906
+go 8200
+go 1915
+left
+go 1906
+left
+go 1906
+infect 1906
+go 1906
+right
+go 1906
+ifenemy 1932
+ifwall 13326
+ifsame 1926
+left
+go 2626
+go 2380
+go 1930
+left
+go 10126
+left
+go 1306
+infect 1921
+go 7681
+right
+go 1921
+ifenemy 1947
+ifwall 12171
+ifsame 1941
+hop
+go 991
+go 1945
+ifrandom 12899
+left
+go 1936
+left
+go 7321
+infect 8326
+go 1936
+right
+go 4846
+ifenemy 1962
+ifwall 1956
+ifsame 4371
+hop
+go 1951
+go 4105
+ifrandom 569
+left
+go 6181
+right
+go 1951
+infect 6346
+go 1951
+right
+go 1951
+ifenemy 1977
+ifwall 1971
+ifsame 7791
+left
+go 1966
+go 1975
+go 1975
+left
+go 1966
+left
+go 1966
+infect 601
+go 13291
+right
+go 4726
+ifenemy 1992
+ifwall 5301
+ifsame 1986
+hop
+go 1981
+go 1990
+ifrandom 1994
+left
+go 1981
+right
+go 7951
+infect 11491
+go 1981
+right
+go 1981
+ifenemy 2007
+ifwall 12051
+ifsame 12846
+right
+go 1996
+go 2005
+ifrandom 2009
+left
+go 1996
+left
+go 3736
+infect 4021
+go 1996
+right
+go 1996
+ifenemy 11337
+ifwall 9096
+ifsame 4986
+left
+go 2011
+go 7405
+ifrandom 6299
+left
+go 2011
+left
+go 13171
+infect 12211
+go 2011
+right
+go 2011
+ifenemy 6222
+ifwall 8586
+ifsame 2031
+left
+go 3766
+go 4825
+go 7885
+left
+go 2026
+left
+go 8926
+infect 2026
+go 13246
+right
+go 2026
+ifenemy 3972
+ifwall 2046
+ifsame 2646
+left
+go 2041
+go 1645
+go 2050
+left
+go 9331
+left
+go 7396
+infect 2041
+go 2041
+right
+go 2041
+ifenemy 2067
+ifwall 141
+ifsame 2061
+left
+go 2056
+go 2065
+ifrandom 6329
+left
+go 2056
+left
+go 7456
+infect 2056
+go 2056
+right
+go 12706
+ifenemy 2082
+ifwall 2076
+ifsame 2076
+hop
+go 1966
+go 7480
+ifrandom 2084
+left
+go 2071
+right
+go 2071
+infect 2071
+go 8941
+right
+go 2071
+ifenemy 2097
+ifwall 2091
+ifsame 2091
+hop
+go 2086
+go 2095
+ifrandom 2099
+left
+go 2086
+left
+go 13231
+infect 9436
+go 2986
+right
+go 2086
+ifenemy 12852
+ifwall 4866
+ifsame 1416
+right
+go 2101
+go 4870
+go 10345
+left
+go 2101
+left
+go 391
+infect 2101
+go 2101
+right
+go 8911
+ifenemy 1407
+ifwall 2121
+ifsame 8166
+right
+go 4081
+go 9700
+ifrandom 2129
+left
+go 2116
+left
+go 2116
+infect 2371
+go 13126
+right
+go 10261
+ifenemy 6057
+ifwall 2136
+ifsame 1806
+hop
+go 2131
+go 400
+go 1135
+left
+go 2131
+right
+go 2131
+infect 2131
+go 3826
+right
+go 11251
+ifenemy 4602
+ifwall 1026
+ifsame 3051
+right
+go 5716
+go 6295
+ifrandom 2159
+left
+go 2146
+right
+go 2146
+infect 2431
+go 2146
+right
+go 2146
+ifenemy 2172
+ifwall 2166
+ifsame 7971
+left
+go 2911
+go 7810
+go 2170
+left
+go 7321
+right
+go 2161
+infect 2161
+go 11386
+right
+go 10381
+ifenemy 2187
+ifwall 7626
+ifsame 2181
+left
+go 2176
+go 2185
+ifrandom 2189
+left
+go 5551
+left
+go 4936
+infect 2176
+go 10771
+right
+go 6961
+ifenemy 2202
+ifwall 8601
+ifsame 2196
+hop
+go 3421
+go 3910
+ifrandom 2204
+left
+go 2191
+right
+go 7366
+infect 5716
+go 5836
+right
+go 4711
+ifenemy 3147
+ifwall 2211
+ifsame 13386
+right
+go 4681
+go 2215
+ifrandom 5999
+left
+go 2206
+left
+go 11296
+infect 1561
+go 2206
+right
+go 4726
+ifenemy 10137
+ifwall 9531
+ifsame 9186
+hop
+go 2221
+go 805
+ifrandom 2234
+left
+go 2221
+left
+go 12736
+infect 2221
+go 2221
+right
+go 1921
+ifenemy 12882
+ifwall 2241
+ifsame 2241
+hop
+go 151
+go 2245
+go 2245
+left
+go 2236
+left
+go 2236
+infect 2236
+go 2236
+right
+go 2236
+ifenemy 6882
+ifwall 2256
+ifsame 5616
+left
+go 11986
+go 2260
+go 2395
+left
+go 9691
+left
+go 4126
+infect 4846
+go 9316
+right
+go 11866
+ifenemy 927
+ifwall 816
+ifsame 2271
+right
+go 11626
+go 2275
+ifrandom 3914
+left
+go 2266
+right
+go 12361
+infect 2266
+go 6016
+right
+go 7096
+ifenemy 2292
+ifwall 2286
+ifsame 2286
+left
+go 2281
+go 4375
+go 2290
+left
+go 6676
+right
+go 2281
+infect 2026
+go 8626
+right
+go 2281
+ifenemy 57
+ifwall 2301
+ifsame 2571
+right
+go 9721
+go 2305
+ifrandom 2309
+left
+go 2296
+right
+go 12616
+infect 9646
+go 4456
+right
+go 2296
+ifenemy 2322
+ifwall 12711
+ifsame 2316
+right
+go 12691
+go 3820
+ifrandom 2324
+left
+go 3931
+right
+go 2311
+infect 2311
+go 2311
+right
+go 6436
+ifenemy 657
+ifwall 2331
+ifsame 10476
+right
+go 2326
+go 2335
+go 11380
+left
+go 2326
+right
+go 2326
+infect 2326
+go 9271
+right
+go 1891
+ifenemy 9102
+ifwall 6006
+ifsame 3096
+hop
+go 1246
+go 10600
+ifrandom 7574
+left
+go 7546
+left
+go 2341
+infect 9331
+go 751
+right
+go 9196
+ifenemy 2367
+ifwall 2361
+ifsame 12381
+left
+go 2281
+go 2365
+ifrandom 2369
+left
+go 2356
+right
+go 12406
+infect 4606
+go 2356
+right
+go 7636
+ifenemy 10887
+ifwall 2376
+ifsame 2916
+right
+go 1441
+go 2380
+go 2380
+left
+go 2371
+left
+go 2371
+infect 2371
+go 10696
+right
+go 2371
+ifenemy 7272
+ifwall 2391
+ifsame 10761
+hop
+go 6016
+go 1375
+go 2395
+left
+go 2386
+right
+go 2386
+infect 3301
+go 9376
+right
+go 4876
+ifenemy 11502
+ifwall 2406
+ifsame 10581
+hop
+go 2401
+go 8575
+go 12580
+left
+go 11926
+right
+go 10201
+infect 2401
+go 2401
+right
+go 13291
+ifenemy 2427
+ifwall 2421
+ifsame 1041
+right
+go 3286
+go 2425
+go 2425
+left
+go 2416
+right
+go 2416
+infect 5026
+go 2416
+right
+go 9751
+ifenemy 2442
+ifwall 2436
+ifsame 12411
+right
+go 1321
+go 7195
+go 2440
+left
+go 2431
+right
+go 8506
+infect 5746
+go 121
+right
+go 2431
+ifenemy 2457
+ifwall 6771
+ifsame 2451
+right
+go 2446
+go 8410
+go 2455
+left
+go 2986
+left
+go 8296
+infect 11626
+go 10711
+right
+go 511
+ifenemy 4902
+ifwall 5946
+ifsame 2466
+hop
+go 2461
+go 4780
+ifrandom 2654
+left
+go 2461
+left
+go 2461
+infect 496
+go 2461
+right
+go 2461
+ifenemy 2487
+ifwall 3471
+ifsame 5166
+left
+go 2476
+go 2485
+ifrandom 2489
+left
+go 10726
+right
+go 4996
+infect 2476
+go 2476
+right
+go 856
+ifenemy 9747
+ifwall 6171
+ifsame 2496
+hop
+go 11626
+go 2500
+ifrandom 2504
+left
+go 2491
+right
+go 2491
+infect 2491
+go 2491
+right
+go 6316
+ifenemy 2517
+ifwall 2511
+ifsame 2511
+right
+go 2506
+go 2515
+ifrandom 2519
+left
+go 2506
+right
+go 2506
+infect 11446
+go 2506
+right
+go 2506
+ifenemy 2532
+ifwall 2301
+ifsame 2526
+right
+go 2521
+go 2530
+ifrandom 2534
+left
+go 2521
+left
+go 11041
+infect 2521
+go 751
+right
+go 2521
+ifenemy 2547
+ifwall 8391
+ifsame 2541
+right
+go 2536
+go 2545
+ifrandom 7604
+left
+go 4771
+right
+go 2536
+infect 2536
+go 4306
+right
+go 2536
+ifenemy 6567
+ifwall 2556
+ifsame 2556
+left
+go 9181
+go 2560
+ifrandom 2564
+left
+go 2551
+right
+go 12526
+infect 2551
+go 2551
+right
+go 5311
+ifenemy 2577
+ifwall 2571
+ifsame 2571
+left
+go 4801
+go 7435
+ifrandom 2579
+left
+go 4216
+left
+go 10846
+infect 2566
+go 2566
+right
+go 7081
+ifenemy 8982
+ifwall 2586
+ifsame 7686
+hop
+go 2581
+go 475
+go 2590
+left
+go 6586
+right
+go 2581
+infect 2581
+go 6556
+right
+go 5506
+ifenemy 3327
+ifwall 2601
+ifsame 2601
+left
+go 11431
+go 11440
+go 2605
+left
+go 2596
+left
+go 9196
+infect 11686
+go 2596
+right
+go 2596
+ifenemy 2622
+ifwall 2616
+ifsame 2616
+left
+go 5941
+go 2155
+go 2620
+left
+go 2536
+left
+go 2611
+infect 2611
+go 2611
+right
+go 2611
+ifenemy 7272
+ifwall 2631
+ifsame 10146
+hop
+go 2626
+go 9895
+go 11830
+left
+go 8686
+left
+go 5581
+infect 5461
+go 1861
+right
+go 6211
+ifenemy 12252
+ifwall 2646
+ifsame 8841
+right
+go 541
+go 2650
+ifrandom 2654
+left
+go 8251
+right
+go 2641
+infect 2641
+go 2641
+right
+go 6616
+ifenemy 2667
+ifwall 7971
+ifsame 2661
+left
+go 5506
+go 8140
+go 2665
+left
+go 2656
+right
+go 5146
+infect 7516
+go 3256
+right
+go 2656
+ifenemy 8757
+ifwall 13176
+ifsame 7491
+hop
+go 2671
+go 2680
+ifrandom 2684
+left
+go 2671
+left
+go 8491
+infect 3601
+go 6856
+right
+go 2671
+ifenemy 2847
+ifwall 7236
+ifsame 2691
+right
+go 8956
+go 2695
+go 9925
+left
+go 2686
+left
+go 2686
+infect 2041
+go 5986
+right
+go 2341
+ifenemy 2712
+ifwall 2706
+ifsame 2706
+left
+go 2701
+go 1105
+go 2710
+left
+go 2701
+left
+go 2701
+infect 1156
+go 6616
+right
+go 2701
+ifenemy 2727
+ifwall 2721
+ifsame 13176
+left
+go 5596
+go 2725
+go 2890
+left
+go 1501
+right
+go 3886
+infect 10336
+go 2716
+right
+go 2716
+ifenemy 2682
+ifwall 3021
+ifsame 9021
+hop
+go 11461
+go 4510
+ifrandom 2744
+left
+go 2731
+right
+go 10006
+infect 2731
+go 3436
+right
+go 6586
+ifenemy 10782
+ifwall 2751
+ifsame 2751
+hop
+go 2746
+go 2755
+go 7540
+left
+go 1321
+right
+go 2746
+infect 11206
+go 2746
+right
+go 10561
+ifenemy 2772
+ifwall 636
+ifsame 2766
+hop
+go 2761
+go 2770
+go 205
+left
+go 11101
+right
+go 5431
+infect 2761
+go 4801
+right
+go 5536
+ifenemy 2787
+ifwall 2781
+ifsame 4896
+right
+go 6811
+go 3565
+ifrandom 2789
+left
+go 2776
+right
+go 3796
+infect 9196
+go 11911
+right
+go 2776
+ifenemy 8082
+ifwall 12831
+ifsame 771
+hop
+go 4681
+go 2800
+go 2800
+left
+go 2791
+right
+go 3931
+infect 5176
+go 2791
+right
+go 4681
+ifenemy 2817
+ifwall 8586
+ifsame 13341
+hop
+go 9091
+go 13150
+ifrandom 11714
+left
+go 6106
+left
+go 12676
+infect 13231
+go 2806
+right
+go 721
+ifenemy 2832
+ifwall 6666
+ifsame 11241
+hop
+go 2821
+go 2830
+go 9550
+left
+go 2821
+left
+go 2821
+infect 8026
+go 9466
+right
+go 2821
+ifenemy 2847
+ifwall 9411
+ifsame 5361
+hop
+go 2836
+go 2845
+ifrandom 2849
+left
+go 2836
+right
+go 12466
+infect 2836
+go 496
+right
+go 5056
+ifenemy 2862
+ifwall 2856
+ifsame 8961
+hop
+go 10006
+go 2860
+go 2860
+left
+go 2851
+right
+go 9091
+infect 2851
+go 2851
+right
+go 2851
+ifenemy 9822
+ifwall 7386
+ifsame 2871
+hop
+go 2866
+go 9040
+go 2875
+left
+go 5926
+left
+go 12061
+infect 2866
+go 7501
+right
+go 2866
+ifenemy 2892
+ifwall 2886
+ifsame 9006
+hop
+go 4126
+go 2890
+ifrandom 10049
+left
+go 2881
+left
+go 2881
+infect 2881
+go 2881
+right
+go 2881
+ifenemy 2907
+ifwall 2901
+ifsame 10566
+left
+go 76
+go 2905
+ifrandom 5564
+left
+go 2896
+left
+go 2896
+infect 2896
+go 12721
+right
+go 8581
+ifenemy 2922
+ifwall 2916
+ifsame 2916
+left
+go 11821
+go 2920
+ifrandom 2924
+left
+go 2911
+left
+go 6346
+infect 2911
+go 2911
+right
+go 6031
+ifenemy 2277
+ifwall 2931
+ifsame 2931
+hop
+go 13396
+go 2935
+ifrandom 11129
+left
+go 8236
+left
+go 2926
+infect 2926
+go 2926
+right
+go 2881
+ifenemy 6567
+ifwall 2946
+ifsame 2946
+right
+go 12076
+go 11020
+go 2950
+left
+go 10006
+right
+go 11701
+infect 2941
+go 2941
+right
+go 3031
+ifenemy 2967
+ifwall 2961
+ifsame 12456
+right
+go 2956
+go 6520
+ifrandom 6389
+left
+go 2956
+left
+go 2956
+infect 2956
+go 2956
+right
+go 10711
+ifenemy 9207
+ifwall 306
+ifsame 5541
+left
+go 2971
+go 2980
+ifrandom 4814
+left
+go 9031
+right
+go 2971
+infect 2971
+go 2971
+right
+go 5551
+ifenemy 6732
+ifwall 11811
+ifsame 2991
+hop
+go 2986
+go 2995
+ifrandom 7019
+left
+go 2986
+right
+go 2986
+infect 10381
+go 5821
+right
+go 2986
+ifenemy 3012
+ifwall 3006
+ifsame 7086
+hop
+go 3001
+go 3010
+ifrandom 899
+left
+go 7516
+left
+go 5431
+infect 3001
+go 3001
+right
+go 811
+ifenemy 4932
+ifwall 3366
+ifsame 2826
+left
+go 5041
+go 10855
+ifrandom 2534
+left
+go 3016
+right
+go 3016
+infect 6286
+go 3016
+right
+go 3016
+ifenemy 3042
+ifwall 11736
+ifsame 3036
+left
+go 3031
+go 3040
+ifrandom 3044
+left
+go 3031
+right
+go 6601
+infect 3061
+go 3601
+right
+go 3031
+ifenemy 3057
+ifwall 3051
+ifsame 12441
+left
+go 3046
+go 3055
+ifrandom 3059
+left
+go 6706
+left
+go 13051
+infect 2746
+go 3046
+right
+go 4456
+ifenemy 9477
+ifwall 5001
+ifsame 6111
+hop
+go 13036
+go 3070
+go 10870
+left
+go 11206
+left
+go 4696
+infect 3061
+go 6481
+right
+go 6286
+ifenemy 3087
+ifwall 4656
+ifsame 8556
+right
+go 706
+go 9670
+ifrandom 3089
+left
+go 3076
+right
+go 3076
+infect 3076
+go 7441
+right
+go 3076
+ifenemy 3102
+ifwall 5616
+ifsame 3096
+right
+go 3091
+go 8305
+ifrandom 10424
+left
+go 3091
+left
+go 1126
+infect 3091
+go 4651
+right
+go 4396
+ifenemy 10257
+ifwall 4641
+ifsame 2751
+left
+go 3106
+go 5080
+go 3115
+left
+go 196
+left
+go 3106
+infect 3106
+go 6241
+right
+go 7036
+ifenemy 1902
+ifwall 3126
+ifsame 3126
+left
+go 3121
+go 1765
+go 9745
+left
+go 3121
+right
+go 4351
+infect 4336
+go 3121
+right
+go 8806
+ifenemy 3147
+ifwall 5931
+ifsame 8241
+hop
+go 3136
+go 3145
+ifrandom 11969
+left
+go 3136
+right
+go 3136
+infect 3136
+go 3136
+right
+go 2221
+ifenemy 13077
+ifwall 3156
+ifsame 3156
+hop
+go 10996
+go 3160
+go 3160
+left
+go 3151
+right
+go 10966
+infect 4546
+go 1696
+right
+go 9286
+ifenemy 13077
+ifwall 6966
+ifsame 12801
+hop
+go 9436
+go 5065
+go 3175
+left
+go 12286
+right
+go 1981
+infect 6796
+go 1756
+right
+go 3166
+ifenemy 3192
+ifwall 4701
+ifsame 5886
+left
+go 9511
+go 1645
+ifrandom 3479
+left
+go 6871
+left
+go 3181
+infect 3181
+go 8716
+right
+go 3181
+ifenemy 2442
+ifwall 9096
+ifsame 3201
+left
+go 3196
+go 3205
+go 4450
+left
+go 3196
+right
+go 3196
+infect 9241
+go 3076
+right
+go 3196
+ifenemy 4257
+ifwall 36
+ifsame 3216
+hop
+go 3211
+go 11560
+ifrandom 3224
+left
+go 1786
+left
+go 10261
+infect 3301
+go 8986
+right
+go 2296
+ifenemy 1287
+ifwall 3231
+ifsame 8241
+hop
+go 601
+go 5845
+ifrandom 3239
+left
+go 8761
+left
+go 7966
+infect 6766
+go 5356
+right
+go 12856
+ifenemy 1212
+ifwall 3246
+ifsame 8586
+left
+go 2221
+go 3250
+ifrandom 6209
+left
+go 3241
+right
+go 12556
+infect 3241
+go 3241
+right
+go 5311
+ifenemy 3267
+ifwall 3261
+ifsame 9096
+left
+go 2611
+go 3265
+go 4180
+left
+go 3256
+left
+go 3256
+infect 226
+go 7816
+right
+go 7006
+ifenemy 9927
+ifwall 3276
+ifsame 3276
+left
+go 3271
+go 11290
+ifrandom 3284
+left
+go 3271
+right
+go 4726
+infect 691
+go 4351
+right
+go 1
+ifenemy 3297
+ifwall 3291
+ifsame 3291
+left
+go 8431
+go 3295
+ifrandom 8279
+left
+go 3286
+right
+go 46
+infect 3286
+go 1426
+right
+go 3286
+ifenemy 3312
+ifwall 3306
+ifsame 10701
+hop
+go 4546
+go 4360
+go 3610
+left
+go 1951
+left
+go 11881
+infect 3301
+go 3301
+right
+go 1216
+ifenemy 252
+ifwall 306
+ifsame 3321
+left
+go 3316
+go 12625
+go 3865
+left
+go 3316
+left
+go 4786
+infect 3316
+go 4921
+right
+go 3316
+ifenemy 3342
+ifwall 11646
+ifsame 966
+left
+go 5041
+go 2905
+go 6805
+left
+go 3331
+right
+go 3331
+infect 316
+go 3331
+right
+go 3331
+ifenemy 3357
+ifwall 3351
+ifsame 8586
+right
+go 916
+go 3355
+go 3355
+left
+go 661
+left
+go 1231
+infect 3346
+go 3346
+right
+go 4996
+ifenemy 4197
+ifwall 2091
+ifsame 2601
+right
+go 3361
+go 4405
+ifrandom 3374
+left
+go 3361
+left
+go 3361
+infect 3361
+go 3361
+right
+go 3361
+ifenemy 3387
+ifwall 12351
+ifsame 576
+left
+go 1306
+go 3385
+ifrandom 3389
+left
+go 12361
+left
+go 7261
+infect 3376
+go 3376
+right
+go 9976
+ifenemy 7092
+ifwall 3396
+ifsame 12951
+left
+go 3391
+go 3400
+go 5320
+left
+go 3391
+right
+go 3391
+infect 3391
+go 5731
+right
+go 4381
+ifenemy 402
+ifwall 3636
+ifsame 1476
+left
+go 3406
+go 8815
+ifrandom 3419
+left
+go 11746
+left
+go 3406
+infect 3406
+go 8401
+right
+go 13291
+ifenemy 3432
+ifwall 9441
+ifsame 3426
+right
+go 3421
+go 5920
+ifrandom 6704
+left
+go 8161
+right
+go 3421
+infect 3421
+go 6541
+right
+go 11116
+ifenemy 11952
+ifwall 8736
+ifsame 4791
+hop
+go 10741
+go 580
+go 8080
+left
+go 3436
+right
+go 3436
+infect 13396
+go 3436
+right
+go 3436
+ifenemy 3462
+ifwall 9336
+ifsame 11991
+hop
+go 1201
+go 5050
+ifrandom 3464
+left
+go 3451
+right
+go 541
+infect 10621
+go 3451
+right
+go 9316
+ifenemy 10107
+ifwall 12966
+ifsame 3471
+right
+go 4516
+go 3475
+go 3475
+left
+go 1756
+right
+go 3466
+infect 10711
+go 8446
+right
+go 3466
+ifenemy 3492
+ifwall 3651
+ifsame 996
+right
+go 7231
+go 11260
+ifrandom 2804
+left
+go 226
+right
+go 3481
+infect 3481
+go 3481
+right
+go 5776
+ifenemy 3372
+ifwall 3501
+ifsame 156
+hop
+go 3496
+go 4180
+ifrandom 5969
+left
+go 3496
+right
+go 6466
+infect 5191
+go 3496
+right
+go 12901
+ifenemy 12312
+ifwall 876
+ifsame 3516
+hop
+go 3511
+go 3520
+ifrandom 10739
+left
+go 3511
+right
+go 5626
+infect 11731
+go 4771
+right
+go 3511
+ifenemy 3537
+ifwall 3531
+ifsame 3531
+left
+go 9391
+go 3535
+ifrandom 8969
+left
+go 3526
+right
+go 841
+infect 3526
+go 1171
+right
+go 8011
+ifenemy 3552
+ifwall 3546
+ifsame 3546
+hop
+go 3541
+go 4045
+ifrandom 2579
+left
+go 11281
+right
+go 3541
+infect 9691
+go 3541
+right
+go 3541
+ifenemy 3567
+ifwall 3561
+ifsame 3561
+hop
+go 3556
+go 5230
+go 3565
+left
+go 5911
+right
+go 3181
+infect 3556
+go 3556
+right
+go 3556
+ifenemy 4962
+ifwall 3576
+ifsame 3576
+right
+go 3571
+go 10795
+go 3580
+left
+go 3436
+left
+go 3571
+infect 7921
+go 13231
+right
+go 3571
+ifenemy 8067
+ifwall 3591
+ifsame 4026
+right
+go 3586
+go 12715
+go 3340
+left
+go 10906
+left
+go 5011
+infect 3586
+go 8296
+right
+go 9391
+ifenemy 6537
+ifwall 3606
+ifsame 9426
+right
+go 10591
+go 505
+go 460
+left
+go 6931
+left
+go 3601
+infect 3601
+go 3601
+right
+go 3601
+ifenemy 7017
+ifwall 10431
+ifsame 3621
+left
+go 7366
+go 3625
+ifrandom 13349
+left
+go 376
+left
+go 8056
+infect 3616
+go 3616
+right
+go 3616
+ifenemy 11592
+ifwall 3636
+ifsame 3636
+hop
+go 11536
+go 3640
+go 3640
+left
+go 3631
+right
+go 3631
+infect 6316
+go 1006
+right
+go 3631
+ifenemy 7917
+ifwall 12351
+ifsame 8301
+hop
+go 301
+go 3655
+go 3655
+left
+go 3646
+right
+go 3646
+infect 4111
+go 3646
+right
+go 12211
+ifenemy 9447
+ifwall 3666
+ifsame 11886
+right
+go 4111
+go 3670
+go 9265
+left
+go 2191
+right
+go 586
+infect 3661
+go 8086
+right
+go 3661
+ifenemy 10167
+ifwall 6156
+ifsame 3681
+left
+go 766
+go 3685
+ifrandom 3689
+left
+go 6106
+left
+go 6301
+infect 10201
+go 3676
+right
+go 7846
+ifenemy 9012
+ifwall 7551
+ifsame 3696
+left
+go 13261
+go 3700
+ifrandom 1469
+left
+go 9451
+right
+go 3691
+infect 8251
+go 9721
+right
+go 3691
+ifenemy 12912
+ifwall 1476
+ifsame 7941
+right
+go 9496
+go 4690
+go 3715
+left
+go 13381
+right
+go 3706
+infect 3706
+go 7441
+right
+go 3706
+ifenemy 3732
+ifwall 3726
+ifsame 3726
+right
+go 3721
+go 3730
+ifrandom 899
+left
+go 3721
+left
+go 7501
+infect 3721
+go 3211
+right
+go 4741
+ifenemy 3747
+ifwall 3741
+ifsame 3741
+hop
+go 4231
+go 3745
+go 3745
+left
+go 3736
+left
+go 3736
+infect 11191
+go 3736
+right
+go 3736
+ifenemy 4662
+ifwall 921
+ifsame 666
+right
+go 3751
+go 3760
+ifrandom 3764
+left
+go 4726
+left
+go 8581
+infect 10606
+go 11086
+right
+go 11146
+ifenemy 3777
+ifwall 9651
+ifsame 3771
+right
+go 5881
+go 5815
+ifrandom 10154
+left
+go 3766
+right
+go 3766
+infect 3436
+go 5341
+right
+go 3766
+ifenemy 11952
+ifwall 3786
+ifsame 3786
+right
+go 3781
+go 7600
+ifrandom 3794
+left
+go 3781
+left
+go 1816
+infect 7891
+go 3781
+right
+go 6976
+ifenemy 8172
+ifwall 3801
+ifsame 6261
+right
+go 3796
+go 190
+ifrandom 3809
+left
+go 1126
+right
+go 3796
+infect 1141
+go 4486
+right
+go 3796
+ifenemy 8877
+ifwall 7116
+ifsame 141
+left
+go 3811
+go 3820
+ifrandom 2234
+left
+go 346
+left
+go 6991
+infect 3811
+go 886
+right
+go 2161
+ifenemy 3282
+ifwall 7056
+ifsame 10086
+left
+go 4381
+go 3835
+ifrandom 3839
+left
+go 3826
+right
+go 991
+infect 2926
+go 3826
+right
+go 3826
+ifenemy 5457
+ifwall 10671
+ifsame 3846
+right
+go 3841
+go 3850
+go 7000
+left
+go 4891
+right
+go 3841
+infect 12286
+go 3841
+right
+go 3841
+ifenemy 3867
+ifwall 3861
+ifsame 3861
+left
+go 1756
+go 4465
+go 1585
+left
+go 106
+right
+go 3856
+infect 6166
+go 10051
+right
+go 3706
+ifenemy 11787
+ifwall 5751
+ifsame 2886
+hop
+go 8821
+go 3880
+ifrandom 3884
+left
+go 9886
+left
+go 2761
+infect 3871
+go 3871
+right
+go 4651
+ifenemy 3447
+ifwall 11286
+ifsame 3891
+right
+go 3886
+go 1225
+go 3895
+left
+go 3886
+right
+go 12916
+infect 3886
+go 796
+right
+go 3886
+ifenemy 9717
+ifwall 9171
+ifsame 5751
+hop
+go 3901
+go 3910
+go 5875
+left
+go 3691
+right
+go 3901
+infect 3901
+go 436
+right
+go 3901
+ifenemy 5217
+ifwall 11691
+ifsame 6231
+hop
+go 3916
+go 715
+go 2245
+left
+go 9031
+right
+go 3916
+infect 3916
+go 3916
+right
+go 12496
+ifenemy 10317
+ifwall 276
+ifsame 4461
+right
+go 3931
+go 10570
+ifrandom 3944
+left
+go 3931
+left
+go 3931
+infect 3931
+go 9766
+right
+go 6076
+ifenemy 11037
+ifwall 3951
+ifsame 5826
+hop
+go 3946
+go 3955
+go 3955
+left
+go 6016
+right
+go 3946
+infect 6721
+go 3946
+right
+go 7576
+ifenemy 3972
+ifwall 5781
+ifsame 3966
+right
+go 3961
+go 6430
+go 5200
+left
+go 3961
+right
+go 3961
+infect 3751
+go 3961
+right
+go 10846
+ifenemy 3987
+ifwall 4566
+ifsame 8406
+right
+go 3976
+go 3985
+ifrandom 3989
+left
+go 3976
+left
+go 3976
+infect 2761
+go 3976
+right
+go 6241
+ifenemy 4002
+ifwall 3996
+ifsame 10011
+hop
+go 8236
+go 3055
+go 2890
+left
+go 2266
+left
+go 7516
+infect 3991
+go 3991
+right
+go 3991
+ifenemy 4017
+ifwall 9216
+ifsame 486
+hop
+go 4006
+go 8575
+go 6565
+left
+go 4516
+right
+go 4006
+infect 4006
+go 4006
+right
+go 11536
+ifenemy 13347
+ifwall 5631
+ifsame 4026
+left
+go 4021
+go 4030
+go 4030
+left
+go 9481
+right
+go 5206
+infect 4021
+go 4021
+right
+go 3931
+ifenemy 8667
+ifwall 4041
+ifsame 2046
+hop
+go 11011
+go 7510
+go 5215
+left
+go 4036
+right
+go 4036
+infect 7081
+go 4036
+right
+go 12871
+ifenemy 5157
+ifwall 13191
+ifsame 4056
+hop
+go 11566
+go 12580
+go 700
+left
+go 1786
+left
+go 5956
+infect 4051
+go 2971
+right
+go 1396
+ifenemy 4077
+ifwall 10071
+ifsame 4071
+left
+go 4066
+go 4075
+ifrandom 4079
+left
+go 4066
+left
+go 4066
+infect 7021
+go 11791
+right
+go 4066
+ifenemy 4092
+ifwall 11301
+ifsame 2016
+right
+go 511
+go 3835
+go 10930
+left
+go 4981
+right
+go 3196
+infect 2866
+go 4081
+right
+go 4081
+ifenemy 4977
+ifwall 2331
+ifsame 5061
+right
+go 886
+go 5170
+go 10615
+left
+go 406
+right
+go 11326
+infect 4096
+go 10486
+right
+go 12886
+ifenemy 2892
+ifwall 12561
+ifsame 4116
+right
+go 4111
+go 4120
+go 4120
+left
+go 4111
+right
+go 4111
+infect 7966
+go 4111
+right
+go 4111
+ifenemy 4137
+ifwall 5121
+ifsame 8256
+left
+go 4126
+go 11005
+ifrandom 4139
+left
+go 31
+left
+go 11236
+infect 2071
+go 2056
+right
+go 4126
+ifenemy 12972
+ifwall 4146
+ifsame 6756
+right
+go 3241
+go 4150
+ifrandom 1409
+left
+go 10966
+left
+go 2116
+infect 10711
+go 4681
+right
+go 4141
+ifenemy 4167
+ifwall 6591
+ifsame 21
+right
+go 9406
+go 4165
+ifrandom 4169
+left
+go 4156
+right
+go 1066
+infect 4156
+go 4156
+right
+go 4156
+ifenemy 4182
+ifwall 4176
+ifsame 4176
+right
+go 7606
+go 5275
+go 11020
+left
+go 10786
+right
+go 7351
+infect 4171
+go 13171
+right
+go 4171
+ifenemy 5982
+ifwall 7086
+ifsame 4191
+hop
+go 4186
+go 4195
+ifrandom 4199
+left
+go 4186
+left
+go 4186
+infect 10201
+go 5521
+right
+go 2536
+ifenemy 4212
+ifwall 12231
+ifsame 4206
+right
+go 4201
+go 10930
+ifrandom 4214
+left
+go 4201
+left
+go 4201
+infect 13006
+go 4441
+right
+go 12496
+ifenemy 4377
+ifwall 4221
+ifsame 6651
+left
+go 8311
+go 4225
+go 955
+left
+go 4216
+right
+go 4216
+infect 2566
+go 12556
+right
+go 7276
+ifenemy 8292
+ifwall 4236
+ifsame 4236
+right
+go 6961
+go 8080
+ifrandom 1004
+left
+go 13291
+left
+go 4231
+infect 4231
+go 4231
+right
+go 4231
+ifenemy 4257
+ifwall 10866
+ifsame 4251
+hop
+go 661
+go 4255
+go 4255
+left
+go 4246
+left
+go 4246
+infect 4246
+go 8791
+right
+go 3496
+ifenemy 4272
+ifwall 4266
+ifsame 4266
+right
+go 4261
+go 12040
+go 2380
+left
+go 3316
+left
+go 4261
+infect 10141
+go 12076
+right
+go 4261
+ifenemy 4287
+ifwall 4281
+ifsame 4281
+hop
+go 7201
+go 4285
+ifrandom 4289
+left
+go 11611
+right
+go 4276
+infect 4276
+go 4276
+right
+go 4276
+ifenemy 4302
+ifwall 11766
+ifsame 4296
+hop
+go 5236
+go 2950
+go 4300
+left
+go 3811
+right
+go 4291
+infect 13231
+go 11476
+right
+go 4291
+ifenemy 12492
+ifwall 4311
+ifsame 4311
+left
+go 4651
+go 8200
+go 4315
+left
+go 4306
+left
+go 331
+infect 4306
+go 9226
+right
+go 4306
+ifenemy 11637
+ifwall 2766
+ifsame 351
+left
+go 10021
+go 4330
+ifrandom 4334
+left
+go 4321
+right
+go 11176
+infect 4321
+go 13351
+right
+go 8506
+ifenemy 8952
+ifwall 4341
+ifsame 2811
+hop
+go 13336
+go 4345
+go 640
+left
+go 7831
+left
+go 4336
+infect 4336
+go 4336
+right
+go 4336
+ifenemy 1602
+ifwall 4356
+ifsame 4356
+right
+go 4351
+go 1870
+go 8470
+left
+go 4351
+left
+go 4351
+infect 4351
+go 4351
+right
+go 7111
+ifenemy 4377
+ifwall 4371
+ifsame 4371
+hop
+go 4366
+go 4375
+ifrandom 1349
+left
+go 4366
+left
+go 10921
+infect 4366
+go 5821
+right
+go 4366
+ifenemy 4392
+ifwall 5811
+ifsame 4386
+left
+go 4381
+go 4390
+ifrandom 11024
+left
+go 4381
+right
+go 4381
+infect 4381
+go 1261
+right
+go 4381
+ifenemy 87
+ifwall 4521
+ifsame 4401
+left
+go 4396
+go 5095
+ifrandom 4409
+left
+go 12301
+right
+go 4396
+infect 4396
+go 4396
+right
+go 4396
+ifenemy 4422
+ifwall 4416
+ifsame 4416
+left
+go 9661
+go 4420
+ifrandom 4424
+left
+go 4411
+right
+go 4411
+infect 4411
+go 4411
+right
+go 2131
+ifenemy 4437
+ifwall 4431
+ifsame 4431
+hop
+go 7846
+go 11875
+go 4435
+left
+go 8371
+right
+go 6046
+infect 8971
+go 586
+right
+go 10141
+ifenemy 11217
+ifwall 6306
+ifsame 4446
+left
+go 10546
+go 4450
+go 6340
+left
+go 5986
+left
+go 12136
+infect 4441
+go 4441
+right
+go 11041
+ifenemy 4467
+ifwall 12801
+ifsame 6126
+right
+go 12421
+go 1060
+go 11740
+left
+go 8266
+right
+go 11446
+infect 4456
+go 4456
+right
+go 4456
+ifenemy 11787
+ifwall 4476
+ifsame 4566
+right
+go 7351
+go 220
+go 4480
+left
+go 4471
+left
+go 6061
+infect 8176
+go 4471
+right
+go 9751
+ifenemy 12507
+ifwall 4491
+ifsame 4491
+left
+go 10426
+go 4495
+go 4495
+left
+go 4486
+left
+go 4831
+infect 5446
+go 4486
+right
+go 5011
+ifenemy 4512
+ifwall 10686
+ifsame 2481
+right
+go 4501
+go 4510
+ifrandom 4514
+left
+go 4501
+right
+go 4501
+infect 466
+go 4501
+right
+go 3016
+ifenemy 4527
+ifwall 4521
+ifsame 1656
+hop
+go 6466
+go 4525
+ifrandom 4529
+left
+go 4516
+right
+go 2056
+infect 4516
+go 4516
+right
+go 8206
+ifenemy 3552
+ifwall 4536
+ifsame 8511
+right
+go 1
+go 4540
+ifrandom 6014
+left
+go 4531
+left
+go 4531
+infect 4531
+go 12946
+right
+go 5536
+ifenemy 7737
+ifwall 2991
+ifsame 8196
+right
+go 4546
+go 4930
+go 11275
+left
+go 4546
+right
+go 4546
+infect 12376
+go 12136
+right
+go 4546
+ifenemy 9477
+ifwall 4566
+ifsame 4566
+left
+go 4561
+go 10750
+ifrandom 2999
+left
+go 5476
+left
+go 3946
+infect 5896
+go 2821
+right
+go 4561
+ifenemy 9867
+ifwall 5211
+ifsame 4581
+left
+go 11371
+go 4585
+ifrandom 1304
+left
+go 4726
+left
+go 12106
+infect 3031
+go 9931
+right
+go 4576
+ifenemy 4002
+ifwall 7731
+ifsame 4011
+right
+go 361
+go 4600
+ifrandom 4604
+left
+go 4591
+left
+go 4591
+infect 13291
+go 4591
+right
+go 3946
+ifenemy 11187
+ifwall 8691
+ifsame 1341
+left
+go 4606
+go 4615
+go 4615
+left
+go 4606
+right
+go 4606
+infect 7651
+go 4606
+right
+go 4606
+ifenemy 5427
+ifwall 2961
+ifsame 1446
+left
+go 9646
+go 385
+ifrandom 7574
+left
+go 4621
+right
+go 4621
+infect 4621
+go 4621
+right
+go 4621
+ifenemy 9597
+ifwall 2241
+ifsame 11601
+hop
+go 3451
+go 6220
+go 4645
+left
+go 8386
+right
+go 4636
+infect 4636
+go 4636
+right
+go 4636
+ifenemy 6717
+ifwall 4656
+ifsame 13041
+right
+go 4051
+go 12895
+ifrandom 1124
+left
+go 2806
+right
+go 11011
+infect 4651
+go 11581
+right
+go 4651
+ifenemy 4677
+ifwall 11151
+ifsame 3156
+hop
+go 11476
+go 4675
+ifrandom 4679
+left
+go 4666
+right
+go 2461
+infect 12691
+go 4666
+right
+go 4666
+ifenemy 4692
+ifwall 291
+ifsame 6771
+hop
+go 11056
+go 11710
+go 4690
+left
+go 4681
+right
+go 13156
+infect 4681
+go 2926
+right
+go 4681
+ifenemy 897
+ifwall 4701
+ifsame 11706
+left
+go 4696
+go 4705
+go 6010
+left
+go 9961
+left
+go 4306
+infect 4696
+go 4936
+right
+go 7711
+ifenemy 6222
+ifwall 4716
+ifsame 4131
+hop
+go 4696
+go 8170
+ifrandom 4724
+left
+go 8551
+left
+go 4711
+infect 4711
+go 4711
+right
+go 4711
+ifenemy 4737
+ifwall 4731
+ifsame 4731
+right
+go 451
+go 7495
+go 4735
+left
+go 4726
+left
+go 4726
+infect 6346
+go 10276
+right
+go 8911
+ifenemy 4752
+ifwall 4746
+ifsame 4746
+hop
+go 4741
+go 4750
+go 7825
+left
+go 181
+left
+go 4741
+infect 4741
+go 4741
+right
+go 631
+ifenemy 4767
+ifwall 4761
+ifsame 4761
+right
+go 4756
+go 4765
+go 5560
+left
+go 7126
+left
+go 11806
+infect 4756
+go 4756
+right
+go 9631
+ifenemy 8382
+ifwall 8751
+ifsame 4776
+hop
+go 5701
+go 6775
+go 10195
+left
+go 4771
+right
+go 4771
+infect 4771
+go 4771
+right
+go 9196
+ifenemy 5997
+ifwall 4791
+ifsame 4791
+left
+go 5926
+go 4795
+go 4795
+left
+go 4786
+left
+go 10531
+infect 7276
+go 4786
+right
+go 3541
+ifenemy 1707
+ifwall 366
+ifsame 4806
+left
+go 4801
+go 4810
+go 12970
+left
+go 4801
+right
+go 4801
+infect 4801
+go 7441
+right
+go 4801
+ifenemy 4827
+ifwall 8286
+ifsame 4821
+left
+go 13366
+go 4825
+go 4825
+left
+go 4816
+right
+go 10696
+infect 4816
+go 4816
+right
+go 3511
+ifenemy 4842
+ifwall 4836
+ifsame 12666
+left
+go 4831
+go 3700
+go 4840
+left
+go 6931
+right
+go 4831
+infect 3376
+go 3376
+right
+go 5041
+ifenemy 4857
+ifwall 4851
+ifsame 4851
+hop
+go 4846
+go 4855
+go 4855
+left
+go 4846
+left
+go 4846
+infect 9361
+go 4846
+right
+go 4846
+ifenemy 2982
+ifwall 4866
+ifsame 5841
+hop
+go 1021
+go 4870
+go 4870
+left
+go 4861
+right
+go 4861
+infect 1
+go 10306
+right
+go 7276
+ifenemy 672
+ifwall 5811
+ifsame 4641
+right
+go 4966
+go 4885
+go 70
+left
+go 8731
+right
+go 4876
+infect 10471
+go 8866
+right
+go 4876
+ifenemy 4902
+ifwall 13011
+ifsame 3351
+right
+go 4891
+go 4900
+go 6010
+left
+go 4891
+right
+go 9376
+infect 3511
+go 4891
+right
+go 8341
+ifenemy 2892
+ifwall 6936
+ifsame 7236
+hop
+go 4906
+go 4915
+go 2935
+left
+go 2311
+right
+go 4906
+infect 4906
+go 11101
+right
+go 4906
+ifenemy 8247
+ifwall 10716
+ifsame 4926
+left
+go 5401
+go 4930
+go 4930
+left
+go 4921
+right
+go 4921
+infect 4921
+go 8671
+right
+go 4921
+ifenemy 4947
+ifwall 4941
+ifsame 4941
+right
+go 4936
+go 970
+ifrandom 6539
+left
+go 4936
+right
+go 10561
+infect 4936
+go 4936
+right
+go 4936
+ifenemy 4962
+ifwall 4956
+ifsame 4956
+left
+go 4951
+go 7000
+go 10615
+left
+go 4951
+left
+go 2131
+infect 12061
+go 4951
+right
+go 7426
+ifenemy 4977
+ifwall 9216
+ifsame 3276
+right
+go 4966
+go 4975
+go 7645
+left
+go 4966
+right
+go 8896
+infect 4966
+go 4966
+right
+go 4021
+ifenemy 6777
+ifwall 4986
+ifsame 4986
+left
+go 4981
+go 9160
+ifrandom 5864
+left
+go 4981
+right
+go 4981
+infect 4981
+go 12976
+right
+go 4981
+ifenemy 5007
+ifwall 8811
+ifsame 1626
+right
+go 11386
+go 5005
+ifrandom 5009
+left
+go 6961
+right
+go 10381
+infect 4996
+go 4996
+right
+go 7501
+ifenemy 5022
+ifwall 3036
+ifsame 5016
+hop
+go 2941
+go 5020
+go 5020
+left
+go 5011
+left
+go 5011
+infect 10441
+go 5011
+right
+go 5011
+ifenemy 5037
+ifwall 10656
+ifsame 13071
+hop
+go 5026
+go 5035
+ifrandom 5039
+left
+go 5026
+right
+go 7726
+infect 5026
+go 916
+right
+go 5026
+ifenemy 5052
+ifwall 12651
+ifsame 5046
+right
+go 5041
+go 5050
+go 5050
+left
+go 5041
+right
+go 5041
+infect 11446
+go 7426
+right
+go 5041
+ifenemy 2247
+ifwall 5361
+ifsame 3456
+right
+go 3961
+go 5755
+ifrandom 5069
+left
+go 5056
+right
+go 5056
+infect 5056
+go 5056
+right
+go 11176
+ifenemy 5082
+ifwall 5076
+ifsame 1026
+right
+go 11566
+go 5275
+ifrandom 7889
+left
+go 11821
+right
+go 5071
+infect 5071
+go 5071
+right
+go 12256
+ifenemy 5097
+ifwall 5091
+ifsame 5091
+right
+go 5086
+go 5095
+ifrandom 5099
+left
+go 1621
+left
+go 5086
+infect 2551
+go 12901
+right
+go 2956
+ifenemy 5112
+ifwall 7731
+ifsame 6696
+hop
+go 1846
+go 12220
+go 5110
+left
+go 916
+left
+go 5416
+infect 10081
+go 2476
+right
+go 4966
+ifenemy 4662
+ifwall 5121
+ifsame 5121
+hop
+go 5116
+go 5125
+go 5125
+left
+go 5116
+left
+go 10081
+infect 5116
+go 12376
+right
+go 8311
+ifenemy 6852
+ifwall 2091
+ifsame 5136
+left
+go 6781
+go 5140
+go 5140
+left
+go 5131
+right
+go 5131
+infect 7861
+go 1186
+right
+go 5131
+ifenemy 7647
+ifwall 12366
+ifsame 5151
+hop
+go 6976
+go 5155
+ifrandom 5369
+left
+go 5146
+right
+go 2611
+infect 4516
+go 5146
+right
+go 5146
+ifenemy 10452
+ifwall 5166
+ifsame 4401
+left
+go 9421
+go 5170
+go 5170
+left
+go 1081
+left
+go 5161
+infect 5161
+go 5161
+right
+go 226
+ifenemy 9792
+ifwall 4596
+ifsame 5181
+left
+go 5176
+go 1480
+go 2290
+left
+go 12811
+right
+go 5176
+infect 5176
+go 10351
+right
+go 5176
+ifenemy 5202
+ifwall 5196
+ifsame 5196
+left
+go 4591
+go 5035
+go 5200
+left
+go 10456
+left
+go 12676
+infect 10891
+go 5191
+right
+go 10801
+ifenemy 5217
+ifwall 12501
+ifsame 5211
+left
+go 5206
+go 5215
+go 5215
+left
+go 5206
+left
+go 9721
+infect 5206
+go 5206
+right
+go 5206
+ifenemy 10617
+ifwall 5226
+ifsame 636
+hop
+go 5221
+go 4150
+go 5230
+left
+go 5221
+right
+go 5221
+infect 8476
+go 5221
+right
+go 2701
+ifenemy 5247
+ifwall 10206
+ifsame 12216
+hop
+go 5236
+go 5245
+ifrandom 5249
+left
+go 5236
+right
+go 10801
+infect 5236
+go 5236
+right
+go 6961
+ifenemy 11007
+ifwall 5256
+ifsame 5256
+left
+go 5251
+go 5260
+ifrandom 8549
+left
+go 5251
+left
+go 5251
+infect 9301
+go 8551
+right
+go 8161
+ifenemy 5277
+ifwall 5271
+ifsame 5271
+left
+go 601
+go 5275
+ifrandom 4289
+left
+go 5266
+left
+go 3586
+infect 5371
+go 12586
+right
+go 316
+ifenemy 2412
+ifwall 5286
+ifsame 5286
+right
+go 5281
+go 10570
+go 2080
+left
+go 9946
+left
+go 9496
+infect 5281
+go 5281
+right
+go 5281
+ifenemy 5277
+ifwall 396
+ifsame 5301
+left
+go 4351
+go 5305
+go 5305
+left
+go 11551
+right
+go 691
+infect 5296
+go 5296
+right
+go 5296
+ifenemy 5322
+ifwall 5316
+ifsame 3891
+right
+go 1381
+go 2305
+go 5320
+left
+go 5311
+right
+go 12166
+infect 7861
+go 10126
+right
+go 5266
+ifenemy 5337
+ifwall 5331
+ifsame 5181
+hop
+go 5641
+go 5335
+go 5335
+left
+go 5326
+right
+go 10396
+infect 3586
+go 9556
+right
+go 5326
+ifenemy 4422
+ifwall 8586
+ifsame 5346
+hop
+go 12241
+go 5350
+go 8725
+left
+go 2881
+right
+go 5341
+infect 256
+go 5341
+right
+go 9586
+ifenemy 10437
+ifwall 5361
+ifsame 1806
+right
+go 4861
+go 11965
+go 5365
+left
+go 5476
+left
+go 5356
+infect 4501
+go 5356
+right
+go 5356
+ifenemy 5382
+ifwall 5376
+ifsame 13401
+left
+go 10051
+go 2125
+go 6235
+left
+go 9346
+right
+go 9886
+infect 5116
+go 5371
+right
+go 5371
+ifenemy 5397
+ifwall 5391
+ifsame 2541
+hop
+go 7441
+go 4360
+go 10075
+left
+go 3961
+right
+go 5386
+infect 7981
+go 5386
+right
+go 5386
+ifenemy 5412
+ifwall 5406
+ifsame 12801
+right
+go 3421
+go 5410
+ifrandom 5414
+left
+go 5401
+left
+go 5401
+infect 5536
+go 12661
+right
+go 4381
+ifenemy 5427
+ifwall 2886
+ifsame 5421
+right
+go 6391
+go 9055
+go 6445
+left
+go 5416
+right
+go 166
+infect 5416
+go 4231
+right
+go 5416
+ifenemy 5442
+ifwall 561
+ifsame 2076
+right
+go 5431
+go 5440
+go 5440
+left
+go 13351
+left
+go 5431
+infect 5431
+go 11191
+right
+go 5431
+ifenemy 5457
+ifwall 5451
+ifsame 5451
+left
+go 10621
+go 5455
+ifrandom 5699
+left
+go 9976
+left
+go 1711
+infect 271
+go 11371
+right
+go 5446
+ifenemy 2922
+ifwall 2706
+ifsame 5856
+left
+go 5461
+go 2830
+ifrandom 2489
+left
+go 9691
+left
+go 5461
+infect 3856
+go 721
+right
+go 5461
+ifenemy 1077
+ifwall 5481
+ifsame 12681
+right
+go 5881
+go 5485
+go 4315
+left
+go 2131
+left
+go 5476
+infect 5476
+go 5476
+right
+go 5476
+ifenemy 5502
+ifwall 4371
+ifsame 5496
+left
+go 6706
+go 5500
+go 13030
+left
+go 5491
+left
+go 5491
+infect 5491
+go 11266
+right
+go 11386
+ifenemy 8007
+ifwall 2931
+ifsame 5511
+right
+go 5506
+go 8920
+go 460
+left
+go 8521
+right
+go 9886
+infect 5506
+go 13381
+right
+go 10561
+ifenemy 5367
+ifwall 5526
+ifsame 5526
+right
+go 3406
+go 9340
+go 5530
+left
+go 1801
+right
+go 5521
+infect 8896
+go 5521
+right
+go 8746
+ifenemy 5547
+ifwall 7071
+ifsame 12681
+left
+go 5536
+go 4675
+ifrandom 5549
+left
+go 9526
+left
+go 12286
+infect 5536
+go 5536
+right
+go 5461
+ifenemy 5562
+ifwall 921
+ifsame 12546
+right
+go 5551
+go 7855
+go 4780
+left
+go 5551
+right
+go 5551
+infect 5476
+go 5266
+right
+go 5551
+ifenemy 5577
+ifwall 11631
+ifsame 3006
+right
+go 5566
+go 5575
+go 8455
+left
+go 7651
+right
+go 5566
+infect 5566
+go 5566
+right
+go 5566
+ifenemy 5592
+ifwall 8001
+ifsame 5586
+right
+go 5581
+go 6460
+ifrandom 7709
+left
+go 9751
+left
+go 5581
+infect 5581
+go 4621
+right
+go 5581
+ifenemy 12957
+ifwall 5601
+ifsame 5601
+left
+go 7456
+go 5605
+go 6220
+left
+go 3871
+right
+go 5551
+infect 1276
+go 5596
+right
+go 5596
+ifenemy 5622
+ifwall 5616
+ifsame 9846
+left
+go 886
+go 1000
+ifrandom 11594
+left
+go 3151
+left
+go 11146
+infect 5611
+go 12526
+right
+go 4801
+ifenemy 5637
+ifwall 5631
+ifsame 6186
+right
+go 5626
+go 12430
+ifrandom 5639
+left
+go 5626
+left
+go 5626
+infect 9766
+go 106
+right
+go 13261
+ifenemy 9462
+ifwall 5646
+ifsame 7146
+hop
+go 5641
+go 3250
+go 5650
+left
+go 4786
+right
+go 5641
+infect 5641
+go 6031
+right
+go 1366
+ifenemy 4257
+ifwall 3216
+ifsame 5661
+hop
+go 2491
+go 10735
+ifrandom 1064
+left
+go 5656
+right
+go 10471
+infect 4246
+go 10891
+right
+go 691
+ifenemy 5682
+ifwall 5676
+ifsame 5676
+hop
+go 5671
+go 5680
+ifrandom 3794
+left
+go 5671
+right
+go 8251
+infect 2251
+go 6736
+right
+go 5866
+ifenemy 5697
+ifwall 3501
+ifsame 6171
+right
+go 5686
+go 8740
+go 5695
+left
+go 8161
+left
+go 4936
+infect 5506
+go 8071
+right
+go 5686
+ifenemy 5712
+ifwall 5706
+ifsame 9516
+left
+go 4486
+go 5710
+ifrandom 11579
+left
+go 601
+left
+go 5701
+infect 5701
+go 5701
+right
+go 5701
+ifenemy 5727
+ifwall 5721
+ifsame 7836
+right
+go 11566
+go 2515
+go 2635
+left
+go 5716
+right
+go 4726
+infect 8611
+go 3121
+right
+go 5716
+ifenemy 5742
+ifwall 5736
+ifsame 5496
+right
+go 5731
+go 5740
+go 5095
+left
+go 61
+left
+go 5731
+infect 5731
+go 12166
+right
+go 5731
+ifenemy 5757
+ifwall 5751
+ifsame 5751
+hop
+go 5746
+go 190
+ifrandom 5759
+left
+go 13396
+left
+go 11056
+infect 10066
+go 11611
+right
+go 5731
+ifenemy 5772
+ifwall 10926
+ifsame 5766
+left
+go 5761
+go 5770
+ifrandom 5774
+left
+go 496
+right
+go 9271
+infect 5761
+go 7426
+right
+go 7666
+ifenemy 2322
+ifwall 8721
+ifsame 9066
+hop
+go 1111
+go 10360
+go 2395
+left
+go 2026
+left
+go 9286
+infect 3511
+go 5776
+right
+go 5671
+ifenemy 5802
+ifwall 3456
+ifsame 5796
+left
+go 5791
+go 1960
+ifrandom 5804
+left
+go 12556
+right
+go 11266
+infect 6811
+go 11281
+right
+go 7096
+ifenemy 5817
+ifwall 5811
+ifsame 9261
+right
+go 5806
+go 5335
+ifrandom 5819
+left
+go 5806
+left
+go 5806
+infect 1261
+go 5806
+right
+go 11266
+ifenemy 5832
+ifwall 5826
+ifsame 5826
+hop
+go 5821
+go 5830
+ifrandom 7694
+left
+go 5821
+right
+go 5821
+infect 1591
+go 10141
+right
+go 8671
+ifenemy 5847
+ifwall 5841
+ifsame 1881
+right
+go 5836
+go 3040
+go 10060
+left
+go 11911
+right
+go 10546
+infect 12856
+go 12106
+right
+go 5836
+ifenemy 5862
+ifwall 5856
+ifsame 4731
+hop
+go 5851
+go 5710
+ifrandom 9359
+left
+go 5656
+left
+go 1861
+infect 2611
+go 5851
+right
+go 10066
+ifenemy 732
+ifwall 5976
+ifsame 2856
+left
+go 5866
+go 4960
+ifrandom 5339
+left
+go 5866
+right
+go 7576
+infect 11041
+go 5266
+right
+go 5866
+ifenemy 27
+ifwall 5886
+ifsame 5886
+hop
+go 5881
+go 5890
+go 5890
+left
+go 5881
+left
+go 5881
+infect 2041
+go 5881
+right
+go 6136
+ifenemy 9057
+ifwall 11271
+ifsame 5901
+hop
+go 6031
+go 7585
+go 5905
+left
+go 1831
+right
+go 5896
+infect 5896
+go 2551
+right
+go 5896
+ifenemy 3702
+ifwall 5196
+ifsame 5916
+right
+go 9406
+go 8185
+ifrandom 2249
+left
+go 226
+left
+go 5911
+infect 5911
+go 5911
+right
+go 5911
+ifenemy 11277
+ifwall 8166
+ifsame 5931
+hop
+go 5926
+go 10825
+ifrandom 7514
+left
+go 9931
+right
+go 5926
+infect 2266
+go 1051
+right
+go 4051
+ifenemy 12417
+ifwall 5946
+ifsame 10776
+hop
+go 5941
+go 5950
+ifrandom 12539
+left
+go 13201
+right
+go 661
+infect 5941
+go 5941
+right
+go 1891
+ifenemy 5967
+ifwall 5961
+ifsame 7806
+hop
+go 5956
+go 7960
+ifrandom 3764
+left
+go 10861
+left
+go 11611
+infect 5956
+go 9001
+right
+go 961
+ifenemy 5982
+ifwall 11886
+ifsame 12441
+left
+go 5971
+go 8140
+go 5980
+left
+go 8476
+left
+go 5971
+infect 226
+go 5971
+right
+go 5971
+ifenemy 6432
+ifwall 10206
+ifsame 5991
+left
+go 5986
+go 2785
+ifrandom 5999
+left
+go 5986
+right
+go 586
+infect 5986
+go 5986
+right
+go 5986
+ifenemy 6012
+ifwall 5826
+ifsame 3066
+hop
+go 11791
+go 9610
+go 10030
+left
+go 6466
+right
+go 6001
+infect 3391
+go 9226
+right
+go 6001
+ifenemy 9012
+ifwall 6021
+ifsame 6021
+left
+go 3526
+go 7570
+go 6025
+left
+go 6076
+left
+go 4231
+infect 1291
+go 7606
+right
+go 6016
+ifenemy 6042
+ifwall 6036
+ifsame 5556
+right
+go 6031
+go 6040
+go 6040
+left
+go 5971
+left
+go 1156
+infect 6706
+go 6031
+right
+go 6031
+ifenemy 13287
+ifwall 2331
+ifsame 6051
+hop
+go 6046
+go 6055
+ifrandom 3389
+left
+go 2341
+right
+go 2656
+infect 6046
+go 7561
+right
+go 6046
+ifenemy 11547
+ifwall 6066
+ifsame 6471
+left
+go 6061
+go 6040
+go 2680
+left
+go 3616
+left
+go 6061
+infect 6061
+go 6061
+right
+go 9286
+ifenemy 5622
+ifwall 6081
+ifsame 6081
+right
+go 6076
+go 6085
+go 6085
+left
+go 12916
+right
+go 3946
+infect 6076
+go 6076
+right
+go 2641
+ifenemy 6102
+ifwall 1236
+ifsame 6096
+hop
+go 6091
+go 295
+ifrandom 1664
+left
+go 6091
+right
+go 166
+infect 8011
+go 8596
+right
+go 5251
+ifenemy 6117
+ifwall 6111
+ifsame 10941
+hop
+go 10456
+go 1480
+go 6115
+left
+go 10396
+left
+go 11551
+infect 586
+go 6106
+right
+go 2716
+ifenemy 3972
+ifwall 4731
+ifsame 6126
+left
+go 8926
+go 5395
+go 6130
+left
+go 6121
+right
+go 2701
+infect 7996
+go 10486
+right
+go 9346
+ifenemy 11892
+ifwall 6141
+ifsame 9246
+left
+go 12676
+go 7660
+go 6145
+left
+go 12751
+right
+go 6136
+infect 2746
+go 1981
+right
+go 11461
+ifenemy 6162
+ifwall 3576
+ifsame 3651
+hop
+go 3001
+go 7960
+ifrandom 6164
+left
+go 3946
+left
+go 5446
+infect 6151
+go 8746
+right
+go 6151
+ifenemy 6177
+ifwall 7101
+ifsame 6171
+left
+go 2566
+go 6175
+ifrandom 6179
+left
+go 12196
+right
+go 976
+infect 6166
+go 12196
+right
+go 856
+ifenemy 6192
+ifwall 6186
+ifsame 10236
+hop
+go 6181
+go 11815
+ifrandom 6194
+left
+go 10186
+left
+go 3226
+infect 11746
+go 6181
+right
+go 12646
+ifenemy 6207
+ifwall 6201
+ifsame 6201
+right
+go 6196
+go 6205
+go 8095
+left
+go 6196
+right
+go 6196
+infect 1726
+go 11821
+right
+go 6196
+ifenemy 12882
+ifwall 12756
+ifsame 876
+right
+go 10351
+go 250
+ifrandom 6224
+left
+go 8161
+right
+go 6211
+infect 9121
+go 6211
+right
+go 12481
+ifenemy 6237
+ifwall 6231
+ifsame 2751
+left
+go 6226
+go 6265
+go 6235
+left
+go 11926
+right
+go 6226
+infect 4666
+go 6226
+right
+go 4411
+ifenemy 6252
+ifwall 6786
+ifsame 6246
+hop
+go 8446
+go 10210
+go 6250
+left
+go 1681
+left
+go 6241
+infect 4231
+go 4681
+right
+go 6241
+ifenemy 6267
+ifwall 6261
+ifsame 2151
+hop
+go 6256
+go 6265
+ifrandom 3014
+left
+go 5011
+left
+go 12196
+infect 6256
+go 6256
+right
+go 6991
+ifenemy 6282
+ifwall 3996
+ifsame 7056
+left
+go 6271
+go 6280
+go 6280
+left
+go 13021
+right
+go 1351
+infect 6271
+go 6271
+right
+go 6271
+ifenemy 9867
+ifwall 6291
+ifsame 11361
+left
+go 6286
+go 6295
+go 6295
+left
+go 4051
+left
+go 6286
+infect 6286
+go 11911
+right
+go 9436
+ifenemy 11517
+ifwall 5061
+ifsame 4956
+left
+go 7726
+go 6310
+ifrandom 6314
+left
+go 6301
+left
+go 2731
+infect 10006
+go 6301
+right
+go 6301
+ifenemy 12762
+ifwall 6321
+ifsame 6321
+right
+go 5476
+go 10960
+go 6325
+left
+go 6316
+left
+go 1486
+infect 3961
+go 5566
+right
+go 4636
+ifenemy 6342
+ifwall 7926
+ifsame 6336
+right
+go 2566
+go 6340
+ifrandom 6344
+left
+go 5191
+left
+go 3196
+infect 6331
+go 5446
+right
+go 9121
+ifenemy 327
+ifwall 6351
+ifsame 12381
+hop
+go 6346
+go 6355
+go 10660
+left
+go 6346
+right
+go 6346
+infect 6346
+go 11056
+right
+go 6346
+ifenemy 5262
+ifwall 5271
+ifsame 6366
+right
+go 6361
+go 4825
+ifrandom 6374
+left
+go 6361
+left
+go 1711
+infect 10516
+go 6361
+right
+go 1741
+ifenemy 3717
+ifwall 6381
+ifsame 12441
+left
+go 7861
+go 2065
+ifrandom 9734
+left
+go 13366
+left
+go 1351
+infect 6376
+go 6376
+right
+go 5521
+ifenemy 6402
+ifwall 6396
+ifsame 441
+right
+go 8611
+go 10480
+go 7375
+left
+go 6391
+left
+go 8581
+infect 9706
+go 6391
+right
+go 6391
+ifenemy 6417
+ifwall 6351
+ifsame 6411
+right
+go 6406
+go 505
+go 6190
+left
+go 11191
+left
+go 4411
+infect 1801
+go 3196
+right
+go 9631
+ifenemy 2757
+ifwall 6426
+ifsame 5571
+left
+go 6421
+go 6430
+ifrandom 10214
+left
+go 5356
+left
+go 4186
+infect 8566
+go 12781
+right
+go 6421
+ifenemy 6447
+ifwall 6441
+ifsame 13191
+hop
+go 331
+go 9745
+ifrandom 10724
+left
+go 6436
+left
+go 2416
+infect 6436
+go 6436
+right
+go 6436
+ifenemy 6462
+ifwall 9921
+ifsame 6456
+hop
+go 5206
+go 11215
+go 1345
+left
+go 3571
+left
+go 6451
+infect 1996
+go 6451
+right
+go 6451
+ifenemy 6822
+ifwall 6471
+ifsame 696
+left
+go 5881
+go 6475
+go 6475
+left
+go 6466
+left
+go 6466
+infect 6466
+go 6466
+right
+go 2146
+ifenemy 6492
+ifwall 6486
+ifsame 13131
+right
+go 2596
+go 6490
+go 8110
+left
+go 10891
+right
+go 4126
+infect 5416
+go 6481
+right
+go 6976
+ifenemy 6507
+ifwall 7641
+ifsame 6501
+hop
+go 5881
+go 1570
+ifrandom 6269
+left
+go 6496
+right
+go 4846
+infect 6496
+go 11056
+right
+go 6496
+ifenemy 5787
+ifwall 6516
+ifsame 10611
+right
+go 6511
+go 12655
+ifrandom 10064
+left
+go 13336
+left
+go 5266
+infect 3316
+go 5701
+right
+go 6706
+ifenemy 6537
+ifwall 6531
+ifsame 6531
+left
+go 6526
+go 6535
+go 6535
+left
+go 6526
+left
+go 10096
+infect 6526
+go 6526
+right
+go 6526
+ifenemy 10782
+ifwall 5376
+ifsame 6546
+left
+go 6541
+go 6550
+ifrandom 6554
+left
+go 9106
+left
+go 6541
+infect 6541
+go 6541
+right
+go 12316
+ifenemy 10197
+ifwall 936
+ifsame 7071
+left
+go 3706
+go 2080
+go 6565
+left
+go 4906
+right
+go 6976
+infect 6556
+go 6556
+right
+go 6556
+ifenemy 6582
+ifwall 6576
+ifsame 7011
+hop
+go 6571
+go 12865
+ifrandom 6584
+left
+go 6571
+left
+go 1786
+infect 6571
+go 4891
+right
+go 6571
+ifenemy 1572
+ifwall 6666
+ifsame 9441
+hop
+go 10891
+go 6595
+ifrandom 6599
+left
+go 6586
+left
+go 10096
+infect 9721
+go 6586
+right
+go 6586
+ifenemy 6612
+ifwall 6606
+ifsame 6606
+left
+go 6601
+go 6610
+go 6610
+left
+go 3481
+left
+go 1291
+infect 11371
+go 6601
+right
+go 6601
+ifenemy 4842
+ifwall 11256
+ifsame 6606
+right
+go 1306
+go 11245
+go 13210
+left
+go 6616
+right
+go 7771
+infect 11551
+go 5566
+right
+go 6616
+ifenemy 6642
+ifwall 6636
+ifsame 4731
+left
+go 6631
+go 1180
+ifrandom 8774
+left
+go 2881
+right
+go 6631
+infect 10336
+go 6631
+right
+go 3901
+ifenemy 6657
+ifwall 12201
+ifsame 1941
+hop
+go 2146
+go 6655
+go 2470
+left
+go 301
+left
+go 3751
+infect 6646
+go 6646
+right
+go 13096
+ifenemy 6672
+ifwall 1056
+ifsame 516
+hop
+go 6661
+go 6670
+go 6670
+left
+go 6661
+right
+go 5911
+infect 6661
+go 9661
+right
+go 6661
+ifenemy 6687
+ifwall 6681
+ifsame 6681
+hop
+go 10381
+go 190
+go 11140
+left
+go 2161
+right
+go 6676
+infect 6676
+go 12721
+right
+go 8056
+ifenemy 6702
+ifwall 1311
+ifsame 10926
+hop
+go 5386
+go 6700
+go 85
+left
+go 6691
+right
+go 9691
+infect 6691
+go 6691
+right
+go 10951
+ifenemy 9897
+ifwall 8586
+ifsame 12666
+right
+go 6706
+go 6715
+go 2965
+left
+go 6706
+right
+go 6706
+infect 1351
+go 6706
+right
+go 5176
+ifenemy 6732
+ifwall 6726
+ifsame 8361
+left
+go 6721
+go 4240
+go 6520
+left
+go 6721
+right
+go 1081
+infect 12211
+go 3256
+right
+go 6721
+ifenemy 2982
+ifwall 6741
+ifsame 6741
+left
+go 9181
+go 6745
+go 5665
+left
+go 5911
+left
+go 31
+infect 6736
+go 1906
+right
+go 6736
+ifenemy 9312
+ifwall 6756
+ifsame 6756
+hop
+go 6751
+go 5665
+go 6760
+left
+go 7621
+left
+go 9046
+infect 10546
+go 5536
+right
+go 6751
+ifenemy 6777
+ifwall 2931
+ifsame 4281
+left
+go 6766
+go 6775
+ifrandom 6779
+left
+go 6766
+right
+go 12511
+infect 7051
+go 9106
+right
+go 6766
+ifenemy 6792
+ifwall 6786
+ifsame 6786
+hop
+go 6781
+go 295
+go 8065
+left
+go 10186
+right
+go 3751
+infect 181
+go 6451
+right
+go 6781
+ifenemy 6807
+ifwall 12831
+ifsame 6801
+left
+go 6796
+go 6805
+ifrandom 6809
+left
+go 6796
+right
+go 6796
+infect 1636
+go 271
+right
+go 10741
+ifenemy 6822
+ifwall 471
+ifsame 6816
+right
+go 12106
+go 8035
+ifrandom 6824
+left
+go 12466
+left
+go 6811
+infect 6811
+go 6811
+right
+go 11971
+ifenemy 6837
+ifwall 6831
+ifsame 8511
+left
+go 7606
+go 4360
+go 12010
+left
+go 451
+left
+go 6826
+infect 10981
+go 976
+right
+go 6826
+ifenemy 6852
+ifwall 6846
+ifsame 5226
+left
+go 3121
+go 6850
+ifrandom 6854
+left
+go 3961
+right
+go 6841
+infect 6841
+go 2041
+right
+go 2221
+ifenemy 6867
+ifwall 10431
+ifsame 7356
+hop
+go 6856
+go 8860
+go 1945
+left
+go 6856
+right
+go 6856
+infect 616
+go 6856
+right
+go 6856
+ifenemy 6882
+ifwall 8976
+ifsame 6876
+right
+go 6871
+go 1780
+ifrandom 6884
+left
+go 9166
+right
+go 6721
+infect 2401
+go 10516
+right
+go 6391
+ifenemy 6897
+ifwall 3906
+ifsame 11601
+right
+go 2521
+go 2980
+go 11545
+left
+go 6886
+left
+go 901
+infect 1546
+go 6886
+right
+go 6886
+ifenemy 6912
+ifwall 6906
+ifsame 5121
+left
+go 4576
+go 6910
+go 6910
+left
+go 6901
+left
+go 6901
+infect 6901
+go 2491
+right
+go 5806
+ifenemy 1122
+ifwall 6921
+ifsame 6921
+right
+go 12376
+go 4885
+go 520
+left
+go 6916
+right
+go 6916
+infect 6916
+go 6916
+right
+go 2731
+ifenemy 5187
+ifwall 6936
+ifsame 6936
+hop
+go 11146
+go 6940
+go 6940
+left
+go 3436
+right
+go 6931
+infect 2311
+go 6931
+right
+go 2866
+ifenemy 6957
+ifwall 6951
+ifsame 7041
+left
+go 11476
+go 6955
+ifrandom 6959
+left
+go 6946
+left
+go 6946
+infect 6946
+go 6946
+right
+go 6946
+ifenemy 7437
+ifwall 6966
+ifsame 6666
+left
+go 6496
+go 6970
+ifrandom 6974
+left
+go 6961
+left
+go 6961
+infect 11356
+go 6961
+right
+go 6961
+ifenemy 11817
+ifwall 2631
+ifsame 7671
+hop
+go 6976
+go 11380
+ifrandom 7169
+left
+go 4591
+right
+go 6886
+infect 6976
+go 6976
+right
+go 3166
+ifenemy 7002
+ifwall 6996
+ifsame 6996
+right
+go 1246
+go 2950
+go 2515
+left
+go 6991
+right
+go 6241
+infect 6991
+go 6991
+right
+go 1426
+ifenemy 12552
+ifwall 2061
+ifsame 7011
+right
+go 7051
+go 7015
+ifrandom 7019
+left
+go 7411
+left
+go 7006
+infect 7006
+go 7006
+right
+go 7006
+ifenemy 9132
+ifwall 6426
+ifsame 7026
+hop
+go 7021
+go 7030
+go 4060
+left
+go 6961
+right
+go 7021
+infect 12676
+go 7021
+right
+go 7021
+ifenemy 11802
+ifwall 501
+ifsame 11376
+hop
+go 1516
+go 3280
+go 7300
+left
+go 7036
+right
+go 1681
+infect 10861
+go 7036
+right
+go 7036
+ifenemy 7062
+ifwall 12321
+ifsame 1926
+left
+go 7051
+go 12445
+go 10435
+left
+go 4846
+right
+go 7051
+infect 7051
+go 11866
+right
+go 7051
+ifenemy 7077
+ifwall 7071
+ifsame 7071
+right
+go 10531
+go 2665
+ifrandom 13019
+left
+go 10981
+right
+go 7066
+infect 7066
+go 4831
+right
+go 7066
+ifenemy 11337
+ifwall 7086
+ifsame 6996
+hop
+go 5941
+go 5500
+ifrandom 7094
+left
+go 7081
+left
+go 6481
+infect 7081
+go 7081
+right
+go 7081
+ifenemy 12267
+ifwall 4806
+ifsame 1446
+hop
+go 8641
+go 7105
+ifrandom 7109
+left
+go 7096
+left
+go 7096
+infect 7096
+go 4861
+right
+go 6961
+ifenemy 7122
+ifwall 7116
+ifsame 6021
+hop
+go 7111
+go 2620
+ifrandom 7124
+left
+go 9946
+right
+go 9631
+infect 7111
+go 7111
+right
+go 5146
+ifenemy 7137
+ifwall 7716
+ifsame 7131
+hop
+go 5356
+go 7135
+go 7135
+left
+go 7126
+right
+go 7126
+infect 7126
+go 946
+right
+go 31
+ifenemy 7152
+ifwall 7146
+ifsame 13206
+hop
+go 9256
+go 3700
+ifrandom 7499
+left
+go 3541
+right
+go 7141
+infect 12526
+go 601
+right
+go 7141
+ifenemy 2052
+ifwall 4686
+ifsame 6141
+hop
+go 7156
+go 12790
+go 11875
+left
+go 3766
+right
+go 7156
+infect 9061
+go 7156
+right
+go 7156
+ifenemy 11727
+ifwall 7176
+ifsame 7176
+right
+go 7171
+go 7180
+go 7180
+left
+go 7171
+right
+go 7171
+infect 6151
+go 7171
+right
+go 4111
+ifenemy 11382
+ifwall 7191
+ifsame 7191
+left
+go 7186
+go 7195
+go 7195
+left
+go 7186
+left
+go 7186
+infect 7186
+go 496
+right
+go 7186
+ifenemy 2142
+ifwall 7206
+ifsame 7221
+right
+go 12631
+go 7210
+ifrandom 7214
+left
+go 7201
+right
+go 7201
+infect 7201
+go 8101
+right
+go 12421
+ifenemy 7227
+ifwall 7221
+ifsame 6816
+hop
+go 5431
+go 7225
+ifrandom 7229
+left
+go 7216
+left
+go 7216
+infect 7216
+go 7216
+right
+go 7216
+ifenemy 12462
+ifwall 4296
+ifsame 7236
+hop
+go 91
+go 7240
+go 12415
+left
+go 7231
+left
+go 12421
+infect 6046
+go 6241
+right
+go 871
+ifenemy 13257
+ifwall 681
+ifsame 8826
+hop
+go 10906
+go 1675
+go 7255
+left
+go 4921
+right
+go 7246
+infect 1711
+go 6676
+right
+go 3841
+ifenemy 9402
+ifwall 9441
+ifsame 8046
+right
+go 7261
+go 7270
+go 7270
+left
+go 7261
+right
+go 286
+infect 8746
+go 6646
+right
+go 7261
+ifenemy 5307
+ifwall 12051
+ifsame 8586
+hop
+go 11371
+go 1150
+go 7285
+left
+go 11776
+left
+go 8026
+infect 7276
+go 7276
+right
+go 7276
+ifenemy 7302
+ifwall 7296
+ifsame 13326
+hop
+go 3046
+go 7300
+go 3940
+left
+go 7291
+right
+go 7291
+infect 7291
+go 5341
+right
+go 1216
+ifenemy 7317
+ifwall 6336
+ifsame 10626
+left
+go 9391
+go 7315
+go 7315
+left
+go 1756
+left
+go 7306
+infect 2161
+go 7306
+right
+go 5746
+ifenemy 8247
+ifwall 7236
+ifsame 7326
+left
+go 7321
+go 7330
+go 2695
+left
+go 7156
+left
+go 7321
+infect 7321
+go 4291
+right
+go 9871
+ifenemy 11367
+ifwall 8481
+ifsame 3006
+left
+go 7336
+go 7345
+go 5995
+left
+go 6781
+right
+go 7336
+infect 7336
+go 7336
+right
+go 8266
+ifenemy 7362
+ifwall 7356
+ifsame 10461
+hop
+go 7351
+go 7000
+ifrandom 4229
+left
+go 1831
+right
+go 7351
+infect 1801
+go 7351
+right
+go 6421
+ifenemy 7377
+ifwall 7371
+ifsame 7371
+left
+go 391
+go 6880
+ifrandom 7379
+left
+go 10246
+left
+go 8056
+infect 7366
+go 7366
+right
+go 7366
+ifenemy 8502
+ifwall 7386
+ifsame 12816
+hop
+go 11641
+go 7390
+go 10930
+left
+go 8026
+left
+go 7381
+infect 7381
+go 7381
+right
+go 7381
+ifenemy 7407
+ifwall 7401
+ifsame 4026
+hop
+go 7396
+go 10960
+go 7405
+left
+go 7396
+right
+go 9391
+infect 6286
+go 7396
+right
+go 9556
+ifenemy 4167
+ifwall 7101
+ifsame 4596
+hop
+go 7411
+go 7420
+go 6130
+left
+go 7411
+right
+go 7411
+infect 12961
+go 6571
+right
+go 7411
+ifenemy 7437
+ifwall 8031
+ifsame 7431
+hop
+go 7426
+go 11890
+ifrandom 9554
+left
+go 13036
+right
+go 11911
+infect 6151
+go 7426
+right
+go 7426
+ifenemy 7452
+ifwall 7446
+ifsame 9426
+right
+go 11026
+go 7450
+go 7450
+left
+go 7441
+left
+go 7441
+infect 11356
+go 7441
+right
+go 7441
+ifenemy 1812
+ifwall 4941
+ifsame 7461
+hop
+go 9706
+go 11335
+ifrandom 7469
+left
+go 1936
+left
+go 10786
+infect 7456
+go 12796
+right
+go 9151
+ifenemy 7482
+ifwall 7476
+ifsame 11736
+right
+go 13291
+go 11305
+ifrandom 5339
+left
+go 7471
+right
+go 10966
+infect 7471
+go 7471
+right
+go 7471
+ifenemy 7497
+ifwall 12456
+ifsame 7491
+hop
+go 7486
+go 12940
+ifrandom 7499
+left
+go 6616
+left
+go 9241
+infect 496
+go 7486
+right
+go 7486
+ifenemy 6342
+ifwall 2496
+ifsame 4881
+hop
+go 10996
+go 7510
+ifrandom 7514
+left
+go 11026
+right
+go 7501
+infect 7756
+go 7501
+right
+go 7501
+ifenemy 7527
+ifwall 7521
+ifsame 7101
+hop
+go 8431
+go 9610
+go 7525
+left
+go 2821
+left
+go 7516
+infect 13381
+go 7516
+right
+go 7471
+ifenemy 7542
+ifwall 7536
+ifsame 7536
+hop
+go 7531
+go 2545
+ifrandom 11159
+left
+go 11551
+right
+go 7606
+infect 13036
+go 6196
+right
+go 7531
+ifenemy 7557
+ifwall 7521
+ifsame 7551
+hop
+go 7996
+go 7555
+ifrandom 8114
+left
+go 7546
+right
+go 4891
+infect 10861
+go 3136
+right
+go 10486
+ifenemy 7572
+ifwall 7566
+ifsame 7566
+right
+go 7561
+go 6565
+go 7570
+left
+go 10861
+right
+go 7561
+infect 721
+go 6331
+right
+go 12271
+ifenemy 7587
+ifwall 13026
+ifsame 7581
+right
+go 7711
+go 7585
+go 7585
+left
+go 1291
+right
+go 2281
+infect 7576
+go 7576
+right
+go 7576
+ifenemy 11262
+ifwall 7596
+ifsame 7596
+left
+go 7696
+go 7600
+go 7600
+left
+go 7801
+left
+go 7591
+infect 2581
+go 7591
+right
+go 7591
+ifenemy 2682
+ifwall 7611
+ifsame 2991
+left
+go 6181
+go 7615
+ifrandom 7619
+left
+go 7606
+left
+go 7606
+infect 7606
+go 8026
+right
+go 11401
+ifenemy 6972
+ifwall 7731
+ifsame 7626
+right
+go 6091
+go 7630
+go 11335
+left
+go 3106
+left
+go 9586
+infect 7621
+go 5026
+right
+go 7621
+ifenemy 2142
+ifwall 7641
+ifsame 8556
+right
+go 7636
+go 8500
+go 7645
+left
+go 12991
+left
+go 7636
+infect 13321
+go 12541
+right
+go 1171
+ifenemy 7662
+ifwall 7656
+ifsame 1296
+left
+go 571
+go 4315
+ifrandom 7664
+left
+go 346
+right
+go 7651
+infect 7651
+go 2731
+right
+go 7651
+ifenemy 7677
+ifwall 7671
+ifsame 7671
+left
+go 2056
+go 7675
+go 7675
+left
+go 11806
+right
+go 11746
+infect 11791
+go 2641
+right
+go 5236
+ifenemy 4002
+ifwall 7686
+ifsame 11796
+left
+go 7681
+go 5110
+ifrandom 9929
+left
+go 7681
+right
+go 7681
+infect 7681
+go 7681
+right
+go 4051
+ifenemy 7707
+ifwall 5706
+ifsame 7701
+right
+go 2326
+go 400
+ifrandom 7709
+left
+go 7696
+right
+go 10831
+infect 7171
+go 13396
+right
+go 7696
+ifenemy 7722
+ifwall 7716
+ifsame 831
+right
+go 7711
+go 7720
+ifrandom 4979
+left
+go 7711
+right
+go 4981
+infect 7711
+go 7711
+right
+go 7711
+ifenemy 5172
+ifwall 7731
+ifsame 7611
+left
+go 7726
+go 7735
+go 7330
+left
+go 7726
+left
+go 5671
+infect 931
+go 7726
+right
+go 7726
+ifenemy 5532
+ifwall 8646
+ifsame 7746
+hop
+go 7741
+go 7750
+go 7750
+left
+go 4936
+left
+go 7741
+infect 2611
+go 7741
+right
+go 5446
+ifenemy 7767
+ifwall 7761
+ifsame 2181
+left
+go 9991
+go 3685
+ifrandom 7769
+left
+go 1411
+right
+go 12586
+infect 7756
+go 8851
+right
+go 6781
+ifenemy 7782
+ifwall 7776
+ifsame 7776
+right
+go 7771
+go 7780
+go 7780
+left
+go 7771
+left
+go 7771
+infect 7771
+go 7771
+right
+go 7771
+ifenemy 7797
+ifwall 7791
+ifsame 8931
+hop
+go 7786
+go 8410
+go 2860
+left
+go 7786
+right
+go 7081
+infect 7786
+go 7786
+right
+go 7786
+ifenemy 7812
+ifwall 51
+ifsame 2271
+left
+go 7801
+go 5695
+go 4150
+left
+go 7801
+left
+go 7801
+infect 10006
+go 781
+right
+go 12001
+ifenemy 6942
+ifwall 7821
+ifsame 7821
+right
+go 5641
+go 7825
+ifrandom 7829
+left
+go 7816
+right
+go 9001
+infect 11326
+go 7816
+right
+go 7816
+ifenemy 7842
+ifwall 7836
+ifsame 7836
+right
+go 7831
+go 7840
+ifrandom 7844
+left
+go 3316
+right
+go 10036
+infect 7831
+go 7831
+right
+go 10186
+ifenemy 7857
+ifwall 2541
+ifsame 4236
+left
+go 3331
+go 7855
+go 10255
+left
+go 7846
+left
+go 7846
+infect 8791
+go 8461
+right
+go 751
+ifenemy 12237
+ifwall 7866
+ifsame 7866
+hop
+go 7861
+go 7870
+go 7870
+left
+go 7861
+right
+go 7861
+infect 7861
+go 7861
+right
+go 7861
+ifenemy 8667
+ifwall 7881
+ifsame 6741
+right
+go 7876
+go 3910
+ifrandom 6614
+left
+go 8536
+right
+go 211
+infect 7876
+go 7876
+right
+go 7636
+ifenemy 7902
+ifwall 7896
+ifsame 6111
+right
+go 7891
+go 7900
+ifrandom 3974
+left
+go 7891
+left
+go 7891
+infect 5116
+go 11656
+right
+go 4861
+ifenemy 7917
+ifwall 7911
+ifsame 10701
+hop
+go 5506
+go 7915
+ifrandom 10964
+left
+go 7906
+left
+go 7666
+infect 11716
+go 8311
+right
+go 1216
+ifenemy 7932
+ifwall 7101
+ifsame 7926
+hop
+go 9091
+go 5530
+ifrandom 7934
+left
+go 7921
+left
+go 7921
+infect 7921
+go 1891
+right
+go 7921
+ifenemy 10722
+ifwall 4026
+ifsame 7941
+right
+go 7936
+go 2245
+go 1105
+left
+go 7126
+right
+go 7936
+infect 7936
+go 5146
+right
+go 2161
+ifenemy 7962
+ifwall 12771
+ifsame 7191
+hop
+go 7951
+go 7960
+ifrandom 11714
+left
+go 7951
+right
+go 7951
+infect 13111
+go 12976
+right
+go 7951
+ifenemy 8127
+ifwall 3831
+ifsame 8586
+hop
+go 1996
+go 7975
+ifrandom 7124
+left
+go 4666
+right
+go 7966
+infect 7966
+go 7966
+right
+go 7966
+ifenemy 7992
+ifwall 8466
+ifsame 6321
+right
+go 1756
+go 3970
+ifrandom 7994
+left
+go 7981
+right
+go 11491
+infect 7981
+go 6856
+right
+go 7981
+ifenemy 402
+ifwall 6261
+ifsame 9936
+right
+go 7996
+go 3445
+ifrandom 8009
+left
+go 12706
+left
+go 7651
+infect 7996
+go 7996
+right
+go 6766
+ifenemy 6792
+ifwall 8016
+ifsame 2436
+hop
+go 8011
+go 8020
+go 9745
+left
+go 8011
+left
+go 8011
+infect 8011
+go 13291
+right
+go 8011
+ifenemy 2262
+ifwall 8031
+ifsame 10791
+left
+go 6286
+go 8035
+ifrandom 3284
+left
+go 8026
+left
+go 8026
+infect 12481
+go 8026
+right
+go 8026
+ifenemy 5487
+ifwall 8046
+ifsame 3816
+hop
+go 5356
+go 8050
+go 3910
+left
+go 8041
+right
+go 10156
+infect 7036
+go 7096
+right
+go 751
+ifenemy 8067
+ifwall 5886
+ifsame 12966
+left
+go 766
+go 8410
+ifrandom 119
+left
+go 8056
+left
+go 5446
+infect 9526
+go 8056
+right
+go 9316
+ifenemy 8082
+ifwall 8076
+ifsame 8076
+left
+go 8071
+go 6925
+go 8080
+left
+go 11431
+right
+go 8866
+infect 8071
+go 10681
+right
+go 8071
+ifenemy 8097
+ifwall 531
+ifsame 8586
+right
+go 8086
+go 6220
+ifrandom 9044
+left
+go 8086
+right
+go 8086
+infect 8086
+go 8086
+right
+go 8086
+ifenemy 8112
+ifwall 10821
+ifsame 8106
+hop
+go 2221
+go 8080
+go 10060
+left
+go 8101
+left
+go 9736
+infect 1081
+go 4426
+right
+go 1066
+ifenemy 8127
+ifwall 8121
+ifsame 6666
+right
+go 8116
+go 12310
+go 8125
+left
+go 8116
+right
+go 8116
+infect 12391
+go 8116
+right
+go 12451
+ifenemy 8142
+ifwall 8136
+ifsame 5436
+left
+go 5011
+go 8140
+ifrandom 8144
+left
+go 316
+right
+go 8341
+infect 2701
+go 1651
+right
+go 8131
+ifenemy 2847
+ifwall 8151
+ifsame 4641
+hop
+go 8146
+go 8155
+go 8095
+left
+go 1081
+left
+go 8146
+infect 8146
+go 8146
+right
+go 8146
+ifenemy 8172
+ifwall 8166
+ifsame 8166
+left
+go 10741
+go 8170
+ifrandom 6659
+left
+go 7936
+right
+go 5041
+infect 10651
+go 826
+right
+go 8161
+ifenemy 8187
+ifwall 8181
+ifsame 8181
+hop
+go 8176
+go 8185
+ifrandom 8189
+left
+go 9406
+right
+go 8176
+infect 5146
+go 8176
+right
+go 8176
+ifenemy 5022
+ifwall 351
+ifsame 8196
+left
+go 8191
+go 8200
+go 9715
+left
+go 8191
+left
+go 11431
+infect 11446
+go 8191
+right
+go 10441
+ifenemy 12777
+ifwall 8211
+ifsame 13146
+left
+go 5086
+go 11530
+go 8215
+left
+go 11236
+right
+go 8206
+infect 3781
+go 8206
+right
+go 8206
+ifenemy 8232
+ifwall 8226
+ifsame 13011
+hop
+go 8221
+go 13075
+ifrandom 8234
+left
+go 13396
+right
+go 1891
+infect 4846
+go 6391
+right
+go 7126
+ifenemy 8247
+ifwall 8241
+ifsame 8241
+right
+go 8236
+go 8245
+go 8245
+left
+go 8236
+left
+go 11221
+infect 6346
+go 8236
+right
+go 6481
+ifenemy 4947
+ifwall 8856
+ifsame 8256
+left
+go 8251
+go 8260
+ifrandom 8264
+left
+go 8251
+left
+go 8251
+infect 5461
+go 7051
+right
+go 10561
+ifenemy 2052
+ifwall 8271
+ifsame 1641
+hop
+go 8266
+go 8275
+ifrandom 9644
+left
+go 8266
+left
+go 8266
+infect 8266
+go 10726
+right
+go 13141
+ifenemy 4737
+ifwall 11946
+ifsame 2301
+left
+go 586
+go 8290
+ifrandom 8294
+left
+go 8281
+right
+go 2041
+infect 1111
+go 8281
+right
+go 8281
+ifenemy 12972
+ifwall 7341
+ifsame 8301
+left
+go 9826
+go 8305
+ifrandom 8309
+left
+go 8296
+left
+go 8296
+infect 1486
+go 9796
+right
+go 8296
+ifenemy 11337
+ifwall 8376
+ifsame 12351
+hop
+go 6376
+go 8320
+go 10180
+left
+go 12916
+right
+go 1936
+infect 8311
+go 12721
+right
+go 4996
+ifenemy 8337
+ifwall 4701
+ifsame 3906
+hop
+go 8326
+go 8335
+ifrandom 6644
+left
+go 1321
+right
+go 8326
+infect 8326
+go 10651
+right
+go 8326
+ifenemy 8352
+ifwall 8346
+ifsame 9276
+hop
+go 7186
+go 8350
+go 8350
+left
+go 5371
+right
+go 8341
+infect 11776
+go 8791
+right
+go 8341
+ifenemy 8502
+ifwall 4086
+ifsame 8361
+hop
+go 8356
+go 8365
+ifrandom 6134
+left
+go 8266
+left
+go 8356
+infect 8356
+go 13336
+right
+go 8356
+ifenemy 8382
+ifwall 8376
+ifsame 51
+right
+go 8371
+go 8380
+ifrandom 8384
+left
+go 4531
+left
+go 541
+infect 8371
+go 10816
+right
+go 9511
+ifenemy 8397
+ifwall 8391
+ifsame 8391
+left
+go 8386
+go 9430
+ifrandom 8399
+left
+go 1591
+right
+go 331
+infect 8386
+go 121
+right
+go 8386
+ifenemy 4647
+ifwall 6441
+ifsame 12216
+right
+go 8401
+go 8410
+go 9265
+left
+go 8401
+right
+go 8401
+infect 7921
+go 8401
+right
+go 8101
+ifenemy 8427
+ifwall 11601
+ifsame 4281
+hop
+go 6331
+go 8425
+go 7690
+left
+go 8146
+right
+go 2791
+infect 8416
+go 8416
+right
+go 8416
+ifenemy 13062
+ifwall 8706
+ifsame 2016
+right
+go 5326
+go 8440
+ifrandom 6509
+left
+go 8431
+right
+go 7816
+infect 13021
+go 8431
+right
+go 7591
+ifenemy 8457
+ifwall 13296
+ifsame 8451
+hop
+go 8446
+go 8725
+go 8455
+left
+go 11311
+right
+go 8446
+infect 8446
+go 856
+right
+go 10306
+ifenemy 6327
+ifwall 8466
+ifsame 5886
+hop
+go 8686
+go 3430
+ifrandom 1034
+left
+go 12976
+right
+go 13291
+infect 8461
+go 376
+right
+go 3391
+ifenemy 282
+ifwall 12756
+ifsame 8481
+right
+go 8476
+go 9475
+ifrandom 1139
+left
+go 1666
+left
+go 11371
+infect 8671
+go 1591
+right
+go 8476
+ifenemy 8502
+ifwall 8496
+ifsame 8496
+hop
+go 8491
+go 9430
+go 8500
+left
+go 8491
+left
+go 736
+infect 9811
+go 11116
+right
+go 8491
+ifenemy 13017
+ifwall 8511
+ifsame 8511
+right
+go 1741
+go 8515
+ifrandom 9704
+left
+go 8506
+left
+go 8506
+infect 4216
+go 8506
+right
+go 12241
+ifenemy 12612
+ifwall 8526
+ifsame 1026
+hop
+go 8521
+go 8530
+go 7765
+left
+go 4201
+right
+go 8521
+infect 8521
+go 8521
+right
+go 8521
+ifenemy 4257
+ifwall 8541
+ifsame 606
+right
+go 7906
+go 7225
+ifrandom 8549
+left
+go 9376
+left
+go 8536
+infect 5806
+go 13006
+right
+go 8536
+ifenemy 762
+ifwall 2766
+ifsame 8556
+left
+go 8551
+go 1375
+go 4150
+left
+go 8551
+left
+go 8551
+infect 8551
+go 2731
+right
+go 6466
+ifenemy 11862
+ifwall 8256
+ifsame 8571
+right
+go 556
+go 8575
+ifrandom 4649
+left
+go 4651
+right
+go 8566
+infect 8566
+go 8566
+right
+go 8566
+ifenemy 2832
+ifwall 8586
+ifsame 7491
+hop
+go 12316
+go 4015
+go 7090
+left
+go 4951
+left
+go 7261
+infect 8581
+go 8581
+right
+go 8581
+ifenemy 8442
+ifwall 51
+ifsame 8391
+left
+go 8596
+go 8605
+ifrandom 8609
+left
+go 4846
+left
+go 8596
+infect 8596
+go 541
+right
+go 8596
+ifenemy 8622
+ifwall 9531
+ifsame 10791
+left
+go 8611
+go 2815
+ifrandom 10439
+left
+go 8611
+left
+go 8011
+infect 4936
+go 9466
+right
+go 7471
+ifenemy 2217
+ifwall 8631
+ifsame 8061
+right
+go 6166
+go 1105
+ifrandom 8639
+left
+go 8626
+right
+go 2176
+infect 8626
+go 1426
+right
+go 4396
+ifenemy 2172
+ifwall 8646
+ifsame 8646
+right
+go 8641
+go 11110
+go 8650
+left
+go 8641
+right
+go 8641
+infect 8641
+go 8701
+right
+go 8716
+ifenemy 8667
+ifwall 2301
+ifsame 8661
+hop
+go 3991
+go 8065
+ifrandom 7064
+left
+go 8656
+right
+go 8656
+infect 2446
+go 8656
+right
+go 8656
+ifenemy 11562
+ifwall 1746
+ifsame 8676
+left
+go 10351
+go 8680
+go 2260
+left
+go 8671
+left
+go 4291
+infect 8671
+go 8671
+right
+go 8671
+ifenemy 12102
+ifwall 8691
+ifsame 2316
+right
+go 12256
+go 2980
+ifrandom 704
+left
+go 9271
+right
+go 871
+infect 8686
+go 9391
+right
+go 8686
+ifenemy 10827
+ifwall 2586
+ifsame 11856
+hop
+go 8701
+go 895
+go 3205
+left
+go 8701
+right
+go 5716
+infect 8731
+go 8701
+right
+go 8701
+ifenemy 7167
+ifwall 8616
+ifsame 1791
+right
+go 8716
+go 5575
+go 8725
+left
+go 9976
+right
+go 5971
+infect 6001
+go 8716
+right
+go 8716
+ifenemy 882
+ifwall 8736
+ifsame 8736
+right
+go 7576
+go 8860
+go 4435
+left
+go 8731
+left
+go 8731
+infect 3091
+go 12256
+right
+go 12931
+ifenemy 10137
+ifwall 366
+ifsame 5481
+hop
+go 8746
+go 8755
+go 12655
+left
+go 8746
+right
+go 8746
+infect 8746
+go 8746
+right
+go 1231
+ifenemy 8772
+ifwall 8766
+ifsame 8766
+hop
+go 8761
+go 8770
+go 8770
+left
+go 8761
+right
+go 5176
+infect 5056
+go 8761
+right
+go 10006
+ifenemy 8787
+ifwall 3051
+ifsame 8781
+right
+go 8776
+go 3130
+ifrandom 7484
+left
+go 2641
+left
+go 8776
+infect 11446
+go 13156
+right
+go 8776
+ifenemy 8802
+ifwall 8796
+ifsame 8796
+hop
+go 436
+go 8800
+ifrandom 2654
+left
+go 8791
+left
+go 8791
+infect 1711
+go 3676
+right
+go 8791
+ifenemy 8817
+ifwall 8811
+ifsame 11091
+right
+go 8806
+go 3940
+go 2470
+left
+go 4951
+right
+go 8806
+infect 1681
+go 8806
+right
+go 8806
+ifenemy 1497
+ifwall 8826
+ifsame 5946
+hop
+go 8821
+go 1675
+go 9505
+left
+go 8821
+left
+go 11296
+infect 11401
+go 2566
+right
+go 10351
+ifenemy 8847
+ifwall 8841
+ifsame 8841
+left
+go 12061
+go 8845
+ifrandom 8849
+left
+go 11506
+right
+go 9091
+infect 8836
+go 8836
+right
+go 8836
+ifenemy 8862
+ifwall 10701
+ifsame 11736
+right
+go 8851
+go 715
+go 4975
+left
+go 8851
+right
+go 8851
+infect 8851
+go 6241
+right
+go 8851
+ifenemy 7572
+ifwall 9186
+ifsame 8871
+hop
+go 8866
+go 5500
+ifrandom 209
+left
+go 8866
+left
+go 421
+infect 8866
+go 8866
+right
+go 11791
+ifenemy 7362
+ifwall 8886
+ifsame 3246
+left
+go 8701
+go 3700
+go 8890
+left
+go 8881
+right
+go 4201
+infect 8881
+go 9886
+right
+go 13111
+ifenemy 12297
+ifwall 8901
+ifsame 8901
+left
+go 8896
+go 8905
+ifrandom 8909
+left
+go 4636
+right
+go 2851
+infect 3541
+go 5326
+right
+go 8896
+ifenemy 8922
+ifwall 8916
+ifsame 9666
+left
+go 8686
+go 3820
+go 8920
+left
+go 8911
+left
+go 8911
+infect 8911
+go 8911
+right
+go 8236
+ifenemy 8937
+ifwall 8931
+ifsame 8931
+left
+go 6751
+go 8935
+go 8935
+left
+go 826
+left
+go 8926
+infect 8926
+go 9616
+right
+go 511
+ifenemy 8952
+ifwall 10761
+ifsame 8946
+right
+go 8941
+go 8950
+ifrandom 8954
+left
+go 9781
+right
+go 601
+infect 8236
+go 11611
+right
+go 8941
+ifenemy 7512
+ifwall 8961
+ifsame 10386
+left
+go 8956
+go 8965
+go 6370
+left
+go 8956
+right
+go 11281
+infect 4276
+go 7186
+right
+go 8956
+ifenemy 8982
+ifwall 8976
+ifsame 8976
+right
+go 8971
+go 8980
+go 955
+left
+go 8971
+right
+go 10981
+infect 3931
+go 8971
+right
+go 8971
+ifenemy 8997
+ifwall 8991
+ifsame 6156
+left
+go 11401
+go 8995
+go 4795
+left
+go 8986
+right
+go 8986
+infect 12001
+go 5731
+right
+go 8986
+ifenemy 9012
+ifwall 11871
+ifsame 9006
+right
+go 12436
+go 4165
+ifrandom 9014
+left
+go 4936
+left
+go 9001
+infect 2461
+go 5701
+right
+go 9001
+ifenemy 9027
+ifwall 9021
+ifsame 9021
+left
+go 7591
+go 9025
+go 11485
+left
+go 706
+left
+go 9016
+infect 6466
+go 3361
+right
+go 12301
+ifenemy 9042
+ifwall 10116
+ifsame 11346
+right
+go 7396
+go 9040
+go 9040
+left
+go 9031
+left
+go 7261
+infect 6031
+go 12571
+right
+go 6541
+ifenemy 4992
+ifwall 1326
+ifsame 9051
+left
+go 7591
+go 2050
+ifrandom 9059
+left
+go 9046
+right
+go 4651
+infect 9286
+go 9046
+right
+go 9661
+ifenemy 8772
+ifwall 3636
+ifsame 10611
+hop
+go 9061
+go 10615
+ifrandom 8714
+left
+go 9361
+right
+go 6316
+infect 1726
+go 9061
+right
+go 9061
+ifenemy 9087
+ifwall 9081
+ifsame 9081
+left
+go 2446
+go 10825
+go 9085
+left
+go 9076
+right
+go 9076
+infect 10831
+go 8446
+right
+go 10291
+ifenemy 3012
+ifwall 4401
+ifsame 3351
+left
+go 3451
+go 13210
+go 9100
+left
+go 226
+left
+go 8176
+infect 10981
+go 9091
+right
+go 9091
+ifenemy 9117
+ifwall 9111
+ifsame 5481
+hop
+go 8581
+go 9115
+go 9115
+left
+go 10036
+right
+go 12631
+infect 2311
+go 9106
+right
+go 8296
+ifenemy 12342
+ifwall 7266
+ifsame 11616
+right
+go 766
+go 7630
+ifrandom 7259
+left
+go 361
+left
+go 391
+infect 9121
+go 9121
+right
+go 8371
+ifenemy 9147
+ifwall 9141
+ifsame 3801
+right
+go 3616
+go 9145
+ifrandom 9149
+left
+go 9136
+left
+go 9136
+infect 7036
+go 2341
+right
+go 9136
+ifenemy 9162
+ifwall 5616
+ifsame 9156
+hop
+go 1531
+go 5770
+ifrandom 7799
+left
+go 9151
+right
+go 13021
+infect 9676
+go 3661
+right
+go 9151
+ifenemy 9192
+ifwall 9171
+ifsame 381
+hop
+go 6436
+go 2875
+ifrandom 10214
+left
+go 9166
+right
+go 9166
+infect 2611
+go 7741
+right
+go 346
+ifenemy 9192
+ifwall 9186
+ifsame 9186
+right
+go 9181
+go 9190
+ifrandom 1904
+left
+go 5746
+right
+go 9211
+infect 9181
+go 6931
+right
+go 7276
+ifenemy 9207
+ifwall 12531
+ifsame 9201
+left
+go 13336
+go 9205
+go 9205
+left
+go 4036
+left
+go 11251
+infect 9196
+go 9196
+right
+go 10441
+ifenemy 9222
+ifwall 9216
+ifsame 9216
+left
+go 10021
+go 3235
+ifrandom 959
+left
+go 9211
+left
+go 2416
+infect 7381
+go 9211
+right
+go 9211
+ifenemy 9237
+ifwall 9231
+ifsame 8046
+left
+go 9226
+go 2395
+go 9235
+left
+go 9091
+right
+go 9226
+infect 9226
+go 9226
+right
+go 9226
+ifenemy 9252
+ifwall 9246
+ifsame 7926
+right
+go 9241
+go 13315
+go 160
+left
+go 9241
+right
+go 3706
+infect 9241
+go 9241
+right
+go 7891
+ifenemy 12522
+ifwall 9261
+ifsame 10476
+left
+go 9256
+go 5620
+ifrandom 8579
+left
+go 9256
+left
+go 8566
+infect 6481
+go 9256
+right
+go 12796
+ifenemy 12912
+ifwall 9276
+ifsame 9276
+hop
+go 9271
+go 9280
+ifrandom 9284
+left
+go 9271
+right
+go 2821
+infect 9271
+go 9271
+right
+go 1201
+ifenemy 11427
+ifwall 9291
+ifsame 9291
+right
+go 9286
+go 9295
+ifrandom 5459
+left
+go 8941
+left
+go 2866
+infect 9286
+go 12736
+right
+go 9286
+ifenemy 9312
+ifwall 9306
+ifsame 9306
+right
+go 6511
+go 9310
+go 9310
+left
+go 9301
+left
+go 9301
+infect 4966
+go 1591
+right
+go 12466
+ifenemy 9327
+ifwall 6231
+ifsame 9321
+right
+go 3406
+go 9325
+ifrandom 5924
+left
+go 9316
+right
+go 9616
+infect 9316
+go 9316
+right
+go 9316
+ifenemy 7812
+ifwall 9336
+ifsame 7011
+left
+go 9331
+go 790
+go 9340
+left
+go 9331
+right
+go 1966
+infect 9331
+go 9331
+right
+go 6631
+ifenemy 5517
+ifwall 4836
+ifsame 5526
+left
+go 5461
+go 9355
+go 9355
+left
+go 9346
+right
+go 9286
+infect 11641
+go 9346
+right
+go 9346
+ifenemy 9372
+ifwall 9366
+ifsame 7161
+hop
+go 6946
+go 9370
+go 9370
+left
+go 9361
+right
+go 3106
+infect 9361
+go 12376
+right
+go 796
+ifenemy 12297
+ifwall 9096
+ifsame 3516
+right
+go 13231
+go 13015
+go 9385
+left
+go 5236
+left
+go 10456
+infect 151
+go 9376
+right
+go 6586
+ifenemy 9597
+ifwall 9396
+ifsame 9396
+left
+go 9391
+go 9400
+go 4540
+left
+go 8221
+right
+go 12286
+infect 631
+go 9391
+right
+go 13366
+ifenemy 9417
+ifwall 9411
+ifsame 2061
+hop
+go 2866
+go 9415
+go 2230
+left
+go 9406
+left
+go 6496
+infect 12346
+go 5311
+right
+go 9406
+ifenemy 1227
+ifwall 1806
+ifsame 9426
+left
+go 9421
+go 10165
+ifrandom 10709
+left
+go 1411
+left
+go 9421
+infect 9421
+go 91
+right
+go 3466
+ifenemy 9447
+ifwall 9441
+ifsame 9246
+right
+go 9436
+go 9445
+go 685
+left
+go 4861
+right
+go 7381
+infect 9436
+go 9691
+right
+go 9436
+ifenemy 9462
+ifwall 9666
+ifsame 5556
+right
+go 9871
+go 2740
+ifrandom 12509
+left
+go 9451
+right
+go 10081
+infect 12391
+go 9451
+right
+go 3556
+ifenemy 3747
+ifwall 9471
+ifsame 9666
+left
+go 10831
+go 1600
+go 12985
+left
+go 9466
+left
+go 886
+infect 2116
+go 9466
+right
+go 9466
+ifenemy 9492
+ifwall 9486
+ifsame 9486
+hop
+go 9481
+go 100
+go 9490
+left
+go 9481
+left
+go 9481
+infect 9481
+go 11416
+right
+go 9481
+ifenemy 9507
+ifwall 9501
+ifsame 9501
+right
+go 13126
+go 5695
+ifrandom 9509
+left
+go 9496
+left
+go 9496
+infect 2536
+go 9496
+right
+go 13156
+ifenemy 8442
+ifwall 4221
+ifsame 9516
+left
+go 9511
+go 9520
+go 9520
+left
+go 13096
+right
+go 9511
+infect 9511
+go 9511
+right
+go 9511
+ifenemy 9537
+ifwall 9531
+ifsame 11196
+hop
+go 9526
+go 9535
+go 13075
+left
+go 3076
+left
+go 9526
+infect 9526
+go 12766
+right
+go 9526
+ifenemy 10452
+ifwall 9546
+ifsame 9546
+right
+go 9541
+go 9550
+go 9550
+left
+go 10021
+right
+go 9541
+infect 9541
+go 5971
+right
+go 9541
+ifenemy 11982
+ifwall 6366
+ifsame 2361
+left
+go 9556
+go 13060
+ifrandom 9569
+left
+go 9496
+left
+go 9556
+infect 4441
+go 3721
+right
+go 9556
+ifenemy 9582
+ifwall 3381
+ifsame 9576
+hop
+go 6901
+go 12745
+go 9580
+left
+go 9571
+left
+go 6766
+infect 9571
+go 13366
+right
+go 9571
+ifenemy 10242
+ifwall 1011
+ifsame 261
+left
+go 9586
+go 10990
+ifrandom 9599
+left
+go 9586
+right
+go 12106
+infect 9586
+go 9586
+right
+go 9586
+ifenemy 9612
+ifwall 9606
+ifsame 10026
+hop
+go 9601
+go 5665
+go 2380
+left
+go 3676
+left
+go 3601
+infect 9601
+go 9601
+right
+go 12076
+ifenemy 9627
+ifwall 9621
+ifsame 336
+left
+go 9616
+go 8365
+ifrandom 9989
+left
+go 9616
+right
+go 8806
+infect 9616
+go 10336
+right
+go 9616
+ifenemy 9642
+ifwall 9636
+ifsame 9636
+hop
+go 9631
+go 9640
+go 9640
+left
+go 9631
+right
+go 5896
+infect 5896
+go 9631
+right
+go 9631
+ifenemy 8967
+ifwall 9651
+ifsame 9651
+hop
+go 6541
+go 9655
+ifrandom 9659
+left
+go 9646
+right
+go 1276
+infect 9646
+go 6871
+right
+go 9646
+ifenemy 6882
+ifwall 9666
+ifsame 66
+left
+go 5596
+go 9670
+ifrandom 6029
+left
+go 9661
+left
+go 9661
+infect 4111
+go 9661
+right
+go 4336
+ifenemy 4452
+ifwall 4641
+ifsame 3576
+hop
+go 7756
+go 9685
+ifrandom 9689
+left
+go 9676
+right
+go 12601
+infect 7321
+go 2821
+right
+go 9676
+ifenemy 9702
+ifwall 9696
+ifsame 9696
+right
+go 7966
+go 6745
+go 9700
+left
+go 9556
+left
+go 9691
+infect 9691
+go 10351
+right
+go 9691
+ifenemy 9717
+ifwall 4086
+ifsame 9906
+right
+go 7471
+go 9715
+go 13045
+left
+go 661
+left
+go 2821
+infect 9706
+go 9706
+right
+go 9706
+ifenemy 9282
+ifwall 10866
+ifsame 9726
+right
+go 9721
+go 7090
+ifrandom 11609
+left
+go 9721
+right
+go 12331
+infect 9721
+go 4306
+right
+go 9721
+ifenemy 9492
+ifwall 9741
+ifsame 9156
+right
+go 9736
+go 8050
+ifrandom 1004
+left
+go 6871
+left
+go 5056
+infect 9736
+go 9736
+right
+go 12151
+ifenemy 9762
+ifwall 9756
+ifsame 9756
+hop
+go 9751
+go 1420
+ifrandom 9764
+left
+go 11641
+right
+go 9751
+infect 12241
+go 9751
+right
+go 9751
+ifenemy 9777
+ifwall 4911
+ifsame 2991
+left
+go 9766
+go 12340
+ifrandom 9779
+left
+go 8596
+left
+go 9766
+infect 4456
+go 12511
+right
+go 3301
+ifenemy 13107
+ifwall 10041
+ifsame 9786
+left
+go 9781
+go 9790
+go 6955
+left
+go 9346
+left
+go 11911
+infect 9781
+go 2176
+right
+go 9781
+ifenemy 9807
+ifwall 9801
+ifsame 9801
+right
+go 12256
+go 7570
+go 5590
+left
+go 9796
+left
+go 9796
+infect 9796
+go 826
+right
+go 9721
+ifenemy 9822
+ifwall 9816
+ifsame 10506
+right
+go 2056
+go 9820
+go 9820
+left
+go 11701
+left
+go 9016
+infect 12451
+go 9811
+right
+go 2086
+ifenemy 3147
+ifwall 11586
+ifsame 9831
+right
+go 1321
+go 9835
+go 9835
+left
+go 10306
+right
+go 9826
+infect 12886
+go 9826
+right
+go 9826
+ifenemy 2997
+ifwall 3111
+ifsame 9846
+hop
+go 12361
+go 9850
+ifrandom 9854
+left
+go 4771
+left
+go 1966
+infect 9841
+go 13081
+right
+go 4051
+ifenemy 9867
+ifwall 7431
+ifsame 9861
+right
+go 3376
+go 9865
+ifrandom 9869
+left
+go 1756
+right
+go 12316
+infect 7066
+go 9856
+right
+go 9856
+ifenemy 9882
+ifwall 7476
+ifsame 6666
+right
+go 11251
+go 9880
+ifrandom 9884
+left
+go 9871
+left
+go 9871
+infect 1411
+go 9871
+right
+go 9871
+ifenemy 3207
+ifwall 9891
+ifsame 4671
+right
+go 9886
+go 9895
+go 670
+left
+go 9886
+right
+go 12976
+infect 9886
+go 9886
+right
+go 4021
+ifenemy 9912
+ifwall 9906
+ifsame 9906
+hop
+go 13396
+go 5215
+ifrandom 2834
+left
+go 1666
+left
+go 9901
+infect 9901
+go 1186
+right
+go 9901
+ifenemy 9927
+ifwall 9921
+ifsame 9921
+left
+go 9916
+go 3700
+go 9925
+left
+go 9916
+right
+go 3001
+infect 6121
+go 10231
+right
+go 9916
+ifenemy 11232
+ifwall 9936
+ifsame 9936
+hop
+go 9841
+go 9940
+go 9940
+left
+go 1801
+right
+go 3466
+infect 9931
+go 9931
+right
+go 11971
+ifenemy 9957
+ifwall 9951
+ifsame 9951
+left
+go 9946
+go 13165
+ifrandom 9959
+left
+go 9946
+right
+go 3556
+infect 9946
+go 10246
+right
+go 9946
+ifenemy 4047
+ifwall 2061
+ifsame 9966
+hop
+go 9961
+go 6880
+ifrandom 9974
+left
+go 8566
+right
+go 9046
+infect 10441
+go 9961
+right
+go 5761
+ifenemy 9987
+ifwall 2691
+ifsame 9981
+right
+go 9976
+go 9985
+ifrandom 254
+left
+go 2881
+right
+go 8551
+infect 9976
+go 8881
+right
+go 5686
+ifenemy 10002
+ifwall 10791
+ifsame 6081
+right
+go 8086
+go 100
+go 10000
+left
+go 9991
+left
+go 4591
+infect 9991
+go 9376
+right
+go 2776
+ifenemy 10377
+ifwall 3876
+ifsame 306
+right
+go 10006
+go 9460
+ifrandom 6899
+left
+go 10006
+right
+go 2416
+infect 7711
+go 10006
+right
+go 10006
+ifenemy 10032
+ifwall 10026
+ifsame 10026
+right
+go 2716
+go 10030
+go 5590
+left
+go 4411
+left
+go 6106
+infect 10021
+go 5101
+right
+go 10021
+ifenemy 10047
+ifwall 3711
+ifsame 8676
+left
+go 1171
+go 5755
+ifrandom 4454
+left
+go 9061
+left
+go 10036
+infect 13246
+go 10036
+right
+go 196
+ifenemy 10062
+ifwall 10056
+ifsame 10056
+right
+go 9106
+go 10060
+ifrandom 9284
+left
+go 10051
+right
+go 10051
+infect 10051
+go 406
+right
+go 10051
+ifenemy 6282
+ifwall 3396
+ifsame 10071
+left
+go 10066
+go 10075
+go 10075
+left
+go 10066
+right
+go 10066
+infect 4291
+go 10066
+right
+go 2131
+ifenemy 2847
+ifwall 3966
+ifsame 6471
+hop
+go 10876
+go 10090
+ifrandom 8354
+left
+go 10081
+left
+go 9871
+infect 7096
+go 10951
+right
+go 10081
+ifenemy 10107
+ifwall 10101
+ifsame 10101
+hop
+go 10096
+go 1375
+ifrandom 8684
+left
+go 2806
+right
+go 10096
+infect 8491
+go 10096
+right
+go 10096
+ifenemy 8142
+ifwall 1026
+ifsame 10116
+hop
+go 5716
+go 10120
+ifrandom 2414
+left
+go 13021
+right
+go 2461
+infect 8491
+go 11836
+right
+go 10111
+ifenemy 10137
+ifwall 13116
+ifsame 291
+left
+go 13231
+go 10135
+ifrandom 3089
+left
+go 10126
+left
+go 6256
+infect 5251
+go 4726
+right
+go 10126
+ifenemy 10152
+ifwall 10146
+ifsame 10146
+left
+go 10141
+go 9370
+go 9430
+left
+go 856
+left
+go 10141
+infect 9076
+go 10141
+right
+go 5401
+ifenemy 10527
+ifwall 10161
+ifsame 10161
+left
+go 10156
+go 2035
+go 4690
+left
+go 10156
+left
+go 10156
+infect 10156
+go 1216
+right
+go 4846
+ifenemy 10182
+ifwall 8586
+ifsame 10176
+right
+go 1
+go 6910
+go 10450
+left
+go 10171
+right
+go 10171
+infect 10171
+go 8356
+right
+go 10171
+ifenemy 6642
+ifwall 126
+ifsame 11631
+hop
+go 10186
+go 10195
+ifrandom 9014
+left
+go 10186
+left
+go 5896
+infect 10186
+go 6616
+right
+go 10186
+ifenemy 10212
+ifwall 10206
+ifsame 7131
+hop
+go 9166
+go 10540
+go 5890
+left
+go 10201
+right
+go 10201
+infect 10201
+go 9736
+right
+go 10201
+ifenemy 10227
+ifwall 10221
+ifsame 10221
+hop
+go 8086
+go 10225
+go 2635
+left
+go 3736
+right
+go 12586
+infect 10216
+go 6196
+right
+go 10216
+ifenemy 10242
+ifwall 9351
+ifsame 10236
+hop
+go 5596
+go 190
+go 1525
+left
+go 10231
+left
+go 10231
+infect 7621
+go 10231
+right
+go 10231
+ifenemy 1797
+ifwall 9576
+ifsame 10251
+left
+go 10246
+go 10255
+ifrandom 10259
+left
+go 10246
+left
+go 10246
+infect 10246
+go 10006
+right
+go 8296
+ifenemy 7092
+ifwall 3471
+ifsame 10206
+right
+go 3631
+go 4165
+go 655
+left
+go 10261
+right
+go 11446
+infect 10261
+go 10261
+right
+go 10261
+ifenemy 2082
+ifwall 10281
+ifsame 10281
+hop
+go 4501
+go 9910
+go 6580
+left
+go 11956
+left
+go 1621
+infect 10276
+go 6526
+right
+go 2071
+ifenemy 11172
+ifwall 12081
+ifsame 10296
+left
+go 7366
+go 10300
+ifrandom 12644
+left
+go 10291
+left
+go 2716
+infect 4336
+go 5656
+right
+go 12076
+ifenemy 3927
+ifwall 10311
+ifsame 10311
+hop
+go 4351
+go 5695
+ifrandom 3314
+left
+go 5236
+left
+go 7621
+infect 10306
+go 10306
+right
+go 10306
+ifenemy 5982
+ifwall 10326
+ifsame 10326
+right
+go 796
+go 10330
+ifrandom 11039
+left
+go 2641
+right
+go 10321
+infect 10321
+go 7906
+right
+go 10321
+ifenemy 11082
+ifwall 10341
+ifsame 10341
+left
+go 4021
+go 7525
+go 6910
+left
+go 2551
+left
+go 4951
+infect 10336
+go 10336
+right
+go 10336
+ifenemy 8952
+ifwall 10356
+ifsame 7356
+hop
+go 11281
+go 5920
+ifrandom 10364
+left
+go 6466
+right
+go 10351
+infect 706
+go 6751
+right
+go 12646
+ifenemy 10377
+ifwall 10956
+ifsame 10371
+right
+go 1546
+go 10375
+ifrandom 10379
+left
+go 10366
+right
+go 12601
+infect 1861
+go 10366
+right
+go 10366
+ifenemy 6402
+ifwall 10386
+ifsame 10386
+left
+go 10381
+go 10795
+ifrandom 6839
+left
+go 10141
+left
+go 10381
+infect 10381
+go 7096
+right
+go 3976
+ifenemy 5547
+ifwall 10401
+ifsame 2121
+right
+go 571
+go 10405
+ifrandom 10409
+left
+go 6601
+right
+go 10396
+infect 6946
+go 11596
+right
+go 10396
+ifenemy 10422
+ifwall 7566
+ifsame 7806
+hop
+go 3031
+go 10420
+go 11605
+left
+go 10411
+left
+go 13246
+infect 10411
+go 13096
+right
+go 10411
+ifenemy 10437
+ifwall 4431
+ifsame 13326
+hop
+go 10426
+go 2920
+go 1750
+left
+go 10426
+left
+go 10426
+infect 10426
+go 9646
+right
+go 10426
+ifenemy 10452
+ifwall 10446
+ifsame 7686
+hop
+go 8026
+go 10450
+go 10990
+left
+go 9241
+right
+go 10441
+infect 766
+go 10441
+right
+go 10441
+ifenemy 10467
+ifwall 10851
+ifsame 696
+hop
+go 8326
+go 2830
+ifrandom 3224
+left
+go 13081
+right
+go 11956
+infect 10456
+go 10456
+right
+go 10456
+ifenemy 10497
+ifwall 7806
+ifsame 2106
+left
+go 10471
+go 10480
+ifrandom 1064
+left
+go 1921
+right
+go 3931
+infect 10471
+go 9181
+right
+go 10471
+ifenemy 10497
+ifwall 5481
+ifsame 10491
+right
+go 6946
+go 1825
+go 11155
+left
+go 6556
+right
+go 10486
+infect 10486
+go 11356
+right
+go 3571
+ifenemy 1302
+ifwall 10506
+ifsame 2106
+hop
+go 10501
+go 4165
+go 6160
+left
+go 10501
+left
+go 10501
+infect 4666
+go 12481
+right
+go 10501
+ifenemy 3927
+ifwall 10521
+ifsame 10521
+right
+go 10516
+go 10525
+go 10525
+left
+go 2761
+right
+go 6751
+infect 10516
+go 10516
+right
+go 10516
+ifenemy 10542
+ifwall 10536
+ifsame 10536
+right
+go 991
+go 10540
+go 10540
+left
+go 7306
+right
+go 10531
+infect 2086
+go 13291
+right
+go 9421
+ifenemy 3867
+ifwall 9651
+ifsame 10551
+hop
+go 9751
+go 10555
+go 10555
+left
+go 10546
+left
+go 10546
+infect 10546
+go 10546
+right
+go 10546
+ifenemy 8982
+ifwall 11151
+ifsame 10566
+hop
+go 10561
+go 10570
+ifrandom 10574
+left
+go 9256
+right
+go 13276
+infect 10561
+go 4171
+right
+go 10561
+ifenemy 9522
+ifwall 10581
+ifsame 7596
+hop
+go 10576
+go 10585
+ifrandom 10589
+left
+go 11041
+right
+go 6586
+infect 2506
+go 10576
+right
+go 11626
+ifenemy 6687
+ifwall 516
+ifsame 10596
+right
+go 10591
+go 6145
+go 5245
+left
+go 3931
+left
+go 10591
+infect 7636
+go 6151
+right
+go 10591
+ifenemy 5787
+ifwall 5196
+ifsame 10611
+left
+go 10606
+go 10615
+go 10615
+left
+go 10606
+left
+go 10606
+infect 10606
+go 10606
+right
+go 10606
+ifenemy 10632
+ifwall 10626
+ifsame 10626
+right
+go 10621
+go 10630
+ifrandom 3614
+left
+go 10621
+left
+go 10621
+infect 2611
+go 10621
+right
+go 7171
+ifenemy 10647
+ifwall 10641
+ifsame 2736
+right
+go 11416
+go 10645
+go 5965
+left
+go 10636
+right
+go 9601
+infect 12706
+go 12991
+right
+go 3601
+ifenemy 102
+ifwall 1626
+ifsame 426
+hop
+go 10651
+go 8140
+go 3250
+left
+go 10141
+right
+go 12316
+infect 10306
+go 7291
+right
+go 331
+ifenemy 10677
+ifwall 10671
+ifsame 9816
+right
+go 8026
+go 10675
+go 9025
+left
+go 10666
+left
+go 1801
+infect 9256
+go 10666
+right
+go 1591
+ifenemy 2442
+ifwall 456
+ifsame 8226
+right
+go 12316
+go 5695
+ifrandom 5954
+left
+go 10681
+left
+go 10681
+infect 10681
+go 10681
+right
+go 10681
+ifenemy 10707
+ifwall 9561
+ifsame 1761
+right
+go 10696
+go 7705
+ifrandom 2834
+left
+go 3001
+right
+go 2131
+infect 10696
+go 12061
+right
+go 9181
+ifenemy 10722
+ifwall 10716
+ifsame 10716
+right
+go 11011
+go 11755
+go 11290
+left
+go 9751
+right
+go 11221
+infect 3886
+go 91
+right
+go 7846
+ifenemy 12927
+ifwall 3756
+ifsame 10731
+left
+go 2506
+go 10735
+ifrandom 5774
+left
+go 10726
+left
+go 8146
+infect 10726
+go 10726
+right
+go 10726
+ifenemy 10752
+ifwall 10746
+ifsame 10746
+right
+go 10741
+go 10750
+ifrandom 8204
+left
+go 7381
+left
+go 10741
+infect 10741
+go 11281
+right
+go 271
+ifenemy 462
+ifwall 10761
+ifsame 10761
+hop
+go 13156
+go 10765
+ifrandom 5309
+left
+go 4426
+right
+go 10756
+infect 10756
+go 7861
+right
+go 11311
+ifenemy 9297
+ifwall 10776
+ifsame 10776
+right
+go 9511
+go 10780
+go 10780
+left
+go 4351
+left
+go 4771
+infect 10771
+go 11206
+right
+go 12436
+ifenemy 13242
+ifwall 10791
+ifsame 10791
+left
+go 10786
+go 10795
+ifrandom 10799
+left
+go 7816
+right
+go 9496
+infect 7696
+go 10786
+right
+go 10786
+ifenemy 10812
+ifwall 6756
+ifsame 10806
+left
+go 10801
+go 10810
+go 10810
+left
+go 12271
+right
+go 10801
+infect 12106
+go 3271
+right
+go 9586
+ifenemy 10377
+ifwall 3201
+ifsame 10821
+right
+go 12586
+go 10825
+ifrandom 3359
+left
+go 10816
+right
+go 10816
+infect 511
+go 10816
+right
+go 10816
+ifenemy 6807
+ifwall 10836
+ifsame 10836
+left
+go 10831
+go 10840
+go 10840
+left
+go 10831
+left
+go 10831
+infect 10831
+go 496
+right
+go 10831
+ifenemy 6087
+ifwall 11511
+ifsame 10401
+hop
+go 10846
+go 2410
+ifrandom 10859
+left
+go 10846
+right
+go 601
+infect 9961
+go 6241
+right
+go 2551
+ifenemy 10872
+ifwall 10866
+ifsame 7971
+left
+go 3166
+go 10870
+go 10870
+left
+go 3916
+right
+go 10861
+infect 2221
+go 6886
+right
+go 10861
+ifenemy 10887
+ifwall 10881
+ifsame 10881
+left
+go 10606
+go 3220
+ifrandom 10424
+left
+go 7156
+right
+go 10876
+infect 1501
+go 10876
+right
+go 10876
+ifenemy 4917
+ifwall 11511
+ifsame 3306
+left
+go 13051
+go 10900
+go 10900
+left
+go 10891
+right
+go 3196
+infect 10396
+go 10891
+right
+go 3046
+ifenemy 10917
+ifwall 2706
+ifsame 5511
+right
+go 3796
+go 6970
+go 3625
+left
+go 10906
+right
+go 13201
+infect 10906
+go 10906
+right
+go 8536
+ifenemy 5967
+ifwall 10026
+ifsame 10926
+right
+go 10921
+go 10930
+ifrandom 7274
+left
+go 10921
+left
+go 10921
+infect 2056
+go 10921
+right
+go 10306
+ifenemy 4467
+ifwall 2616
+ifsame 5511
+right
+go 10936
+go 10945
+ifrandom 6929
+left
+go 7276
+left
+go 4441
+infect 3361
+go 7096
+right
+go 13321
+ifenemy 10962
+ifwall 10956
+ifsame 10956
+left
+go 1201
+go 7270
+go 10960
+left
+go 10951
+left
+go 10951
+infect 10951
+go 6856
+right
+go 451
+ifenemy 4902
+ifwall 981
+ifsame 10971
+right
+go 4096
+go 13075
+ifrandom 10979
+left
+go 10591
+right
+go 10966
+infect 10966
+go 10966
+right
+go 10966
+ifenemy 12717
+ifwall 1386
+ifsame 10986
+hop
+go 10981
+go 12790
+ifrandom 10994
+left
+go 10351
+right
+go 10981
+infect 12076
+go 10981
+right
+go 10981
+ifenemy 5262
+ifwall 3426
+ifsame 11001
+hop
+go 10996
+go 10405
+go 8545
+left
+go 2971
+right
+go 1696
+infect 10996
+go 10996
+right
+go 1921
+ifenemy 11022
+ifwall 11016
+ifsame 11361
+right
+go 11011
+go 11020
+go 9775
+left
+go 11011
+left
+go 5281
+infect 11011
+go 9856
+right
+go 11011
+ifenemy 11037
+ifwall 11031
+ifsame 4656
+hop
+go 11026
+go 12580
+go 1225
+left
+go 3736
+right
+go 9541
+infect 8386
+go 11026
+right
+go 3331
+ifenemy 11052
+ifwall 11046
+ifsame 11046
+hop
+go 10216
+go 11050
+go 11050
+left
+go 1321
+left
+go 6631
+infect 11041
+go 11041
+right
+go 10021
+ifenemy 11967
+ifwall 11061
+ifsame 11061
+hop
+go 11056
+go 11065
+ifrandom 749
+left
+go 2926
+right
+go 10471
+infect 11056
+go 11056
+right
+go 9256
+ifenemy 1242
+ifwall 4311
+ifsame 771
+hop
+go 1291
+go 12730
+ifrandom 11084
+left
+go 13366
+right
+go 3316
+infect 12406
+go 11071
+right
+go 11071
+ifenemy 11097
+ifwall 8766
+ifsame 5361
+left
+go 1966
+go 4975
+ifrandom 11099
+left
+go 11416
+right
+go 12511
+infect 10261
+go 8761
+right
+go 8281
+ifenemy 9897
+ifwall 6696
+ifsame 3591
+hop
+go 11101
+go 5725
+ifrandom 11114
+left
+go 10216
+left
+go 9616
+infect 9241
+go 11101
+right
+go 11101
+ifenemy 3252
+ifwall 13266
+ifsame 11331
+left
+go 11116
+go 11125
+go 2500
+left
+go 5851
+right
+go 13261
+infect 11116
+go 11116
+right
+go 11116
+ifenemy 11142
+ifwall 11136
+ifsame 11136
+left
+go 11131
+go 11140
+ifrandom 11144
+left
+go 346
+left
+go 12151
+infect 11131
+go 9946
+right
+go 12331
+ifenemy 11157
+ifwall 11151
+ifsame 11151
+hop
+go 12871
+go 11155
+go 8620
+left
+go 11386
+left
+go 9436
+infect 11146
+go 6511
+right
+go 11146
+ifenemy 11172
+ifwall 10761
+ifsame 11166
+right
+go 7396
+go 11725
+go 3850
+left
+go 13231
+left
+go 691
+infect 11311
+go 12256
+right
+go 4291
+ifenemy 6207
+ifwall 11181
+ifsame 6321
+right
+go 2746
+go 11185
+ifrandom 11489
+left
+go 11176
+right
+go 3781
+infect 4741
+go 12916
+right
+go 11176
+ifenemy 11202
+ifwall 11196
+ifsame 3891
+right
+go 11191
+go 3475
+go 265
+left
+go 5161
+left
+go 5311
+infect 2596
+go 11191
+right
+go 4606
+ifenemy 9252
+ifwall 11211
+ifsame 1881
+right
+go 5041
+go 12040
+go 11215
+left
+go 11206
+right
+go 12211
+infect 1816
+go 9976
+right
+go 11206
+ifenemy 11232
+ifwall 11226
+ifsame 13281
+right
+go 11221
+go 10600
+go 11230
+left
+go 10186
+right
+go 11221
+infect 6661
+go 11221
+right
+go 7291
+ifenemy 8037
+ifwall 6651
+ifsame 11241
+left
+go 11236
+go 12310
+go 11245
+left
+go 7066
+right
+go 2266
+infect 11236
+go 11236
+right
+go 11236
+ifenemy 6282
+ifwall 11886
+ifsame 11256
+right
+go 11251
+go 11260
+ifrandom 11264
+left
+go 11101
+left
+go 11251
+infect 11251
+go 7696
+right
+go 11251
+ifenemy 8997
+ifwall 9306
+ifsame 7326
+hop
+go 11266
+go 11275
+go 7090
+left
+go 6811
+right
+go 1666
+infect 1636
+go 12481
+right
+go 11266
+ifenemy 12417
+ifwall 726
+ifsame 11286
+right
+go 12316
+go 11290
+ifrandom 3629
+left
+go 9286
+left
+go 5011
+infect 2956
+go 3691
+right
+go 4606
+ifenemy 4497
+ifwall 12036
+ifsame 5811
+left
+go 10891
+go 11305
+go 11800
+left
+go 11296
+left
+go 11296
+infect 9976
+go 11296
+right
+go 11296
+ifenemy 4752
+ifwall 11316
+ifsame 11316
+right
+go 11311
+go 11320
+go 11320
+left
+go 11311
+left
+go 11311
+infect 5266
+go 11311
+right
+go 11311
+ifenemy 6552
+ifwall 11331
+ifsame 12846
+hop
+go 5206
+go 11335
+ifrandom 10949
+left
+go 11326
+right
+go 11326
+infect 11326
+go 11326
+right
+go 11326
+ifenemy 11352
+ifwall 11346
+ifsame 11346
+left
+go 11341
+go 2440
+go 11350
+left
+go 11341
+right
+go 5626
+infect 11341
+go 11341
+right
+go 6556
+ifenemy 11367
+ifwall 11361
+ifsame 12396
+left
+go 11356
+go 7420
+go 11365
+left
+go 12406
+left
+go 11356
+infect 11356
+go 13021
+right
+go 6601
+ifenemy 5067
+ifwall 4116
+ifsame 11376
+hop
+go 11371
+go 11350
+ifrandom 824
+left
+go 2701
+left
+go 8266
+infect 811
+go 12556
+right
+go 2716
+ifenemy 11397
+ifwall 11391
+ifsame 11391
+right
+go 11386
+go 7585
+go 9820
+left
+go 6151
+left
+go 11386
+infect 1066
+go 6676
+right
+go 1756
+ifenemy 12177
+ifwall 11406
+ifsame 11406
+right
+go 11401
+go 11410
+go 265
+left
+go 5086
+right
+go 8086
+infect 3241
+go 11401
+right
+go 11401
+ifenemy 11427
+ifwall 486
+ifsame 11421
+hop
+go 6091
+go 1945
+ifrandom 11429
+left
+go 11416
+right
+go 11416
+infect 11416
+go 11416
+right
+go 196
+ifenemy 11442
+ifwall 12711
+ifsame 11586
+left
+go 6136
+go 11440
+go 6565
+left
+go 11431
+right
+go 9646
+infect 11431
+go 11431
+right
+go 11431
+ifenemy 1167
+ifwall 10056
+ifsame 11451
+left
+go 11446
+go 12820
+go 11455
+left
+go 8131
+left
+go 2581
+infect 11446
+go 11446
+right
+go 12661
+ifenemy 2442
+ifwall 11466
+ifsame 13101
+right
+go 11461
+go 11680
+ifrandom 1199
+left
+go 11461
+right
+go 11461
+infect 5251
+go 7996
+right
+go 10201
+ifenemy 6942
+ifwall 5571
+ifsame 11481
+left
+go 10651
+go 11485
+go 11485
+left
+go 5716
+right
+go 11476
+infect 11476
+go 11476
+right
+go 12526
+ifenemy 3207
+ifwall 11496
+ifsame 2046
+right
+go 11491
+go 11695
+ifrandom 10079
+left
+go 7066
+left
+go 4306
+infect 8071
+go 11491
+right
+go 11491
+ifenemy 8847
+ifwall 906
+ifsame 12756
+right
+go 11506
+go 11665
+go 11515
+left
+go 7426
+left
+go 6811
+infect 11506
+go 11506
+right
+go 11506
+ifenemy 13227
+ifwall 11526
+ifsame 3561
+left
+go 11521
+go 11530
+ifrandom 10544
+left
+go 11521
+left
+go 11521
+infect 11521
+go 9421
+right
+go 11521
+ifenemy 2442
+ifwall 11541
+ifsame 11541
+left
+go 11536
+go 11545
+ifrandom 1079
+left
+go 11536
+left
+go 11536
+infect 11536
+go 11536
+right
+go 11536
+ifenemy 11562
+ifwall 5646
+ifsame 11556
+left
+go 11551
+go 11560
+go 6130
+left
+go 3181
+right
+go 11551
+infect 1756
+go 11551
+right
+go 11551
+ifenemy 11772
+ifwall 10071
+ifsame 2091
+left
+go 6136
+go 8920
+ifrandom 11579
+left
+go 11566
+left
+go 11431
+infect 6541
+go 11566
+right
+go 11566
+ifenemy 11592
+ifwall 11586
+ifsame 11586
+left
+go 13216
+go 8635
+ifrandom 8249
+left
+go 11581
+left
+go 11581
+infect 11581
+go 9916
+right
+go 11581
+ifenemy 3207
+ifwall 11601
+ifsame 11511
+hop
+go 8326
+go 10570
+ifrandom 9134
+left
+go 11596
+left
+go 12001
+infect 6736
+go 6451
+right
+go 11596
+ifenemy 11622
+ifwall 8286
+ifsame 13071
+right
+go 11611
+go 11620
+ifrandom 11624
+left
+go 1141
+right
+go 9421
+infect 11611
+go 11611
+right
+go 931
+ifenemy 10077
+ifwall 186
+ifsame 11631
+right
+go 11626
+go 7810
+go 2215
+left
+go 11626
+right
+go 11626
+infect 11296
+go 11626
+right
+go 11626
+ifenemy 11652
+ifwall 11646
+ifsame 11646
+right
+go 11641
+go 11650
+go 5230
+left
+go 11641
+right
+go 11641
+infect 11641
+go 11641
+right
+go 10861
+ifenemy 12897
+ifwall 11661
+ifsame 11661
+hop
+go 5386
+go 10015
+ifrandom 11669
+left
+go 11656
+right
+go 11656
+infect 10846
+go 11656
+right
+go 11656
+ifenemy 11682
+ifwall 8871
+ifsame 4026
+right
+go 3751
+go 11680
+go 8500
+left
+go 11671
+left
+go 11671
+infect 11671
+go 11671
+right
+go 11146
+ifenemy 11022
+ifwall 11691
+ifsame 11691
+hop
+go 11686
+go 11695
+ifrandom 1214
+left
+go 11686
+right
+go 11686
+infect 1396
+go 1441
+right
+go 11686
+ifenemy 2112
+ifwall 9411
+ifsame 10536
+hop
+go 9376
+go 7360
+go 11710
+left
+go 301
+left
+go 11701
+infect 11701
+go 11701
+right
+go 11701
+ifenemy 11727
+ifwall 11721
+ifsame 11721
+hop
+go 11716
+go 11725
+ifrandom 3239
+left
+go 11716
+right
+go 5386
+infect 11716
+go 11716
+right
+go 4321
+ifenemy 5787
+ifwall 11931
+ifsame 11736
+left
+go 11731
+go 10540
+go 10930
+left
+go 11731
+right
+go 10051
+infect 9901
+go 8806
+right
+go 5806
+ifenemy 11757
+ifwall 1866
+ifsame 4866
+left
+go 11746
+go 11755
+go 11755
+left
+go 2611
+right
+go 10216
+infect 11746
+go 11746
+right
+go 13246
+ifenemy 2592
+ifwall 11766
+ifsame 11766
+hop
+go 11761
+go 2575
+ifrandom 11774
+left
+go 11761
+left
+go 1576
+infect 11761
+go 11761
+right
+go 11761
+ifenemy 11397
+ifwall 11781
+ifsame 11781
+right
+go 11776
+go 11545
+go 655
+left
+go 11776
+right
+go 11776
+infect 8821
+go 3631
+right
+go 11776
+ifenemy 11802
+ifwall 4716
+ifsame 6291
+right
+go 11791
+go 11800
+go 1915
+left
+go 11791
+left
+go 6151
+infect 11791
+go 10276
+right
+go 1651
+ifenemy 11817
+ifwall 6996
+ifsame 11811
+hop
+go 11806
+go 1750
+go 7780
+left
+go 11806
+left
+go 11806
+infect 11806
+go 6796
+right
+go 12856
+ifenemy 11832
+ifwall 2916
+ifsame 11826
+hop
+go 1051
+go 10045
+go 12205
+left
+go 11821
+right
+go 11821
+infect 11821
+go 5296
+right
+go 11821
+ifenemy 177
+ifwall 8736
+ifsame 4701
+left
+go 11836
+go 11845
+ifrandom 11849
+left
+go 11836
+right
+go 436
+infect 11836
+go 5326
+right
+go 6856
+ifenemy 1002
+ifwall 12891
+ifsame 8766
+right
+go 766
+go 11860
+go 11170
+left
+go 13141
+right
+go 11851
+infect 11851
+go 11656
+right
+go 11851
+ifenemy 11877
+ifwall 11871
+ifsame 5631
+right
+go 7366
+go 11875
+go 11875
+left
+go 7516
+left
+go 11866
+infect 11866
+go 11866
+right
+go 6946
+ifenemy 11892
+ifwall 11886
+ifsame 11886
+hop
+go 11881
+go 7165
+ifrandom 11894
+left
+go 11881
+left
+go 3811
+infect 11956
+go 1456
+right
+go 7066
+ifenemy 7167
+ifwall 12501
+ifsame 6096
+right
+go 11896
+go 3820
+go 12490
+left
+go 11896
+left
+go 11896
+infect 11896
+go 8626
+right
+go 11896
+ifenemy 5682
+ifwall 12906
+ifsame 11916
+right
+go 11806
+go 11920
+ifrandom 11924
+left
+go 11911
+right
+go 6181
+infect 2926
+go 11911
+right
+go 8461
+ifenemy 1842
+ifwall 11931
+ifsame 11931
+left
+go 11926
+go 6835
+go 11935
+left
+go 541
+left
+go 31
+infect 11251
+go 8221
+right
+go 4711
+ifenemy 11952
+ifwall 11946
+ifsame 3261
+right
+go 8311
+go 11950
+go 2185
+left
+go 13321
+right
+go 6376
+infect 11941
+go 10741
+right
+go 12196
+ifenemy 11967
+ifwall 12306
+ifsame 11961
+hop
+go 11956
+go 1270
+ifrandom 11969
+left
+go 6871
+right
+go 826
+infect 11956
+go 11956
+right
+go 9976
+ifenemy 4632
+ifwall 8526
+ifsame 3696
+right
+go 4111
+go 8380
+ifrandom 3434
+left
+go 11971
+right
+go 11491
+infect 2926
+go 11341
+right
+go 3556
+ifenemy 7362
+ifwall 11991
+ifsame 11991
+left
+go 11521
+go 11995
+go 13015
+left
+go 11986
+left
+go 12391
+infect 8596
+go 8581
+right
+go 11986
+ifenemy 12777
+ifwall 12006
+ifsame 10101
+right
+go 12001
+go 12880
+ifrandom 554
+left
+go 8551
+left
+go 12001
+infect 7111
+go 12001
+right
+go 1411
+ifenemy 12027
+ifwall 6771
+ifsame 11346
+left
+go 5986
+go 2575
+go 12025
+left
+go 12016
+right
+go 12016
+infect 12016
+go 12016
+right
+go 12016
+ifenemy 12042
+ifwall 12036
+ifsame 12036
+hop
+go 12031
+go 12040
+ifrandom 8684
+left
+go 12031
+right
+go 11041
+infect 12031
+go 12031
+right
+go 8026
+ifenemy 12057
+ifwall 12051
+ifsame 12051
+right
+go 12046
+go 11755
+ifrandom 12059
+left
+go 8461
+right
+go 12046
+infect 12046
+go 12046
+right
+go 12046
+ifenemy 462
+ifwall 7521
+ifsame 12066
+left
+go 3766
+go 2905
+ifrandom 12074
+left
+go 12061
+left
+go 12061
+infect 9331
+go 10861
+right
+go 8506
+ifenemy 12087
+ifwall 12081
+ifsame 6516
+left
+go 2236
+go 12085
+go 3310
+left
+go 12076
+right
+go 12076
+infect 12076
+go 12076
+right
+go 12076
+ifenemy 10557
+ifwall 66
+ifsame 12096
+left
+go 12091
+go 9580
+ifrandom 3269
+left
+go 10381
+right
+go 6901
+infect 12091
+go 12091
+right
+go 1171
+ifenemy 1347
+ifwall 12111
+ifsame 12621
+right
+go 9946
+go 12115
+ifrandom 3764
+left
+go 12106
+left
+go 12106
+infect 12106
+go 3541
+right
+go 2911
+ifenemy 12132
+ifwall 12126
+ifsame 12126
+right
+go 11941
+go 2020
+go 8950
+left
+go 4831
+right
+go 3001
+infect 11776
+go 12121
+right
+go 12661
+ifenemy 12147
+ifwall 12561
+ifsame 11151
+hop
+go 12136
+go 12145
+ifrandom 3404
+left
+go 9541
+right
+go 10081
+infect 13201
+go 12136
+right
+go 9301
+ifenemy 3477
+ifwall 8151
+ifsame 12156
+left
+go 2041
+go 1375
+ifrandom 7664
+left
+go 12151
+right
+go 12151
+infect 2626
+go 12151
+right
+go 8101
+ifenemy 4437
+ifwall 8031
+ifsame 7041
+hop
+go 10246
+go 10480
+go 12175
+left
+go 4996
+left
+go 12166
+infect 1471
+go 12166
+right
+go 4471
+ifenemy 5067
+ifwall 7386
+ifsame 12186
+right
+go 12181
+go 12190
+ifrandom 3104
+left
+go 11521
+left
+go 12181
+infect 12181
+go 4546
+right
+go 12181
+ifenemy 12207
+ifwall 12201
+ifsame 12201
+right
+go 12196
+go 12205
+ifrandom 12209
+left
+go 9886
+right
+go 12196
+infect 11911
+go 12121
+right
+go 13051
+ifenemy 12222
+ifwall 9741
+ifsame 12216
+hop
+go 5971
+go 12220
+go 10015
+left
+go 1441
+right
+go 4126
+infect 12211
+go 4501
+right
+go 7336
+ifenemy 2787
+ifwall 12231
+ifsame 8766
+left
+go 12226
+go 6565
+ifrandom 12239
+left
+go 4576
+right
+go 12226
+infect 12226
+go 12226
+right
+go 5476
+ifenemy 12012
+ifwall 8586
+ifsame 12246
+hop
+go 12241
+go 11770
+ifrandom 1769
+left
+go 12241
+right
+go 12241
+infect 12241
+go 346
+right
+go 8071
+ifenemy 12267
+ifwall 13041
+ifsame 12261
+right
+go 12256
+go 12265
+go 7570
+left
+go 2176
+right
+go 4066
+infect 12256
+go 3991
+right
+go 1756
+ifenemy 12282
+ifwall 12276
+ifsame 12576
+left
+go 2386
+go 12280
+go 12280
+left
+go 13321
+left
+go 12271
+infect 12271
+go 2731
+right
+go 11566
+ifenemy 12297
+ifwall 12291
+ifsame 12291
+hop
+go 12286
+go 12295
+go 11350
+left
+go 12286
+left
+go 12286
+infect 3976
+go 9841
+right
+go 2536
+ifenemy 12312
+ifwall 7701
+ifsame 12306
+hop
+go 9376
+go 12310
+go 1570
+left
+go 12301
+left
+go 12301
+infect 12466
+go 6766
+right
+go 12301
+ifenemy 4257
+ifwall 9261
+ifsame 12321
+right
+go 11326
+go 130
+go 12325
+left
+go 12316
+right
+go 12316
+infect 8116
+go 10876
+right
+go 12316
+ifenemy 5667
+ifwall 8616
+ifsame 561
+left
+go 12331
+go 12340
+ifrandom 9134
+left
+go 8821
+right
+go 12331
+infect 7651
+go 7381
+right
+go 12331
+ifenemy 13122
+ifwall 12351
+ifsame 1221
+hop
+go 12946
+go 3655
+go 7855
+left
+go 12346
+left
+go 10906
+infect 5341
+go 4606
+right
+go 12346
+ifenemy 12372
+ifwall 4236
+ifsame 1011
+hop
+go 12361
+go 1720
+ifrandom 12374
+left
+go 11656
+left
+go 13276
+infect 11521
+go 1546
+right
+go 376
+ifenemy 4752
+ifwall 4926
+ifsame 12381
+left
+go 12376
+go 12385
+ifrandom 5684
+left
+go 12376
+right
+go 9901
+infect 12376
+go 12376
+right
+go 12376
+ifenemy 12402
+ifwall 7491
+ifsame 11751
+right
+go 12391
+go 3205
+ifrandom 12404
+left
+go 9661
+left
+go 8581
+infect 391
+go 556
+right
+go 12391
+ifenemy 12417
+ifwall 12411
+ifsame 10596
+left
+go 10861
+go 12415
+go 1465
+left
+go 12061
+left
+go 12406
+infect 7696
+go 12406
+right
+go 12406
+ifenemy 1872
+ifwall 12426
+ifsame 12426
+hop
+go 12421
+go 310
+ifrandom 8009
+left
+go 12166
+right
+go 12421
+infect 12421
+go 12421
+right
+go 12421
+ifenemy 12447
+ifwall 4476
+ifsame 13056
+hop
+go 12436
+go 5515
+ifrandom 8729
+left
+go 12436
+right
+go 12436
+infect 12436
+go 3271
+right
+go 12436
+ifenemy 492
+ifwall 2046
+ifsame 2961
+right
+go 12451
+go 12460
+ifrandom 9494
+left
+go 12451
+right
+go 3406
+infect 4771
+go 8641
+right
+go 4921
+ifenemy 12477
+ifwall 12576
+ifsame 12471
+hop
+go 12466
+go 1195
+go 12475
+left
+go 13321
+left
+go 9796
+infect 5611
+go 12466
+right
+go 9991
+ifenemy 5262
+ifwall 12486
+ifsame 11946
+right
+go 11896
+go 4045
+go 12490
+left
+go 6661
+right
+go 12481
+infect 2056
+go 6976
+right
+go 12481
+ifenemy 7212
+ifwall 3441
+ifsame 5091
+right
+go 12571
+go 12505
+ifrandom 12509
+left
+go 12496
+left
+go 12496
+infect 12496
+go 12496
+right
+go 9871
+ifenemy 12522
+ifwall 12516
+ifsame 6831
+left
+go 12511
+go 12520
+go 8440
+left
+go 12511
+right
+go 12676
+infect 4351
+go 5491
+right
+go 1921
+ifenemy 12537
+ifwall 12531
+ifsame 12531
+hop
+go 12526
+go 6460
+ifrandom 7094
+left
+go 1426
+left
+go 12526
+infect 6361
+go 13156
+right
+go 10396
+ifenemy 12372
+ifwall 12546
+ifsame 12546
+hop
+go 12541
+go 3865
+go 12550
+left
+go 10471
+right
+go 9751
+infect 2431
+go 12541
+right
+go 7306
+ifenemy 12567
+ifwall 891
+ifsame 7671
+left
+go 10246
+go 12565
+go 1105
+left
+go 7321
+right
+go 12556
+infect 12556
+go 1066
+right
+go 12556
+ifenemy 12582
+ifwall 3936
+ifsame 12576
+left
+go 12571
+go 7735
+go 8665
+left
+go 12571
+left
+go 6466
+infect 12571
+go 8536
+right
+go 12571
+ifenemy 13107
+ifwall 5331
+ifsame 9561
+hop
+go 12586
+go 7555
+go 12595
+left
+go 11461
+right
+go 12586
+infect 11236
+go 12586
+right
+go 5806
+ifenemy 12612
+ifwall 8916
+ifsame 6621
+right
+go 3106
+go 9160
+ifrandom 12614
+left
+go 12601
+right
+go 12601
+infect 8536
+go 12601
+right
+go 2851
+ifenemy 12627
+ifwall 6171
+ifsame 7101
+right
+go 6031
+go 8155
+ifrandom 12629
+left
+go 12616
+left
+go 9706
+infect 10276
+go 6316
+right
+go 12616
+ifenemy 12462
+ifwall 6396
+ifsame 12636
+left
+go 3181
+go 11605
+go 7225
+left
+go 12631
+right
+go 12631
+infect 9571
+go 11266
+right
+go 12631
+ifenemy 12657
+ifwall 2181
+ifsame 12651
+right
+go 12646
+go 12655
+ifrandom 12659
+left
+go 12646
+left
+go 12646
+infect 12646
+go 12646
+right
+go 12646
+ifenemy 5082
+ifwall 7026
+ifsame 12666
+left
+go 12661
+go 12670
+ifrandom 12674
+left
+go 12661
+left
+go 12661
+infect 12661
+go 12661
+right
+go 12661
+ifenemy 7272
+ifwall 5331
+ifsame 2616
+left
+go 12676
+go 5140
+ifrandom 12689
+left
+go 10516
+left
+go 12676
+infect 12676
+go 12676
+right
+go 12676
+ifenemy 2937
+ifwall 12696
+ifsame 10491
+hop
+go 12691
+go 12700
+go 3400
+left
+go 3421
+right
+go 12166
+infect 12691
+go 12691
+right
+go 7501
+ifenemy 13347
+ifwall 12711
+ifsame 12711
+left
+go 3241
+go 12715
+ifrandom 11699
+left
+go 12706
+left
+go 12706
+infect 3256
+go 12706
+right
+go 601
+ifenemy 12732
+ifwall 2556
+ifsame 12726
+left
+go 1471
+go 12730
+go 7825
+left
+go 12616
+left
+go 12721
+infect 12721
+go 12721
+right
+go 5356
+ifenemy 12747
+ifwall 9981
+ifsame 12741
+right
+go 3031
+go 5095
+go 10225
+left
+go 3286
+right
+go 12736
+infect 11611
+go 3481
+right
+go 8851
+ifenemy 5217
+ifwall 7071
+ifsame 12756
+right
+go 6781
+go 12760
+ifrandom 12764
+left
+go 11041
+left
+go 12751
+infect 8386
+go 12751
+right
+go 12751
+ifenemy 5487
+ifwall 12771
+ifsame 6681
+left
+go 12766
+go 8725
+ifrandom 12779
+left
+go 12766
+left
+go 9346
+infect 12871
+go 4306
+right
+go 2101
+ifenemy 11322
+ifwall 12786
+ifsame 9531
+hop
+go 12781
+go 4750
+ifrandom 1619
+left
+go 12781
+right
+go 12781
+infect 12781
+go 11431
+right
+go 12781
+ifenemy 12807
+ifwall 12801
+ifsame 12801
+left
+go 9121
+go 5455
+go 10570
+left
+go 11731
+left
+go 12796
+infect 9331
+go 12796
+right
+go 5281
+ifenemy 4242
+ifwall 2451
+ifsame 1806
+hop
+go 10426
+go 7330
+go 12820
+left
+go 12811
+right
+go 12811
+infect 9571
+go 3631
+right
+go 12811
+ifenemy 5172
+ifwall 3396
+ifsame 12831
+hop
+go 8056
+go 5575
+go 10630
+left
+go 12826
+left
+go 12826
+infect 12826
+go 12826
+right
+go 12826
+ifenemy 12852
+ifwall 12846
+ifsame 12846
+left
+go 12841
+go 1210
+ifrandom 2264
+left
+go 5761
+right
+go 8641
+infect 10561
+go 1606
+right
+go 12841
+ifenemy 3987
+ifwall 12861
+ifsame 7701
+hop
+go 10156
+go 8785
+ifrandom 4889
+left
+go 6631
+left
+go 12856
+infect 3916
+go 12856
+right
+go 4486
+ifenemy 12882
+ifwall 12876
+ifsame 12876
+left
+go 7651
+go 12880
+ifrandom 12884
+left
+go 976
+right
+go 12871
+infect 12871
+go 1336
+right
+go 691
+ifenemy 12897
+ifwall 12891
+ifsame 7296
+hop
+go 12886
+go 8080
+go 8770
+left
+go 12886
+right
+go 12886
+infect 12886
+go 3301
+right
+go 12886
+ifenemy 12912
+ifwall 4821
+ifsame 12906
+hop
+go 9961
+go 3040
+go 12910
+left
+go 3406
+left
+go 10576
+infect 12901
+go 7126
+right
+go 12901
+ifenemy 9942
+ifwall 12921
+ifsame 12921
+left
+go 12916
+go 12925
+go 175
+left
+go 12736
+left
+go 3106
+infect 12916
+go 12916
+right
+go 2836
+ifenemy 12942
+ifwall 12936
+ifsame 12936
+hop
+go 5581
+go 12100
+go 12940
+left
+go 12931
+right
+go 12931
+infect 12931
+go 12931
+right
+go 10666
+ifenemy 12957
+ifwall 8661
+ifsame 10896
+hop
+go 12946
+go 12955
+ifrandom 9629
+left
+go 12946
+left
+go 12946
+infect 12946
+go 12946
+right
+go 8926
+ifenemy 12972
+ifwall 12966
+ifsame 8586
+hop
+go 13396
+go 3415
+go 10570
+left
+go 2296
+left
+go 12961
+infect 7951
+go 12961
+right
+go 12961
+ifenemy 942
+ifwall 4056
+ifsame 4521
+left
+go 5521
+go 12985
+go 12985
+left
+go 9301
+right
+go 5821
+infect 12976
+go 8506
+right
+go 12976
+ifenemy 9732
+ifwall 12996
+ifsame 3501
+hop
+go 12991
+go 13000
+go 13000
+left
+go 12991
+right
+go 3886
+infect 12991
+go 12991
+right
+go 961
+ifenemy 13017
+ifwall 12306
+ifsame 13011
+hop
+go 13006
+go 10390
+ifrandom 1469
+left
+go 4891
+right
+go 9811
+infect 1636
+go 11116
+right
+go 13006
+ifenemy 13032
+ifwall 2151
+ifsame 13026
+hop
+go 4546
+go 13030
+go 13030
+left
+go 3256
+right
+go 13021
+infect 13021
+go 3556
+right
+go 3046
+ifenemy 13047
+ifwall 13041
+ifsame 1326
+hop
+go 13036
+go 7930
+ifrandom 2039
+left
+go 5446
+right
+go 13036
+infect 11476
+go 6196
+right
+go 13036
+ifenemy 4647
+ifwall 13056
+ifsame 7851
+right
+go 13051
+go 3325
+go 1750
+left
+go 13051
+right
+go 3376
+infect 11131
+go 13051
+right
+go 13051
+ifenemy 13077
+ifwall 13071
+ifsame 3216
+left
+go 11821
+go 13075
+ifrandom 13079
+left
+go 10456
+left
+go 13066
+infect 256
+go 13066
+right
+go 13066
+ifenemy 4737
+ifwall 3606
+ifsame 516
+hop
+go 1966
+go 2335
+ifrandom 4964
+left
+go 12106
+left
+go 8491
+infect 12391
+go 13081
+right
+go 2806
+ifenemy 1032
+ifwall 3126
+ifsame 13101
+right
+go 13096
+go 1150
+go 11305
+left
+go 10726
+left
+go 9886
+infect 13096
+go 10471
+right
+go 13096
+ifenemy 13122
+ifwall 13326
+ifsame 13116
+right
+go 1411
+go 13120
+go 13120
+left
+go 12421
+left
+go 7306
+infect 13111
+go 13111
+right
+go 13141
+ifenemy 13137
+ifwall 13131
+ifsame 13131
+left
+go 6796
+go 13135
+ifrandom 13139
+left
+go 2056
+left
+go 13126
+infect 13126
+go 13126
+right
+go 136
+ifenemy 8457
+ifwall 13146
+ifsame 681
+left
+go 13141
+go 13150
+ifrandom 5879
+left
+go 9721
+right
+go 13141
+infect 9841
+go 13141
+right
+go 13141
+ifenemy 1797
+ifwall 13161
+ifsame 13161
+right
+go 13156
+go 13165
+ifrandom 13169
+left
+go 10846
+left
+go 13156
+infect 13156
+go 13156
+right
+go 4081
+ifenemy 13182
+ifwall 13176
+ifsame 11181
+right
+go 13231
+go 13180
+ifrandom 13184
+left
+go 13171
+right
+go 13171
+infect 3871
+go 7801
+right
+go 5551
+ifenemy 11682
+ifwall 13191
+ifsame 13191
+left
+go 8506
+go 8110
+go 12190
+left
+go 12091
+right
+go 13186
+infect 13186
+go 13186
+right
+go 11131
+ifenemy 13212
+ifwall 13206
+ifsame 11091
+left
+go 7561
+go 13210
+ifrandom 13214
+left
+go 1291
+right
+go 13201
+infect 13201
+go 13201
+right
+go 12421
+ifenemy 13227
+ifwall 13221
+ifsame 13221
+left
+go 13216
+go 13225
+go 13225
+left
+go 13216
+right
+go 1741
+infect 13216
+go 13216
+right
+go 2851
+ifenemy 13242
+ifwall 8946
+ifsame 13236
+hop
+go 13231
+go 3745
+ifrandom 12434
+left
+go 13231
+left
+go 13231
+infect 8926
+go 9226
+right
+go 6721
+ifenemy 2337
+ifwall 6126
+ifsame 13251
+left
+go 1666
+go 4195
+ifrandom 4964
+left
+go 13246
+right
+go 9751
+infect 541
+go 13246
+right
+go 13246
+ifenemy 9657
+ifwall 2406
+ifsame 5826
+hop
+go 1351
+go 13270
+ifrandom 13274
+left
+go 13261
+left
+go 871
+infect 12406
+go 13261
+right
+go 4576
+ifenemy 42
+ifwall 12156
+ifsame 7851
+hop
+go 13276
+go 10330
+go 13285
+left
+go 11416
+right
+go 13276
+infect 7666
+go 7726
+right
+go 13276
+ifenemy 1062
+ifwall 13041
+ifsame 13296
+right
+go 12676
+go 13300
+ifrandom 13304
+left
+go 13291
+right
+go 4501
+infect 13291
+go 1081
+right
+go 1006
+ifenemy 13317
+ifwall 3111
+ifsame 13311
+right
+go 13306
+go 13315
+ifrandom 4379
+left
+go 9391
+right
+go 1141
+infect 1126
+go 13306
+right
+go 13306
+ifenemy 13332
+ifwall 6861
+ifsame 13326
+right
+go 7681
+go 13330
+go 1660
+left
+go 13321
+right
+go 13321
+infect 1006
+go 13321
+right
+go 6586
+ifenemy 13347
+ifwall 13341
+ifsame 4356
+hop
+go 8701
+go 790
+ifrandom 3479
+left
+go 2461
+left
+go 13336
+infect 11281
+go 13336
+right
+go 12151
+ifenemy 13362
+ifwall 4941
+ifsame 13356
+hop
+go 13351
+go 6340
+go 13360
+left
+go 13351
+right
+go 13351
+infect 7471
+go 7591
+right
+go 11821
+ifenemy 13377
+ifwall 10746
+ifsame 13371
+hop
+go 5821
+go 910
+ifrandom 13379
+left
+go 3091
+left
+go 5791
+infect 1
+go 13366
+right
+go 13366
+ifenemy 9912
+ifwall 1671
+ifsame 2331
+hop
+go 12886
+go 9505
+go 1270
+left
+go 5176
+left
+go 8161
+infect 13381
+go 13381
+right
+go 13381
+ifenemy 6132
+ifwall 11706
+ifsame 12681
+right
+go 5356
+go 7270
+go 13405
+left
+go 13396
+right
+go 8506
+infect 13396
+go 13396
+right
+go 13396
+go 1

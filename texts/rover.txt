@@ -1,0 +1,9 @@
+ifenemy 8
+if wallinfront 4
+hop
+if random 6
+right
+go 1
+left
+go 1
+infect 1

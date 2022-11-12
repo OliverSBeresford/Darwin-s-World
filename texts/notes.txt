@@ -1,0 +1,5 @@
+15 * 15 with 10 creatures / side
+  Rover: about 74% win rate, Flytrap: about 26% win rate
+
+As the amount of creatures per side increases, the Flytrap win rate increases (slightly)
+
