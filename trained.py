@@ -5,11 +5,8 @@ import writerandom
 
 
 # Rover creature type
-class Oliver(Creature):
-    startup = writerandom.writeRandom
-    mutate = writerandom.mutate
-    originalActions = startup()
-    currentActions = []
+class Trained(Creature):
+    actions = []
 
     # Inherits Creature's initialization function and adds 2 new features
     def __init__(self, x, y, startingDirection):
@@ -25,12 +22,14 @@ class Oliver(Creature):
         self.initActions()
 
     def __str__(self) -> str:
-        return "Oliver"
+        return "Trained"
 
     def initActions(self):
         self.actions = []
-        if not Oliver.currentActions:
-            self.actions = Oliver.mutate(Oliver.originalActions)
-            Oliver.currentActions = self.actions
+        if not Trained.actions:
+            file = open("texts/developedCreature.txt", "r")
+            for line in file:
+                self.actions.append(line)
+            Trained.actions = self.actions.copy()
         else:
-            self.actions = Oliver.currentActions
+            self.actions = Trained.actions.copy()

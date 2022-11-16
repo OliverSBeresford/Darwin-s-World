@@ -1,0 +1,2332 @@
+ifenemy 8
+ifwall 10
+ifsame 6
+hop
+go 1
+right
+go 1
+infect 1
+go 1
+ifenemy 17
+ifwall 15
+ifsame 15
+right
+go 1
+right
+go 19
+infect 1
+go 10
+ifenemy 26
+ifwall 28
+ifsame 1
+hop
+go 19
+right
+go 19
+infect 1
+go 19
+ifenemy 35
+ifwall 33
+ifsame 42
+right
+go 37
+right
+go 37
+infect 37
+go 37
+ifenemy 44
+ifwall 1
+ifsame 51
+hop
+go 46
+right
+go 46
+infect 46
+go 46
+ifenemy 53
+ifwall 1
+ifsame 60
+hop
+go 55
+right
+go 55
+infect 55
+go 55
+ifenemy 62
+ifwall 1
+ifsame 69
+hop
+go 64
+right
+go 64
+infect 64
+go 64
+ifenemy 71
+ifwall 1
+ifsame 78
+hop
+go 73
+right
+go 73
+infect 73
+go 73
+ifenemy 80
+ifwall 1
+ifsame 87
+hop
+go 82
+right
+go 82
+infect 82
+go 82
+ifenemy 89
+ifwall 1
+ifsame 96
+hop
+go 91
+right
+go 91
+infect 91
+go 91
+ifenemy 98
+ifwall 1
+ifsame 105
+hop
+go 100
+right
+go 100
+infect 100
+go 100
+ifenemy 107
+ifwall 1
+ifsame 114
+hop
+go 109
+right
+go 109
+infect 109
+go 109
+ifenemy 116
+ifwall 1
+ifsame 123
+hop
+go 118
+right
+go 118
+infect 118
+go 118
+ifenemy 125
+ifwall 1
+ifsame 132
+hop
+go 127
+right
+go 127
+infect 127
+go 127
+ifenemy 134
+ifwall 1
+ifsame 141
+hop
+go 136
+right
+go 136
+infect 136
+go 136
+ifenemy 143
+ifwall 1
+ifsame 150
+hop
+go 145
+right
+go 145
+infect 145
+go 145
+ifenemy 152
+ifwall 1
+ifsame 159
+hop
+go 154
+right
+go 154
+infect 154
+go 154
+ifenemy 161
+ifwall 1
+ifsame 168
+hop
+go 163
+right
+go 163
+infect 163
+go 163
+ifenemy 170
+ifwall 168
+ifsame 177
+right
+go 172
+right
+go 172
+infect 172
+go 172
+ifenemy 179
+ifwall 1
+ifsame 186
+hop
+go 181
+right
+go 181
+infect 181
+go 181
+ifenemy 188
+ifwall 1
+ifsame 195
+hop
+go 190
+right
+go 190
+infect 190
+go 190
+ifenemy 197
+ifwall 1
+ifsame 204
+hop
+go 199
+right
+go 199
+infect 199
+go 199
+ifenemy 206
+ifwall 1
+ifsame 213
+hop
+go 208
+right
+go 208
+infect 208
+go 208
+ifenemy 215
+ifwall 1
+ifsame 222
+hop
+go 217
+right
+go 217
+infect 217
+go 217
+ifenemy 224
+ifwall 1
+ifsame 231
+hop
+go 226
+right
+go 226
+infect 226
+go 226
+ifenemy 233
+ifwall 1
+ifsame 240
+hop
+go 235
+right
+go 235
+infect 235
+go 235
+ifenemy 242
+ifwall 1
+ifsame 249
+hop
+go 244
+right
+go 244
+infect 244
+go 244
+ifenemy 251
+ifwall 1
+ifsame 258
+hop
+go 253
+right
+go 253
+infect 253
+go 253
+ifenemy 260
+ifwall 1
+ifsame 267
+hop
+go 262
+right
+go 262
+infect 262
+go 262
+ifenemy 269
+ifwall 1
+ifsame 276
+hop
+go 271
+right
+go 271
+infect 271
+go 271
+ifenemy 278
+ifwall 1
+ifsame 285
+hop
+go 280
+right
+go 280
+infect 280
+go 280
+ifenemy 287
+ifwall 1
+ifsame 294
+hop
+go 289
+right
+go 289
+infect 289
+go 289
+ifenemy 296
+ifwall 1
+ifsame 303
+hop
+go 298
+right
+go 298
+infect 298
+go 298
+ifenemy 305
+ifwall 303
+ifsame 312
+right
+go 307
+right
+go 307
+infect 307
+go 307
+ifenemy 314
+ifwall 1
+ifsame 321
+hop
+go 316
+right
+go 316
+infect 316
+go 316
+ifenemy 323
+ifwall 1
+ifsame 330
+hop
+go 325
+right
+go 325
+infect 325
+go 325
+ifenemy 332
+ifwall 1
+ifsame 339
+hop
+go 334
+right
+go 334
+infect 334
+go 334
+ifenemy 341
+ifwall 1
+ifsame 348
+hop
+go 343
+right
+go 343
+infect 343
+go 343
+ifenemy 350
+ifwall 1
+ifsame 357
+hop
+go 352
+right
+go 352
+infect 352
+go 352
+ifenemy 359
+ifwall 1
+ifsame 366
+hop
+go 361
+right
+go 361
+infect 361
+go 361
+ifenemy 368
+ifwall 1
+ifsame 375
+hop
+go 370
+right
+go 370
+infect 370
+go 370
+ifenemy 377
+ifwall 1
+ifsame 384
+hop
+go 379
+right
+go 379
+infect 379
+go 379
+ifenemy 386
+ifwall 1
+ifsame 393
+hop
+go 388
+right
+go 388
+infect 388
+go 388
+ifenemy 395
+ifwall 1
+ifsame 402
+hop
+go 397
+right
+go 397
+infect 397
+go 397
+ifenemy 404
+ifwall 1
+ifsame 411
+hop
+go 406
+right
+go 406
+infect 406
+go 406
+ifenemy 413
+ifwall 1
+ifsame 420
+hop
+go 415
+right
+go 415
+infect 415
+go 415
+ifenemy 422
+ifwall 1
+ifsame 429
+hop
+go 424
+right
+go 424
+infect 424
+go 424
+ifenemy 431
+ifwall 1
+ifsame 438
+hop
+go 433
+right
+go 433
+infect 433
+go 433
+ifenemy 440
+ifwall 438
+ifsame 447
+right
+go 442
+right
+go 442
+infect 442
+go 442
+ifenemy 449
+ifwall 1
+ifsame 456
+hop
+go 451
+right
+go 451
+infect 451
+go 451
+ifenemy 458
+ifwall 1
+ifsame 465
+hop
+go 460
+right
+go 460
+infect 460
+go 460
+ifenemy 467
+ifwall 1
+ifsame 474
+hop
+go 469
+right
+go 469
+infect 469
+go 469
+ifenemy 476
+ifwall 1
+ifsame 483
+hop
+go 478
+right
+go 478
+infect 478
+go 478
+ifenemy 485
+ifwall 1
+ifsame 492
+hop
+go 487
+right
+go 487
+infect 487
+go 487
+ifenemy 494
+ifwall 1
+ifsame 501
+hop
+go 496
+right
+go 496
+infect 496
+go 496
+ifenemy 503
+ifwall 1
+ifsame 510
+hop
+go 505
+right
+go 505
+infect 505
+go 505
+ifenemy 512
+ifwall 1
+ifsame 519
+hop
+go 514
+right
+go 514
+infect 514
+go 514
+ifenemy 521
+ifwall 1
+ifsame 528
+hop
+go 523
+right
+go 523
+infect 523
+go 523
+ifenemy 530
+ifwall 1
+ifsame 537
+hop
+go 532
+right
+go 532
+infect 532
+go 532
+ifenemy 539
+ifwall 1
+ifsame 546
+hop
+go 541
+right
+go 541
+infect 541
+go 541
+ifenemy 548
+ifwall 1
+ifsame 555
+hop
+go 550
+right
+go 550
+infect 550
+go 550
+ifenemy 557
+ifwall 1
+ifsame 564
+hop
+go 559
+right
+go 559
+infect 559
+go 559
+ifenemy 566
+ifwall 564
+ifsame 573
+right
+go 568
+right
+go 568
+infect 568
+go 568
+ifenemy 575
+ifwall 1
+ifsame 582
+hop
+go 577
+right
+go 577
+infect 577
+go 577
+ifenemy 584
+ifwall 1
+ifsame 591
+hop
+go 586
+right
+go 586
+infect 586
+go 586
+ifenemy 593
+ifwall 1
+ifsame 600
+hop
+go 595
+right
+go 595
+infect 595
+go 595
+ifenemy 602
+ifwall 1
+ifsame 609
+hop
+go 604
+right
+go 604
+infect 604
+go 604
+ifenemy 611
+ifwall 1
+ifsame 618
+hop
+go 613
+right
+go 613
+infect 613
+go 613
+ifenemy 620
+ifwall 1
+ifsame 627
+hop
+go 622
+right
+go 622
+infect 622
+go 622
+ifenemy 629
+ifwall 1
+ifsame 636
+hop
+go 631
+right
+go 631
+infect 631
+go 631
+ifenemy 638
+ifwall 1
+ifsame 645
+hop
+go 640
+right
+go 640
+infect 640
+go 640
+ifenemy 647
+ifwall 1
+ifsame 654
+hop
+go 649
+right
+go 649
+infect 649
+go 649
+ifenemy 656
+ifwall 1
+ifsame 663
+hop
+go 658
+right
+go 658
+infect 658
+go 658
+ifenemy 665
+ifwall 1
+ifsame 672
+hop
+go 667
+right
+go 667
+infect 667
+go 667
+ifenemy 674
+ifwall 1
+ifsame 681
+hop
+go 676
+right
+go 676
+infect 676
+go 676
+ifenemy 683
+ifwall 1
+ifsame 690
+hop
+go 685
+right
+go 685
+infect 685
+go 685
+ifenemy 692
+ifwall 690
+ifsame 699
+right
+go 694
+right
+go 694
+infect 694
+go 694
+ifenemy 701
+ifwall 1
+ifsame 708
+hop
+go 703
+right
+go 703
+infect 703
+go 703
+ifenemy 710
+ifwall 1
+ifsame 717
+hop
+go 712
+right
+go 712
+infect 712
+go 712
+ifenemy 719
+ifwall 1
+ifsame 726
+hop
+go 721
+right
+go 721
+infect 721
+go 721
+ifenemy 728
+ifwall 1
+ifsame 735
+hop
+go 730
+right
+go 730
+infect 730
+go 730
+ifenemy 737
+ifwall 1
+ifsame 744
+hop
+go 739
+right
+go 739
+infect 739
+go 739
+ifenemy 746
+ifwall 1
+ifsame 753
+hop
+go 748
+right
+go 748
+infect 748
+go 748
+ifenemy 755
+ifwall 1
+ifsame 762
+hop
+go 757
+right
+go 757
+infect 757
+go 757
+ifenemy 764
+ifwall 1
+ifsame 771
+hop
+go 766
+right
+go 766
+infect 766
+go 766
+ifenemy 773
+ifwall 1
+ifsame 780
+hop
+go 775
+right
+go 775
+infect 775
+go 775
+ifenemy 782
+ifwall 1
+ifsame 789
+hop
+go 784
+right
+go 784
+infect 784
+go 784
+ifenemy 791
+ifwall 1
+ifsame 798
+hop
+go 793
+right
+go 793
+infect 793
+go 793
+ifenemy 800
+ifwall 1
+ifsame 807
+hop
+go 802
+right
+go 802
+infect 802
+go 802
+ifenemy 809
+ifwall 807
+ifsame 816
+right
+go 811
+right
+go 811
+infect 811
+go 811
+ifenemy 818
+ifwall 1
+ifsame 825
+hop
+go 820
+right
+go 820
+infect 820
+go 820
+ifenemy 827
+ifwall 1
+ifsame 834
+hop
+go 829
+right
+go 829
+infect 829
+go 829
+ifenemy 836
+ifwall 1
+ifsame 843
+hop
+go 838
+right
+go 838
+infect 838
+go 838
+ifenemy 845
+ifwall 1
+ifsame 852
+hop
+go 847
+right
+go 847
+infect 847
+go 847
+ifenemy 854
+ifwall 1
+ifsame 861
+hop
+go 856
+right
+go 856
+infect 856
+go 856
+ifenemy 863
+ifwall 1
+ifsame 870
+hop
+go 865
+right
+go 865
+infect 865
+go 865
+ifenemy 872
+ifwall 1
+ifsame 879
+hop
+go 874
+right
+go 874
+infect 874
+go 874
+ifenemy 881
+ifwall 1
+ifsame 888
+hop
+go 883
+right
+go 883
+infect 883
+go 883
+ifenemy 890
+ifwall 1
+ifsame 897
+hop
+go 892
+right
+go 892
+infect 892
+go 892
+ifenemy 899
+ifwall 1
+ifsame 906
+hop
+go 901
+right
+go 901
+infect 901
+go 901
+ifenemy 908
+ifwall 1
+ifsame 915
+hop
+go 910
+right
+go 910
+infect 910
+go 910
+ifenemy 917
+ifwall 1
+ifsame 924
+hop
+go 919
+right
+go 919
+infect 919
+go 919
+ifenemy 926
+ifwall 924
+ifsame 933
+right
+go 928
+right
+go 928
+infect 928
+go 928
+ifenemy 935
+ifwall 1
+ifsame 942
+hop
+go 937
+right
+go 937
+infect 937
+go 937
+ifenemy 944
+ifwall 1
+ifsame 951
+hop
+go 946
+right
+go 946
+infect 946
+go 946
+ifenemy 953
+ifwall 1
+ifsame 960
+hop
+go 955
+right
+go 955
+infect 955
+go 955
+ifenemy 962
+ifwall 1
+ifsame 969
+hop
+go 964
+right
+go 964
+infect 964
+go 964
+ifenemy 971
+ifwall 1
+ifsame 978
+hop
+go 973
+right
+go 973
+infect 973
+go 973
+ifenemy 980
+ifwall 1
+ifsame 987
+hop
+go 982
+right
+go 982
+infect 982
+go 982
+ifenemy 989
+ifwall 1
+ifsame 996
+hop
+go 991
+right
+go 991
+infect 991
+go 991
+ifenemy 998
+ifwall 1
+ifsame 1005
+hop
+go 1000
+right
+go 1000
+infect 1000
+go 1000
+ifenemy 1007
+ifwall 1
+ifsame 1014
+hop
+go 1009
+right
+go 1009
+infect 1009
+go 1009
+ifenemy 1016
+ifwall 1
+ifsame 1023
+hop
+go 1018
+right
+go 1018
+infect 1018
+go 1018
+ifenemy 1025
+ifwall 1
+ifsame 1032
+hop
+go 1027
+right
+go 1027
+infect 1027
+go 1027
+ifenemy 1034
+ifwall 1032
+ifsame 1041
+right
+go 1036
+right
+go 1036
+infect 1036
+go 1036
+ifenemy 1043
+ifwall 1
+ifsame 1050
+hop
+go 1045
+right
+go 1045
+infect 1045
+go 1045
+ifenemy 1052
+ifwall 1
+ifsame 1059
+hop
+go 1054
+right
+go 1054
+infect 1054
+go 1054
+ifenemy 1061
+ifwall 1
+ifsame 1068
+hop
+go 1063
+right
+go 1063
+infect 1063
+go 1063
+ifenemy 1070
+ifwall 1
+ifsame 1077
+hop
+go 1072
+right
+go 1072
+infect 1072
+go 1072
+ifenemy 1079
+ifwall 1
+ifsame 1086
+hop
+go 1081
+right
+go 1081
+infect 1081
+go 1081
+ifenemy 1088
+ifwall 1
+ifsame 1095
+hop
+go 1090
+right
+go 1090
+infect 1090
+go 1090
+ifenemy 1097
+ifwall 1
+ifsame 1104
+hop
+go 1099
+right
+go 1099
+infect 1099
+go 1099
+ifenemy 1106
+ifwall 1
+ifsame 1113
+hop
+go 1108
+right
+go 1108
+infect 1108
+go 1108
+ifenemy 1115
+ifwall 1
+ifsame 1122
+hop
+go 1117
+right
+go 1117
+infect 1117
+go 1117
+ifenemy 1124
+ifwall 1
+ifsame 1131
+hop
+go 1126
+right
+go 1126
+infect 1126
+go 1126
+ifenemy 1133
+ifwall 1
+ifsame 1140
+hop
+go 1135
+right
+go 1135
+infect 1135
+go 1135
+ifenemy 1142
+ifwall 1140
+ifsame 1149
+right
+go 1144
+right
+go 1144
+infect 1144
+go 1144
+ifenemy 1151
+ifwall 1
+ifsame 1158
+hop
+go 1153
+right
+go 1153
+infect 1153
+go 1153
+ifenemy 1160
+ifwall 1
+ifsame 1167
+hop
+go 1162
+right
+go 1162
+infect 1162
+go 1162
+ifenemy 1169
+ifwall 1
+ifsame 1176
+hop
+go 1171
+right
+go 1171
+infect 1171
+go 1171
+ifenemy 1178
+ifwall 1
+ifsame 1185
+hop
+go 1180
+right
+go 1180
+infect 1180
+go 1180
+ifenemy 1187
+ifwall 1
+ifsame 1194
+hop
+go 1189
+right
+go 1189
+infect 1189
+go 1189
+ifenemy 1196
+ifwall 1
+ifsame 1203
+hop
+go 1198
+right
+go 1198
+infect 1198
+go 1198
+ifenemy 1205
+ifwall 1
+ifsame 1212
+hop
+go 1207
+right
+go 1207
+infect 1207
+go 1207
+ifenemy 1214
+ifwall 1
+ifsame 1221
+hop
+go 1216
+right
+go 1216
+infect 1216
+go 1216
+ifenemy 1223
+ifwall 1
+ifsame 1230
+hop
+go 1225
+right
+go 1225
+infect 1225
+go 1225
+ifenemy 1232
+ifwall 1
+ifsame 1239
+hop
+go 1234
+right
+go 1234
+infect 1234
+go 1234
+ifenemy 1241
+ifwall 1239
+ifsame 1248
+right
+go 1243
+right
+go 1243
+infect 1243
+go 1243
+ifenemy 1250
+ifwall 1
+ifsame 1257
+hop
+go 1252
+right
+go 1252
+infect 1252
+go 1252
+ifenemy 1259
+ifwall 1
+ifsame 1266
+hop
+go 1261
+right
+go 1261
+infect 1261
+go 1261
+ifenemy 1268
+ifwall 1
+ifsame 1275
+hop
+go 1270
+right
+go 1270
+infect 1270
+go 1270
+ifenemy 1277
+ifwall 1
+ifsame 1284
+hop
+go 1279
+right
+go 1279
+infect 1279
+go 1279
+ifenemy 1286
+ifwall 1
+ifsame 1293
+hop
+go 1288
+right
+go 1288
+infect 1288
+go 1288
+ifenemy 1295
+ifwall 1
+ifsame 1302
+hop
+go 1297
+right
+go 1297
+infect 1297
+go 1297
+ifenemy 1304
+ifwall 1
+ifsame 1311
+hop
+go 1306
+right
+go 1306
+infect 1306
+go 1306
+ifenemy 1313
+ifwall 1
+ifsame 1320
+hop
+go 1315
+right
+go 1315
+infect 1315
+go 1315
+ifenemy 1322
+ifwall 1
+ifsame 1329
+hop
+go 1324
+right
+go 1324
+infect 1324
+go 1324
+ifenemy 1331
+ifwall 1
+ifsame 1338
+hop
+go 1333
+right
+go 1333
+infect 1333
+go 1333
+ifenemy 1340
+ifwall 1338
+ifsame 1347
+right
+go 1342
+right
+go 1342
+infect 1342
+go 1342
+ifenemy 1349
+ifwall 1
+ifsame 1356
+hop
+go 1351
+right
+go 1351
+infect 1351
+go 1351
+ifenemy 1358
+ifwall 1
+ifsame 1365
+hop
+go 1360
+right
+go 1360
+infect 1360
+go 1360
+ifenemy 1367
+ifwall 1
+ifsame 1374
+hop
+go 1369
+right
+go 1369
+infect 1369
+go 1369
+ifenemy 1376
+ifwall 1
+ifsame 1383
+hop
+go 1378
+right
+go 1378
+infect 1378
+go 1378
+ifenemy 1385
+ifwall 1
+ifsame 1392
+hop
+go 1387
+right
+go 1387
+infect 1387
+go 1387
+ifenemy 1394
+ifwall 1
+ifsame 1401
+hop
+go 1396
+right
+go 1396
+infect 1396
+go 1396
+ifenemy 1403
+ifwall 1
+ifsame 1410
+hop
+go 1405
+right
+go 1405
+infect 1405
+go 1405
+ifenemy 1412
+ifwall 1
+ifsame 1419
+hop
+go 1414
+right
+go 1414
+infect 1414
+go 1414
+ifenemy 1421
+ifwall 1
+ifsame 1428
+hop
+go 1423
+right
+go 1423
+infect 1423
+go 1423
+ifenemy 1430
+ifwall 1428
+ifsame 1437
+right
+go 1432
+right
+go 1432
+infect 1432
+go 1432
+ifenemy 1439
+ifwall 1
+ifsame 1446
+hop
+go 1441
+right
+go 1441
+infect 1441
+go 1441
+ifenemy 1448
+ifwall 1
+ifsame 1455
+hop
+go 1450
+right
+go 1450
+infect 1450
+go 1450
+ifenemy 1457
+ifwall 1
+ifsame 1464
+hop
+go 1459
+right
+go 1459
+infect 1459
+go 1459
+ifenemy 1466
+ifwall 1
+ifsame 1473
+hop
+go 1468
+right
+go 1468
+infect 1468
+go 1468
+ifenemy 1475
+ifwall 1
+ifsame 1482
+hop
+go 1477
+right
+go 1477
+infect 1477
+go 1477
+ifenemy 1484
+ifwall 1
+ifsame 1491
+hop
+go 1486
+right
+go 1486
+infect 1486
+go 1486
+ifenemy 1493
+ifwall 1
+ifsame 1500
+hop
+go 1495
+right
+go 1495
+infect 1495
+go 1495
+ifenemy 1502
+ifwall 1
+ifsame 1509
+hop
+go 1504
+right
+go 1504
+infect 1504
+go 1504
+ifenemy 1511
+ifwall 1
+ifsame 1518
+hop
+go 1513
+right
+go 1513
+infect 1513
+go 1513
+ifenemy 1520
+ifwall 1518
+ifsame 1527
+right
+go 1522
+right
+go 1522
+infect 1522
+go 1522
+ifenemy 1529
+ifwall 1
+ifsame 1536
+hop
+go 1531
+right
+go 1531
+infect 1531
+go 1531
+ifenemy 1538
+ifwall 1
+ifsame 1545
+hop
+go 1540
+right
+go 1540
+infect 1540
+go 1540
+ifenemy 1547
+ifwall 1
+ifsame 1554
+hop
+go 1549
+right
+go 1549
+infect 1549
+go 1549
+ifenemy 1556
+ifwall 1
+ifsame 1563
+hop
+go 1558
+right
+go 1558
+infect 1558
+go 1558
+ifenemy 1565
+ifwall 1
+ifsame 1572
+hop
+go 1567
+right
+go 1567
+infect 1567
+go 1567
+ifenemy 1574
+ifwall 1
+ifsame 1581
+hop
+go 1576
+right
+go 1576
+infect 1576
+go 1576
+ifenemy 1583
+ifwall 1
+ifsame 1590
+hop
+go 1585
+right
+go 1585
+infect 1585
+go 1585
+ifenemy 1592
+ifwall 1
+ifsame 1599
+hop
+go 1594
+right
+go 1594
+infect 1594
+go 1594
+ifenemy 1601
+ifwall 1599
+ifsame 1608
+right
+go 1603
+right
+go 1603
+infect 1603
+go 1603
+ifenemy 1610
+ifwall 1
+ifsame 1617
+hop
+go 1612
+right
+go 1612
+infect 1612
+go 1612
+ifenemy 1619
+ifwall 1
+ifsame 1626
+hop
+go 1621
+right
+go 1621
+infect 1621
+go 1621
+ifenemy 1628
+ifwall 1
+ifsame 1635
+hop
+go 1630
+right
+go 1630
+infect 1630
+go 1630
+ifenemy 1637
+ifwall 1
+ifsame 1644
+hop
+go 1639
+right
+go 1639
+infect 1639
+go 1639
+ifenemy 1646
+ifwall 1
+ifsame 1653
+hop
+go 1648
+right
+go 1648
+infect 1648
+go 1648
+ifenemy 1655
+ifwall 1
+ifsame 1662
+hop
+go 1657
+right
+go 1657
+infect 1657
+go 1657
+ifenemy 1664
+ifwall 1
+ifsame 1671
+hop
+go 1666
+right
+go 1666
+infect 1666
+go 1666
+ifenemy 1673
+ifwall 1
+ifsame 1680
+hop
+go 1675
+right
+go 1675
+infect 1675
+go 1675
+ifenemy 1682
+ifwall 1680
+ifsame 1689
+right
+go 1684
+right
+go 1684
+infect 1684
+go 1684
+ifenemy 1691
+ifwall 1
+ifsame 1698
+hop
+go 1693
+right
+go 1693
+infect 1693
+go 1693
+ifenemy 1700
+ifwall 1
+ifsame 1707
+hop
+go 1702
+right
+go 1702
+infect 1702
+go 1702
+ifenemy 1709
+ifwall 1
+ifsame 1716
+hop
+go 1711
+right
+go 1711
+infect 1711
+go 1711
+ifenemy 1718
+ifwall 1
+ifsame 1725
+hop
+go 1720
+right
+go 1720
+infect 1720
+go 1720
+ifenemy 1727
+ifwall 1
+ifsame 1734
+hop
+go 1729
+right
+go 1729
+infect 1729
+go 1729
+ifenemy 1736
+ifwall 1
+ifsame 1743
+hop
+go 1738
+right
+go 1738
+infect 1738
+go 1738
+ifenemy 1745
+ifwall 1
+ifsame 1752
+hop
+go 1747
+right
+go 1747
+infect 1747
+go 1747
+ifenemy 1754
+ifwall 1752
+ifsame 1761
+right
+go 1756
+right
+go 1756
+infect 1756
+go 1756
+ifenemy 1763
+ifwall 1
+ifsame 1770
+hop
+go 1765
+right
+go 1765
+infect 1765
+go 1765
+ifenemy 1772
+ifwall 1
+ifsame 1779
+hop
+go 1774
+right
+go 1774
+infect 1774
+go 1774
+ifenemy 1781
+ifwall 1
+ifsame 1788
+hop
+go 1783
+right
+go 1783
+infect 1783
+go 1783
+ifenemy 1790
+ifwall 1
+ifsame 1797
+hop
+go 1792
+right
+go 1792
+infect 1792
+go 1792
+ifenemy 1799
+ifwall 1
+ifsame 1806
+hop
+go 1801
+right
+go 1801
+infect 1801
+go 1801
+ifenemy 1808
+ifwall 1
+ifsame 1815
+hop
+go 1810
+right
+go 1810
+infect 1810
+go 1810
+ifenemy 1817
+ifwall 1
+ifsame 1824
+hop
+go 1819
+right
+go 1819
+infect 1819
+go 1819
+ifenemy 1826
+ifwall 1824
+ifsame 1833
+right
+go 1828
+right
+go 1828
+infect 1828
+go 1828
+ifenemy 1835
+ifwall 1
+ifsame 1842
+hop
+go 1837
+right
+go 1837
+infect 1837
+go 1837
+ifenemy 1844
+ifwall 1
+ifsame 1851
+hop
+go 1846
+right
+go 1846
+infect 1846
+go 1846
+ifenemy 1853
+ifwall 1
+ifsame 1860
+hop
+go 1855
+right
+go 1855
+infect 1855
+go 1855
+ifenemy 1862
+ifwall 1
+ifsame 1869
+hop
+go 1864
+right
+go 1864
+infect 1864
+go 1864
+ifenemy 1871
+ifwall 1
+ifsame 1878
+hop
+go 1873
+right
+go 1873
+infect 1873
+go 1873
+ifenemy 1880
+ifwall 1
+ifsame 1887
+hop
+go 1882
+right
+go 1882
+infect 1882
+go 1882
+ifenemy 1889
+ifwall 1887
+ifsame 1896
+right
+go 1891
+right
+go 1891
+infect 1891
+go 1891
+ifenemy 1898
+ifwall 1
+ifsame 1905
+hop
+go 1900
+right
+go 1900
+infect 1900
+go 1900
+ifenemy 1907
+ifwall 1
+ifsame 1914
+hop
+go 1909
+right
+go 1909
+infect 1909
+go 1909
+ifenemy 1916
+ifwall 1
+ifsame 1923
+hop
+go 1918
+right
+go 1918
+infect 1918
+go 1918
+ifenemy 1925
+ifwall 1
+ifsame 1932
+hop
+go 1927
+right
+go 1927
+infect 1927
+go 1927
+ifenemy 1934
+ifwall 1
+ifsame 1941
+hop
+go 1936
+right
+go 1936
+infect 1936
+go 1936
+ifenemy 1943
+ifwall 1
+ifsame 1950
+hop
+go 1945
+right
+go 1945
+infect 1945
+go 1945
+ifenemy 1952
+ifwall 1950
+ifsame 1959
+right
+go 1954
+right
+go 1954
+infect 1954
+go 1954
+ifenemy 1961
+ifwall 1
+ifsame 1968
+hop
+go 1963
+right
+go 1963
+infect 1963
+go 1963
+ifenemy 1970
+ifwall 1
+ifsame 1977
+hop
+go 1972
+right
+go 1972
+infect 1972
+go 1972
+ifenemy 1979
+ifwall 1
+ifsame 1986
+hop
+go 1981
+right
+go 1981
+infect 1981
+go 1981
+ifenemy 1988
+ifwall 1
+ifsame 1995
+hop
+go 1990
+right
+go 1990
+infect 1990
+go 1990
+ifenemy 1997
+ifwall 1
+ifsame 2004
+hop
+go 1999
+right
+go 1999
+infect 1999
+go 1999
+ifenemy 2006
+ifwall 2004
+ifsame 2013
+right
+go 2008
+right
+go 2008
+infect 2008
+go 2008
+ifenemy 2015
+ifwall 1
+ifsame 2022
+hop
+go 2017
+right
+go 2017
+infect 2017
+go 2017
+ifenemy 2024
+ifwall 1
+ifsame 2031
+hop
+go 2026
+right
+go 2026
+infect 2026
+go 2026
+ifenemy 2033
+ifwall 1
+ifsame 2040
+hop
+go 2035
+right
+go 2035
+infect 2035
+go 2035
+ifenemy 2042
+ifwall 1
+ifsame 2049
+hop
+go 2044
+right
+go 2044
+infect 2044
+go 2044
+ifenemy 2051
+ifwall 1
+ifsame 2058
+hop
+go 2053
+right
+go 2053
+infect 2053
+go 2053
+ifenemy 2060
+ifwall 2058
+ifsame 2067
+right
+go 2062
+right
+go 2062
+infect 2062
+go 2062
+ifenemy 2069
+ifwall 1
+ifsame 2076
+hop
+go 2071
+right
+go 2071
+infect 2071
+go 2071
+ifenemy 2078
+ifwall 1
+ifsame 2085
+hop
+go 2080
+right
+go 2080
+infect 2080
+go 2080
+ifenemy 2087
+ifwall 1
+ifsame 2094
+hop
+go 2089
+right
+go 2089
+infect 2089
+go 2089
+ifenemy 2096
+ifwall 1
+ifsame 2103
+hop
+go 2098
+right
+go 2098
+infect 2098
+go 2098
+ifenemy 2105
+ifwall 2103
+ifsame 2112
+right
+go 2107
+right
+go 2107
+infect 2107
+go 2107
+ifenemy 2114
+ifwall 1
+ifsame 2121
+hop
+go 2116
+right
+go 2116
+infect 2116
+go 2116
+ifenemy 2123
+ifwall 1
+ifsame 2130
+hop
+go 2125
+right
+go 2125
+infect 2125
+go 2125
+ifenemy 2132
+ifwall 1
+ifsame 2139
+hop
+go 2134
+right
+go 2134
+infect 2134
+go 2134
+ifenemy 2141
+ifwall 1
+ifsame 2148
+hop
+go 2143
+right
+go 2143
+infect 2143
+go 2143
+ifenemy 2150
+ifwall 2148
+ifsame 2157
+right
+go 2152
+right
+go 2152
+infect 2152
+go 2152
+ifenemy 2159
+ifwall 1
+ifsame 2166
+hop
+go 2161
+right
+go 2161
+infect 2161
+go 2161
+ifenemy 2168
+ifwall 1
+ifsame 2175
+hop
+go 2170
+right
+go 2170
+infect 2170
+go 2170
+ifenemy 2177
+ifwall 1
+ifsame 2184
+hop
+go 2179
+right
+go 2179
+infect 2179
+go 2179
+ifenemy 2186
+ifwall 2184
+ifsame 2193
+right
+go 2188
+right
+go 2188
+infect 2188
+go 2188
+ifenemy 2195
+ifwall 1
+ifsame 2202
+hop
+go 2197
+right
+go 2197
+infect 2197
+go 2197
+ifenemy 2204
+ifwall 1
+ifsame 2211
+hop
+go 2206
+right
+go 2206
+infect 2206
+go 2206
+ifenemy 2213
+ifwall 1
+ifsame 2220
+hop
+go 2215
+right
+go 2215
+infect 2215
+go 2215
+ifenemy 2222
+ifwall 2220
+ifsame 2229
+right
+go 2224
+right
+go 2224
+infect 2224
+go 2224
+ifenemy 2231
+ifwall 1
+ifsame 2238
+hop
+go 2233
+right
+go 2233
+infect 2233
+go 2233
+ifenemy 2240
+ifwall 1
+ifsame 2247
+hop
+go 2242
+right
+go 2242
+infect 2242
+go 2242
+ifenemy 2249
+ifwall 2247
+ifsame 2256
+right
+go 2251
+right
+go 2251
+infect 2251
+go 2251
+ifenemy 2258
+ifwall 1
+ifsame 2265
+hop
+go 2260
+right
+go 2260
+infect 2260
+go 2260
+ifenemy 2267
+ifwall 1
+ifsame 2274
+hop
+go 2269
+right
+go 2269
+infect 2269
+go 2269
+ifenemy 2276
+ifwall 2274
+ifsame 2283
+right
+go 2278
+right
+go 2278
+infect 2278
+go 2278
+ifenemy 2285
+ifwall 1
+ifsame 2292
+hop
+go 2287
+right
+go 2287
+infect 2287
+go 2287
+ifenemy 2294
+ifwall 2292
+ifsame 2301
+right
+go 2296
+right
+go 2296
+infect 2296
+go 2296
+ifenemy 2303
+ifwall 1
+ifsame 2310
+hop
+go 2305
+right
+go 2305
+infect 2305
+go 2305
+ifenemy 2312
+ifwall 2310
+ifsame 2319
+right
+go 2314
+right
+go 2314
+infect 2314
+go 2314
+ifenemy 2321
+ifwall 2319
+ifsame 2328
+right
+go 2323
+right
+go 2323
+infect 2323
+go 2323
+ifenemy 2330
+ifwall 2328
+ifsame 2337
+right
+go 2332
+right
+go 2332
+infect 2332
+go 2332
+go 37

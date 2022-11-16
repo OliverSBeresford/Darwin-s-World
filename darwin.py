@@ -40,7 +40,7 @@ class Darwin:
         self.board[i.pos[1]][i.pos[0]] = i
       if self.sim:
         self.updateBoard(i)
-        time.sleep(0.05)
+        time.sleep(0.01)
 
   #Updates screen
   def updateBoard(self, creature):
