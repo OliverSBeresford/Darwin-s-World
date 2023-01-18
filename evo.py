@@ -5,7 +5,7 @@ import writerandom
 
 
 # Rover creature type
-class Oliver(Creature):
+class Evo(Creature):
     startup = writerandom.writeRandom
     mutate = writerandom.mutate
     originalActions = startup()
@@ -14,10 +14,12 @@ class Oliver(Creature):
     # Inherits Creature's initialization function and adds 2 new features
     def __init__(self, x, y, startingDirection):
         super().__init__(x, y, startingDirection)
-        self.images = [pygame.image.load("resources/oli_left.png").convert_alpha(),
-                       pygame.image.load("resources/oli_down.png").convert_alpha(),
-                       pygame.image.load("resources/oli_right.png").convert_alpha(),
-                       pygame.image.load("resources/oli_up.png").convert_alpha()]
+        self.images = [
+            pygame.image.load("resources/evo_up.png").convert_alpha(),
+            pygame.image.load("resources/evo_right.png").convert_alpha(),
+            pygame.image.load("resources/evo_down.png").convert_alpha(),
+            pygame.image.load("resources/evo_left.png").convert_alpha()
+        ]
         self.image = self.images[self.direct]
         self.action = self.takeAction
         self.num = 0
@@ -25,12 +27,12 @@ class Oliver(Creature):
         self.initActions()
 
     def __str__(self) -> str:
-        return "Oliver"
+        return "Evo"
 
     def initActions(self):
         self.actions = []
-        if not Oliver.currentActions:
-            self.actions = Oliver.mutate(Oliver.originalActions)
-            Oliver.currentActions = self.actions
+        if not Evo.currentActions:
+            self.actions = Evo.mutate(Evo.originalActions)
+            Evo.currentActions = self.actions
         else:
-            self.actions = Oliver.currentActions
+            self.actions = Evo.currentActions

@@ -1,5 +1,5 @@
 ifenemy 4
 left
 go 1
-infect
+infect 1
 go 1

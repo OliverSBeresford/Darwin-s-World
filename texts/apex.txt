@@ -1,7 +1,10 @@
-ifenemy 8
+ifenemy 11
 ifwall 6
 ifsame 6
 hop
+go 1
+ifrandom 9
+left
 go 1
 right
 go 1

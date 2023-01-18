@@ -1,9 +1,8 @@
 from creature1 import Creature
 import pygame
 
-
 # Rover creature type
-class Rover(Creature):
+class Apex(Creature):
     actions = []
 
     # Inherits Creature's initialization function and adds 2 new features
@@ -11,10 +10,10 @@ class Rover(Creature):
         super().__init__(x, y, startingDirection)
         self.creatureType = 1
         self.images = [
-            pygame.image.load("resources/rover_up.png").convert_alpha(),
-            pygame.image.load("resources/rover_right.png").convert_alpha(),
-            pygame.image.load("resources/rover_down.png").convert_alpha(),
-            pygame.image.load("resources/rover_left.png").convert_alpha()
+            pygame.image.load("resources/apex_up.png").convert_alpha(),
+            pygame.image.load("resources/apex_right.png").convert_alpha(),
+            pygame.image.load("resources/apex_down.png").convert_alpha(),
+            pygame.image.load("resources/apex_left.png").convert_alpha()
         ]
         self.image = self.images[self.direct]
         self.actions = []
@@ -23,17 +22,17 @@ class Rover(Creature):
         self.num = 0
 
     def __str__(self) -> str:
-        return "Rover"
+        return "Apex"
 
     # Puts actions into "self.actions"
     def initActions(self):
         self.actions = []
         # If quick actions access is empty, reads actions file
         # then writes them to the class for future objects
-        if not Rover.actions:
-            file = open("texts/rover.txt", "r")
+        if not Apex.actions:
+            file = open("texts/apex.txt", "r")
             for line in file:
                 self.actions.append(line.strip())
-            Rover.actions = self.actions.copy()
+            Apex.actions = self.actions.copy()
         else:
-            self.actions = Rover.actions.copy()
+            self.actions = Apex.actions.copy()

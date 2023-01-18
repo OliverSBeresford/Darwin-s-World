@@ -3,263 +3,263 @@ ifsame 7
 ifwall 9
 ifempty 11
 infect 1
-go 385
-left
-go 253
+go 85
 right
-go 73
+go 361
 right
-go 121
+go 517
+right
+go 61
 ifenemy 17
 ifsame 19
 ifwall 21
 ifempty 23
 infect 13
-go 421
-left
-go 493
-left
-go 25
+go 73
 right
-go 469
+go 145
+left
+go 205
+right
+go 109
 ifenemy 29
 ifsame 31
 ifwall 33
 ifempty 35
 infect 25
-go 565
-left
-go 97
+go 85
 right
-go 577
-left
+go 325
+right
+go 361
+hop
 go 1
 ifenemy 41
 ifsame 43
 ifwall 45
 ifempty 47
 infect 37
-go 217
-left
-go 49
-left
-go 169
+go 241
 right
-go 25
+go 493
+right
+go 457
+left
+go 265
 ifenemy 53
 ifsame 55
 ifwall 57
 ifempty 59
 infect 49
-go 589
+go 577
 right
-go 181
+go 481
 left
-go 265
+go 121
 hop
-go 313
+go 241
 ifenemy 65
 ifsame 67
 ifwall 69
 ifempty 71
 infect 61
-go 481
-left
-go 421
+go 361
 right
-go 85
+go 61
 left
-go 313
+go 169
+left
+go 157
 ifenemy 77
 ifsame 79
 ifwall 81
 ifempty 83
 infect 73
-go 373
-left
-go 97
-left
-go 565
+go 457
 right
-go 409
+go 277
+left
+go 433
+right
+go 145
 ifenemy 89
 ifsame 91
 ifwall 93
 ifempty 95
 infect 85
-go 373
+go 421
 left
-go 385
+go 277
+right
+go 37
 left
-go 313
-hop
-go 553
+go 193
 ifenemy 101
 ifsame 103
 ifwall 105
 ifempty 107
 infect 97
-go 469
-left
-go 97
+go 409
 right
-go 241
-left
-go 265
+go 349
+right
+go 433
+right
+go 205
 ifenemy 113
 ifsame 115
 ifwall 117
 ifempty 119
 infect 109
-go 133
-right
-go 505
-right
-go 217
-right
 go 469
+left
+go 157
+left
+go 97
+left
+go 157
 ifenemy 125
 ifsame 127
 ifwall 129
 ifempty 131
 infect 121
-go 265
+go 421
 right
-go 493
+go 73
 left
-go 265
-right
-go 361
+go 205
+left
+go 505
 ifenemy 137
 ifsame 139
 ifwall 141
 ifempty 143
 infect 133
-go 133
+go 313
 left
-go 37
-right
-go 205
-right
-go 409
+go 229
+left
+go 589
+hop
+go 229
 ifenemy 149
 ifsame 151
 ifwall 153
 ifempty 155
 infect 145
-go 13
+go 553
 right
-go 313
+go 421
 left
-go 577
+go 265
 hop
-go 289
+go 433
 ifenemy 161
 ifsame 163
 ifwall 165
 ifempty 167
 infect 157
-go 193
-right
-go 589
+go 517
 left
-go 169
+go 337
 right
-go 565
+go 349
+left
+go 301
 ifenemy 173
 ifsame 175
 ifwall 177
 ifempty 179
 infect 169
-go 193
-left
 go 229
 right
-go 85
-left
-go 565
+go 505
+right
+go 553
+right
+go 445
 ifenemy 185
 ifsame 187
 ifwall 189
 ifempty 191
 infect 181
-go 541
+go 109
 right
-go 73
+go 529
+right
+go 385
 left
-go 409
-hop
-go 313
+go 517
 ifenemy 197
 ifsame 199
 ifwall 201
 ifempty 203
 infect 193
-go 553
-right
-go 397
+go 493
 left
-go 121
-right
-go 469
+go 445
+left
+go 529
+hop
+go 457
 ifenemy 209
 ifsame 211
 ifwall 213
 ifempty 215
 infect 205
-go 505
+go 349
 right
-go 289
+go 97
 left
-go 325
-right
-go 373
+go 229
+hop
+go 193
 ifenemy 221
 ifsame 223
 ifwall 225
 ifempty 227
 infect 217
-go 481
+go 145
+left
+go 145
 left
 go 517
 left
-go 541
-left
-go 409
+go 361
 ifenemy 233
 ifsame 235
 ifwall 237
 ifempty 239
 infect 229
-go 121
+go 49
 left
-go 133
+go 13
+left
+go 265
 left
 go 289
-right
-go 121
 ifenemy 245
 ifsame 247
 ifwall 249
 ifempty 251
 infect 241
-go 97
+go 205
 left
-go 361
-left
+go 289
+right
 go 265
-left
-go 169
+right
+go 493
 ifenemy 257
 ifsame 259
 ifwall 261
 ifempty 263
 infect 253
-go 493
-left
-go 13
+go 1
 right
-go 589
+go 325
+right
+go 505
 left
 go 433
 ifenemy 269
@@ -267,336 +267,336 @@ ifsame 271
 ifwall 273
 ifempty 275
 infect 265
-go 541
-left
-go 577
+go 109
 right
-go 1
-hop
-go 529
+go 433
+right
+go 445
+left
+go 457
 ifenemy 281
 ifsame 283
 ifwall 285
 ifempty 287
 infect 277
-go 565
+go 313
 left
-go 169
-left
-go 469
-left
-go 253
+go 301
+right
+go 505
+right
+go 481
 ifenemy 293
 ifsame 295
 ifwall 297
 ifempty 299
 infect 289
-go 361
-left
-go 397
+go 13
 right
-go 589
-hop
-go 337
+go 1
+right
+go 25
+left
+go 457
 ifenemy 305
 ifsame 307
 ifwall 309
 ifempty 311
 infect 301
-go 25
-left
-go 469
-left
-go 409
-left
+go 205
+right
+go 193
+right
+go 313
+hop
 go 133
 ifenemy 317
 ifsame 319
 ifwall 321
 ifempty 323
 infect 313
-go 385
-right
-go 553
-right
-go 13
+go 157
 left
-go 73
+go 529
+left
+go 361
+hop
+go 157
 ifenemy 329
 ifsame 331
 ifwall 333
 ifempty 335
 infect 325
-go 193
-right
 go 397
 right
-go 133
+go 565
 left
-go 421
+go 49
+right
+go 349
 ifenemy 341
 ifsame 343
 ifwall 345
 ifempty 347
 infect 337
-go 205
+go 325
 right
-go 409
-right
-go 145
+go 517
 left
-go 49
+go 1
+right
+go 169
 ifenemy 353
 ifsame 355
 ifwall 357
 ifempty 359
 infect 349
-go 493
+go 253
+right
+go 157
 left
-go 73
-left
-go 361
-left
-go 349
+go 457
+hop
+go 241
 ifenemy 365
 ifsame 367
 ifwall 369
 ifempty 371
 infect 361
-go 373
+go 37
 right
-go 289
+go 553
+right
+go 325
 left
-go 589
-right
-go 229
+go 481
 ifenemy 377
 ifsame 379
 ifwall 381
 ifempty 383
 infect 373
-go 445
+go 217
+right
+go 97
 left
-go 73
+go 1
 left
-go 325
-hop
-go 193
+go 109
 ifenemy 389
 ifsame 391
 ifwall 393
 ifempty 395
 infect 385
-go 481
-left
-go 109
+go 553
 right
-go 445
+go 241
+left
+go 517
 hop
-go 469
+go 73
 ifenemy 401
 ifsame 403
 ifwall 405
 ifempty 407
 infect 397
-go 97
+go 133
 left
-go 73
-left
-go 421
-hop
-go 409
+go 133
+right
+go 253
+right
+go 349
 ifenemy 413
 ifsame 415
 ifwall 417
 ifempty 419
 infect 409
-go 325
+go 301
 right
-go 385
-left
-go 229
-left
 go 97
+left
+go 433
+right
+go 109
 ifenemy 425
 ifsame 427
 ifwall 429
 ifempty 431
 infect 421
-go 25
-left
-go 397
+go 517
+right
+go 553
 left
 go 217
 hop
-go 421
+go 553
 ifenemy 437
 ifsame 439
 ifwall 441
 ifempty 443
 infect 433
-go 325
-right
-go 517
+go 301
 left
-go 457
-right
-go 265
+go 109
+left
+go 541
+left
+go 37
 ifenemy 449
 ifsame 451
 ifwall 453
 ifempty 455
 infect 445
-go 301
-right
-go 121
+go 97
 left
-go 577
+go 73
+left
+go 553
 right
-go 193
+go 361
 ifenemy 461
 ifsame 463
 ifwall 465
 ifempty 467
 infect 457
-go 553
+go 385
 right
-go 121
-left
-go 61
-left
-go 493
+go 385
+right
+go 505
+right
+go 361
 ifenemy 473
 ifsame 475
 ifwall 477
 ifempty 479
 infect 469
-go 169
-left
-go 337
-left
-go 109
+go 49
 right
-go 505
+go 517
+left
+go 97
+left
+go 277
 ifenemy 485
 ifsame 487
 ifwall 489
 ifempty 491
 infect 481
-go 421
+go 517
+left
+go 433
 right
-go 97
-right
-go 73
+go 85
 hop
-go 457
+go 373
 ifenemy 497
 ifsame 499
 ifwall 501
 ifempty 503
 infect 493
-go 217
-right
-go 121
-right
-go 457
-right
-go 349
+go 469
+left
+go 253
+left
+go 1
+hop
+go 421
 ifenemy 509
 ifsame 511
 ifwall 513
 ifempty 515
 infect 505
-go 253
+go 337
+right
+go 73
 left
-go 421
+go 121
 left
-go 457
-hop
-go 505
+go 517
 ifenemy 521
 ifsame 523
 ifwall 525
 ifempty 527
 infect 517
-go 349
+go 253
 right
-go 73
+go 529
 left
-go 409
+go 493
 right
-go 349
+go 433
 ifenemy 533
 ifsame 535
 ifwall 537
 ifempty 539
 infect 529
-go 313
+go 253
 right
-go 229
-right
-go 433
+go 205
 left
-go 73
+go 133
+right
+go 145
 ifenemy 545
 ifsame 547
 ifwall 549
 ifempty 551
 infect 541
-go 169
-left
-go 49
-left
-go 409
-left
 go 253
+left
+go 217
+left
+go 457
+right
+go 505
 ifenemy 557
 ifsame 559
 ifwall 561
 ifempty 563
 infect 553
-go 181
+go 73
 right
-go 421
-right
-go 289
+go 13
 left
-go 37
+go 97
+hop
+go 121
 ifenemy 569
 ifsame 571
 ifwall 573
 ifempty 575
 infect 565
-go 229
+go 493
+right
+go 409
 left
-go 157
+go 553
 right
-go 529
-right
-go 481
+go 73
 ifenemy 581
 ifsame 583
 ifwall 585
 ifempty 587
 infect 577
-go 169
+go 73
 right
-go 13
+go 301
 left
-go 589
-right
-go 241
+go 61
+left
+go 1
 ifenemy 593
 ifsame 595
 ifwall 597
 ifempty 599
 infect 589
-go 553
-right
-go 589
+go 277
 left
-go 253
+go 505
 left
-go 565
-go 565
+go 265
+hop
+go 25
+go 25
 go 1
