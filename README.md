@@ -122,11 +122,11 @@ or download as zip and extract.
 
 4. This python project uses poetry to install dependencies and create a virtual environment to run the code in.
 
-Every time your run the program, in the root directory, run:
+Before running the program, in the root directory, run:
 ```bash
 $ poetry install
 $ poetry shell
 ```
 This will install dependencies and create a venv for the program to run in.
 
-5. After doing this, you can run the program using any method your computer has to run like "RUN --> RUN AND DEBUG"
+5. After doing this, you can run the program on your text editor
