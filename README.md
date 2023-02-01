@@ -5,7 +5,7 @@ by a number of creatures. Each of the creatures lives in one of the squares, fac
 compass directions (North, East, South, or West) and belongs to a particular species that determines how
 that creature behaves. 
 
-One possible world is shown above. That sample world is populated with twenty creatures, ten of a species called Flytrap and ten of a
+A world is populated with twenty creatures, ten of a species called Flytrap and ten of a
 species called Rover. The species of the creature is identied by the first letter in its name. The creature faces in the direction indicated by its pointy nose. The behavior of each creature (you can think of it as
 a small robot) is controlled by a program that is species specic. Thus, all of the Rovers behave in thesame way. The behaviors of different species, however, are probably different.
 
