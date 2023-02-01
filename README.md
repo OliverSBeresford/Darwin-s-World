@@ -129,4 +129,5 @@ $ poetry install
 $ poetry shell
 ```
 This will install dependencies and create a venv for the program to run in.
+
 5. After doing this, you can run the program using any method your computer has to run like "RUN --> RUN AND DEBUG"
