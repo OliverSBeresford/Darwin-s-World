@@ -131,6 +131,33 @@ This will install dependencies and create a venv for the program to run in.
 
 5. After doing this, you can run the program on your text editor
 
+Once you're done, you can exit the venv:
+
+On macOS and Linux:
+
+```shell
+deactivate
+```
+
+On Windows:
+```shell
+deactivate.bat
+```
+
+You can also delete the files associated with it if you want, but you don't have to.
+This action cannot be undone.
+
+On macOS and Linux:
+
+```shell
+rm -r venv
+```
+
+On Windows:
+```shell
+rmdir /s /q venv
+```
+
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
