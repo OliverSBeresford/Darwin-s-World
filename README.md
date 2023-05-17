@@ -130,3 +130,9 @@ $ poetry shell
 This will install dependencies and create a venv for the program to run in.
 
 5. After doing this, you can run the program on your text editor
+
+# License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Feel free to modify the instructions based on your project's specific setup and requirements.
