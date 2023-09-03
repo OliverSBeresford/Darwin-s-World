@@ -88,7 +88,6 @@ def mutate(mutation_strength: int):
                 # Left or right
                 if whichAction != 11:
                     list1[index] = "right" if list1[index] == "left" else "left"
-                    return list1
                 # Hop, left or right
                 else:
                     list1[index] = ["right", "left"][random.randint(
@@ -96,7 +95,6 @@ def mutate(mutation_strength: int):
                             random.randint(0, 1)] if list1[index] == "left" else [
                                 "left", "hop"
                             ][random.randint(0, 1)]
-                    return list1
             # Changes the number that an action (that goes
             # to another step) goes to
             # Example: ifwall 1 --> ifwall 13
@@ -107,5 +105,5 @@ def mutate(mutation_strength: int):
                 while newGoIndex == int(list1[index].split()[1]):
                     newGoIndex = random.randint(0, 49) * 12 + 1
                 list1[index] = f"go {newGoIndex}"
-                return list1
+        return list1
     return mutation
