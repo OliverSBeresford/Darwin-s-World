@@ -13,10 +13,10 @@ class Spiral(Creature):
         super().__init__(x, y, startingDirection)
         #Spiral's images
         self.images = [
-            pygame.image.load("resources/spiral_up.png").convert_alpha(),
-            pygame.image.load("resources/spiral_right.png").convert_alpha(),
-            pygame.image.load("resources/spiral_down.png").convert_alpha(),
-            pygame.image.load("resources/spiral_left.png").convert_alpha()
+            pygame.image.load("resources/spiral_up.png"),
+            pygame.image.load("resources/spiral_right.png"),
+            pygame.image.load("resources/spiral_down.png"),
+            pygame.image.load("resources/spiral_left.png")
         ]
         # Current image
         self.image = self.images[self.direct]

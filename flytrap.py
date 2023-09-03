@@ -9,10 +9,10 @@ class Flytrap(Creature):
     def __init__(self, x, y, startingDirection):
         super().__init__(x, y, startingDirection)
         #Images used to display it
-        self.images = [pygame.image.load("resources/flytrap_up.png").convert_alpha(),
-            pygame.image.load("resources/flytrap_right.png").convert_alpha(),
-            pygame.image.load("resources/flytrap_down.png").convert_alpha(),
-            pygame.image.load("resources/flytrap_left.png").convert_alpha()
+        self.images = [pygame.image.load("resources/flytrap_up.png"),
+            pygame.image.load("resources/flytrap_right.png"),
+            pygame.image.load("resources/flytrap_down.png"),
+            pygame.image.load("resources/flytrap_left.png")
         ]
         self.image = self.images[self.direct]
         self.actions = []

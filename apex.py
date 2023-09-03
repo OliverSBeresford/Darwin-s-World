@@ -10,10 +10,10 @@ class Apex(Creature):
         super().__init__(x, y, startingDirection)
         self.creatureType = 1
         self.images = [
-            pygame.image.load("resources/apex_up.png").convert_alpha(),
-            pygame.image.load("resources/apex_right.png").convert_alpha(),
-            pygame.image.load("resources/apex_down.png").convert_alpha(),
-            pygame.image.load("resources/apex_left.png").convert_alpha()
+            pygame.image.load("resources/apex_up.png"),
+            pygame.image.load("resources/apex_right.png"),
+            pygame.image.load("resources/apex_down.png"),
+            pygame.image.load("resources/apex_left.png")
         ]
         self.image = self.images[self.direct]
         self.actions = []

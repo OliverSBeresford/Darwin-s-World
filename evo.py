@@ -15,10 +15,10 @@ class Evo(Creature):
     def __init__(self, x, y, startingDirection):
         super().__init__(x, y, startingDirection)
         self.images = [
-            pygame.image.load("resources/evo_up.png").convert_alpha(),
-            pygame.image.load("resources/evo_right.png").convert_alpha(),
-            pygame.image.load("resources/evo_down.png").convert_alpha(),
-            pygame.image.load("resources/evo_left.png").convert_alpha()
+            pygame.image.load("resources/evo_up.png"),
+            pygame.image.load("resources/evo_right.png"),
+            pygame.image.load("resources/evo_down.png"),
+            pygame.image.load("resources/evo_left.png")
         ]
         self.image = self.images[self.direct]
         self.action = self.takeAction

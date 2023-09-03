@@ -11,10 +11,10 @@ class Rover(Creature):
         super().__init__(x, y, startingDirection)
         self.creatureType = 1
         self.images = [
-            pygame.image.load("resources/rover_up.png").convert_alpha(),
-            pygame.image.load("resources/rover_right.png").convert_alpha(),
-            pygame.image.load("resources/rover_down.png").convert_alpha(),
-            pygame.image.load("resources/rover_left.png").convert_alpha()
+            pygame.image.load("resources/rover_up.png"),
+            pygame.image.load("resources/rover_right.png"),
+            pygame.image.load("resources/rover_down.png"),
+            pygame.image.load("resources/rover_left.png")
         ]
         self.image = self.images[self.direct]
         self.actions = []

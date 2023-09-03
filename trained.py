@@ -17,10 +17,10 @@ class Trained(Creature):
     def __init__(self, x, y, startingDirection):
         super().__init__(x, y, startingDirection)
         self.images = [
-            pygame.image.load("resources/trained_up.png").convert_alpha(),
-            pygame.image.load("resources/trained_right.png").convert_alpha(),
-            pygame.image.load("resources/trained_down.png").convert_alpha(),
-            pygame.image.load("resources/trained_left.png").convert_alpha()
+            pygame.image.load("resources/trained_up.png"),
+            pygame.image.load("resources/trained_right.png"),
+            pygame.image.load("resources/trained_down.png"),
+            pygame.image.load("resources/trained_left.png")
         ]
         self.image = self.images[self.direct]
         self.action = self.takeAction
