@@ -101,12 +101,9 @@ class Creature:
         # Inserting the creature into the same place (order of turns)
         # as the old one
         game.creatures.insert(game.creatures.index(creature), newc)
-        # Removrs the old one
+        # Removes the old one
         game.creatures.remove(creature)
-        # Placing it on the board
-        game.board = [[0] * game.ROWS for x in range(game.ROWS)]
-        for i in game.creatures:
-            game.board[i.pos[1]][i.pos[0]] = i
+        
         if game.isSimulationOver():
             game.isOver = True
 
