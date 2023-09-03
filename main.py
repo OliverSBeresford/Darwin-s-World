@@ -92,7 +92,7 @@ def main():
 
     # This is where you choose which classes to use
     class1 = Rover
-    class2 = Apex
+    class2 = Flytrap
     
     if int(input("Are you training the evo class? yes = 1, no = 0\n>>")):
         epochs = int(input("How many epochs? More epochs generally means a more highly adapted creature. There is no overfitting.\n>>"))
