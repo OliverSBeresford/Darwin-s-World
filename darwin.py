@@ -14,7 +14,8 @@ class Darwin:
         self.WIDTH = 300
         self.HEIGHT = 300
         self.ROWS = rows if rows else 15
-        self.screen = pygame.display.set_mode((self.WIDTH, self.HEIGHT))
+        if simOrNo:
+            self.screen = pygame.display.set_mode((self.WIDTH, self.HEIGHT))
         #Starts seting up board
         self.board = [[0] * 15 for x in range(15)]
         self.creatures = []
