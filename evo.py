@@ -7,9 +7,10 @@ import writerandom
 # Rover creature type
 class Evo(Creature):
     startup = writerandom.writeRandom
-    mutate = writerandom.mutate
+    mutate = None
     originalActions = startup()
     currentActions = []
+    mutation_strength = None
 
     # Inherits Creature's initialization function and adds 2 new features
     def __init__(self, x, y, startingDirection):
@@ -34,5 +35,8 @@ class Evo(Creature):
         if not Evo.currentActions:
             self.actions = Evo.mutate(Evo.originalActions)
             Evo.currentActions = self.actions
+            if not Evo.mutation_strength:
+                Evo.mutation_strength = int(input("How much would you like the creature to mutate for each mutation set? Higher mutation strength means more randomness for each tested mutation, so sometimes faster training.\n>>"))
+                mutate = writerandom.mutate(Evo.mutation_strength)
         else:
             self.actions = Evo.currentActions

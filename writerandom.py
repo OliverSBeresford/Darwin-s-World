@@ -72,37 +72,40 @@ def writeRandom():
 # And return a new list with the new procedure
 # (1 line changed)
 # This is what allows the creature to evolve
-def mutate(list1: list):
-    # Option = 0 means changing the action
-    # Option = 1 means changing where the action goes after being executed
-    option = random.randint(0, 1)
-    # Which chunk will have one line changed
-    whichGene = random.randint(0, 49)
-    if option:
-        # Which action within that chunk will be changed
-        whichAction = [7, 9, 11][random.randint(0, 2)]
-        # Index of the action to be changed
-        index = whichGene * 12 + whichAction - 1
-        # Left or right
-        if whichAction != 11:
-            list1[index] = "right" if list1[index] == "left" else "left"
-            return list1
-        # Hop, left or right
-        else:
-            list1[index] = ["right", "left"][random.randint(
-                0, 1)] if list1[index] == "hop" else ["right", "hop"][
-                    random.randint(0, 1)] if list1[index] == "left" else [
-                        "left", "hop"
-                    ][random.randint(0, 1)]
-            return list1
-    # Changes the number that an action (that goes
-    # to another step) goes to
-    # Example: ifwall 1 --> ifwall 13
-    else:
-        whichAction = [6, 8, 10, 12][random.randint(0, 3)]
-        index = whichGene * 12 + whichAction - 1
-        newGoIndex = random.randint(0, 49) * 12 + 1
-        while newGoIndex == int(list1[index].split()[1]):
-            newGoIndex = random.randint(0, 49) * 12 + 1
-        list1[index] = f"go {newGoIndex}"
-        return list1
+def mutate(mutation_strength: int):
+    def mutation(list1: list):
+        for i in range(mutation_strength):
+            # Option = 0 means changing the action
+            # Option = 1 means changing where the action goes after being executed
+            option = random.randint(0, 1)
+            # Which chunk will have one line changed
+            whichGene = random.randint(0, 49)
+            if option:
+                # Which action within that chunk will be changed
+                whichAction = [7, 9, 11][random.randint(0, 2)]
+                # Index of the action to be changed
+                index = whichGene * 12 + whichAction - 1
+                # Left or right
+                if whichAction != 11:
+                    list1[index] = "right" if list1[index] == "left" else "left"
+                    return list1
+                # Hop, left or right
+                else:
+                    list1[index] = ["right", "left"][random.randint(
+                        0, 1)] if list1[index] == "hop" else ["right", "hop"][
+                            random.randint(0, 1)] if list1[index] == "left" else [
+                                "left", "hop"
+                            ][random.randint(0, 1)]
+                    return list1
+            # Changes the number that an action (that goes
+            # to another step) goes to
+            # Example: ifwall 1 --> ifwall 13
+            else:
+                whichAction = [6, 8, 10, 12][random.randint(0, 3)]
+                index = whichGene * 12 + whichAction - 1
+                newGoIndex = random.randint(0, 49) * 12 + 1
+                while newGoIndex == int(list1[index].split()[1]):
+                    newGoIndex = random.randint(0, 49) * 12 + 1
+                list1[index] = f"go {newGoIndex}"
+                return list1
+    return mutation

@@ -54,7 +54,7 @@ def runXTimes(class1, class2, times, rows=False, creatures=10):
 # Class1 is Evo and class2 is what you are training it against
 def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False, creatures=10):
     file = open("texts/originalCreature.txt", "w")
-    for line in class1.originalActions:
+    for line in Evo.originalActions:
         file.write(line + "\n")
     file.write("go 1")
     file.close()
@@ -68,7 +68,7 @@ def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False,
         bestProcedure = []
         # Mutates 32 different times
         for j in range(mutations):
-            class1.currentActions = []
+            Evo.currentActions = []
             # With each mutation, tries it 5 times against Class2
             winners = runXTimes(class1, class2, False, rounds, rows, creatures)
             # If this time is the best time out of the 32 so far,
@@ -77,10 +77,10 @@ def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False,
                 maxWins = winners[Evo]
                 bestProcedure = Evo.currentActions.copy()
         # uses bestProcedure for next round
-        class1.originalActions = bestProcedure.copy()
+        Evo.originalActions = bestProcedure.copy()
     # Writes fully evolved fersion to this file (developed Creature)
     file = open("texts/developedCreature.txt", "w")
-    for line in class1.originalActions:
+    for line in Evo.originalActions:
         file.write(line + "\n")
     file.write("go 1")
     file.close()
@@ -94,7 +94,7 @@ def main():
     
     if int(input("Are you training the evo class? yes = 1, no = 0\n>>")):
         epochs = int(input("How many epochs? More epochs generally means a more highly adapted creature. There is no overfitting.\n>>"))
-        mutations = int(input("How many mutations? More mutations allows the creature to change more between each epoch\n>>"))
+        mutations = int(input("How many mutations? More mutations allows us to test more different mutation sets per epoch\n>>"))
         rounds = int(input("How many rounds per mutation? More rounds means each mutation will be more thoroughly tested.\n>>"))
         rows = int(input("How many rows?\n>>"))
         creatures = int(input("How many creatures per species?\n>>"))
