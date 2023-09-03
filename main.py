@@ -36,7 +36,7 @@ def runSimulation(class1, class2, simOrNo, rows=False, creatures=10):
 
 # This runs the simulation "times" times and return a dictionary
 # Format: {class1: numWins, class2: numWins}
-def runXTimes(class1, class2, simOrNo, times, rows=False, creatures=10):
+def runXTimes(class1, class2, times, rows=False, creatures=10):
     dict = {class1: 0, class2: 0}
     winner = 0
     for i in range(times):
@@ -46,12 +46,13 @@ def runXTimes(class1, class2, simOrNo, times, rows=False, creatures=10):
         while winner == "tie":
             winner = runSimulation(class1, class2, False, rows, creatures)
         dict[winner] += 1
+        print("100 % complete.")
     return dict
 
 
 #This is the function to train Evo against a creature
 # Class1 is Evo and class2 is what you are training it against
-def trainCreature(class1, class2, rows=False, creatures=10):
+def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False, creatures=10):
     file = open("texts/originalCreature.txt", "w")
     for line in class1.originalActions:
         file.write(line + "\n")
@@ -60,15 +61,16 @@ def trainCreature(class1, class2, rows=False, creatures=10):
     # This writes all of Evo's starting actions (not evolved) to a file that won't be changed
     # Doesn't actually do anything in particular, ust to see how it evolved
 
-    # Evolves 50 times, can be changed
-    for i in range(50):
+    # Evolves epochs times, can be changed
+    # As it is training, each epoch will print its progress from 0 to 100 %
+    for i in range(epochs):
         maxWins = 0
         bestProcedure = []
         # Mutates 32 different times
-        for j in range(32):
+        for j in range(mutations):
             class1.currentActions = []
             # With each mutation, tries it 5 times against Class2
-            winners = runXTimes(class1, class2, False, 5, rows, creatures)
+            winners = runXTimes(class1, class2, False, rounds, rows, creatures)
             # If this time is the best time out of the 32 so far,
             # writes down that set of actions
             if winners[class1] > maxWins:
@@ -82,10 +84,25 @@ def trainCreature(class1, class2, rows=False, creatures=10):
         file.write(line + "\n")
     file.write("go 1")
     file.close()
-    return "Complete"
+    return "Complete. You can now use the \"Trained\" class to use the evolved creature."
 
 
 def main():
+    # This is where you choose which classes to use
+    # only class1 can be the evolving class (Evo)
+    # class2 can be any other class when you're using Evo, however, the training may be faster or slower with different species as enemies 
+    class1 = Trained
+    class2 = Rover
+    
+    if int(input("Are you training the evo class? yes = 1, no = 0\n>>")):
+        epochs = int(input("How many epochs? More epochs generally means a more highly adapted creature. There is no overfitting.\n>>"))
+        mutations = int(input("How many mutations? More mutations allows the creature to change more between each epoch\n>>"))
+        rounds = int(input("How many rounds per mutation? More rounds means each mutation will be more thoroughly tested.\n>>"))
+        rows = int(input("How many rows?\n>>"))
+        creatures = int(input("How many creatures per species?\n>>"))
+        print(trainCreature(class1, class2, epochs, mutations, rounds, rows, creatures))
+        return
+
     try:
         run = bool(
             int(
@@ -94,6 +111,7 @@ def main():
                 )))
     except:
         print("I said 1/0")
+        return
     times = 1 if run else int(
         input("How many times would you like the program to run?\n->>"))
     rows = 15
@@ -111,21 +129,14 @@ def main():
     pygame.display.set_icon(x)
     os.system("clear")
     # here is where you choose which classes to use, you send 2 classes as parameters for the runSimulation function
-    class1 = Rover
-    class2 = Apex
+
     if run:
         print(str(runSimulation(class1, class2, True)(1, 2, 3)), "wins!")
     else:
         os.system("clear")
-        if int(input("Are you training the evo class? yes = 1, no = 0\n>>")):
-            print("traing...")
-            print(trainCreature(class1, class2, rows, creatures))
-        else:
-            os.system("clear")
-            dict = runXTimes(class1, class2, False, times, rows, creatures)
-            print("100 % complete.")
-            print(str(class1(1, 2, 3)), ":", dict[class1] / times * 100, "%")
-            print(str(class2(1, 2, 3)), ":", dict[class2] / times * 100, "%")
+        dict = runXTimes(class1, class2, times, rows, creatures)
+        print(str(class1(1, 2, 3)), ":", dict[class1] / times * 100, "%")
+        print(str(class2(1, 2, 3)), ":", dict[class2] / times * 100, "%")
 
 
 # Rover: about 74% win rate, Flytrap: about 26% win rate
