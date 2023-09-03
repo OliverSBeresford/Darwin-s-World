@@ -88,9 +88,11 @@ def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False,
 
 
 def main():
+    pygame.init()
+
     # This is where you choose which classes to use
     class1 = Rover
-    class2 = Trained
+    class2 = Apex
     
     if int(input("Are you training the evo class? yes = 1, no = 0\n>>")):
         epochs = int(input("How many epochs? More epochs generally means a more highly adapted creature. There is no overfitting.\n>>"))
@@ -120,7 +122,7 @@ def main():
         creatures = int(
             input("How many creatures do you want on each side?\n>>"))
     Spiral.rows = rows
-    pygame.init()
+
     pygame.display.set_caption('Darwin\'s World')
 
     x = pygame.Surface((0, 0))
