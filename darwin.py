@@ -39,9 +39,9 @@ class Darwin:
         # The order of the creatures' turns is the same as the order that they
         # Are in in the list where they are sorted\
         # Which has a format of: [random of class1, random of class2, random of class1...]
-        for i in self.creatures:
+        for i in range(len(self.creatures)):
             #Creature takes its turn
-            i.action(self, i.num + 1)
+            self.creatures[i].action(self, self.creatures[i].num + 1)
             #resetting board
             self.board = [[0] * self.ROWS for x in range(self.ROWS)]
             for k in self.creatures:
@@ -49,7 +49,7 @@ class Darwin:
             # Displays the board, then sleeps for 0.05 seconds
             # (Quite fast because a frame is when one out of 20 creatures moves)
             if self.sim:
-                self.updateBoard(i)
+                self.updateBoard(self.creatures[i])
                 # Change this to make it faster or slower
                 time.sleep(0.05)
 
