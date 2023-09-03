@@ -73,8 +73,8 @@ def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False,
             winners = runXTimes(class1, class2, False, rounds, rows, creatures)
             # If this time is the best time out of the 32 so far,
             # writes down that set of actions
-            if winners[class1] > maxWins:
-                maxWins = winners[class1]
+            if winners[Evo] > maxWins:
+                maxWins = winners[Evo]
                 bestProcedure = Evo.currentActions.copy()
         # uses bestProcedure for next round
         class1.originalActions = bestProcedure.copy()
@@ -89,8 +89,6 @@ def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False,
 
 def main():
     # This is where you choose which classes to use
-    # only class1 can be the evolving class (Evo)
-    # class2 can be any other class when you're using Evo, however, the training may be faster or slower with different species as enemies 
     class1 = Trained
     class2 = Rover
     
