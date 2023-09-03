@@ -33,10 +33,10 @@ class Evo(Creature):
     def initActions(self):
         self.actions = []
         if not Evo.currentActions:
-            self.actions = Evo.mutate(Evo.originalActions)
-            Evo.currentActions = self.actions
             if not Evo.mutation_strength:
                 Evo.mutation_strength = int(input("How much would you like the creature to mutate for each mutation set? Higher mutation strength means more randomness for each tested mutation, so sometimes faster training.\n>>"))
-                mutate = writerandom.mutate(Evo.mutation_strength)
+                Evo.mutate = writerandom.mutate(Evo.mutation_strength)
+            self.actions = Evo.mutate(Evo.originalActions)
+            Evo.currentActions = self.actions
         else:
             self.actions = Evo.currentActions
