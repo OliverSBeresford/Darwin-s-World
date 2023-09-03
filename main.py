@@ -28,7 +28,7 @@ def runSimulation(class1, class2, simOrNo, rows=False, creatures=10):
         # This is when you aren't seeing the actual simulation
         if not simOrNo:
             # If it's taking too long
-            if time.time() - start >= 5:
+            if time.time() - start >= 2:
                 return "tie"
         simulation.darwinUpdate()
     return type(simulation.creatures[0])
@@ -70,7 +70,7 @@ def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False,
         for j in range(mutations):
             Evo.currentActions = []
             # With each mutation, tries it 5 times against Class2
-            winners = runXTimes(class1, class2, False, rounds, rows, creatures)
+            winners = runXTimes(class1, class2, rounds, rows, creatures)
             # If this time is the best time out of the 32 so far,
             # writes down that set of actions
             if winners[Evo] > maxWins:
@@ -89,12 +89,12 @@ def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False,
 
 def main():
     # This is where you choose which classes to use
-    class1 = Trained
-    class2 = Rover
+    class1 = Rover
+    class2 = Trained
     
     if int(input("Are you training the evo class? yes = 1, no = 0\n>>")):
         epochs = int(input("How many epochs? More epochs generally means a more highly adapted creature. There is no overfitting.\n>>"))
-        mutations = int(input("How many mutations? More mutations allows us to test more different mutation sets per epoch\n>>"))
+        mutations = int(input("How many mutations? More mutations allows us to test more different mutation sets per epoch but will make the process longer.\n>>"))
         rounds = int(input("How many rounds per mutation? More rounds means each mutation will be more thoroughly tested.\n>>"))
         rows = int(input("How many rows?\n>>"))
         creatures = int(input("How many creatures per species?\n>>"))
