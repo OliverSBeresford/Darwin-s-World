@@ -109,10 +109,22 @@ not edited until you retrain the evo class. (the evo class is given a new proced
 then goes back to the outside and repeats.
 
 # How to Use
-1. Install Python 3.x (recommended) from [here](https://www.python.org/download/releases/) (Or use your preffered package manager)
+1. Install Python 3.x from [here](https://www.python.org/download/releases/) (Or use your preffered package manager)
 2. Install poetry using this command:
 ```bash
 $ curl -sSL https://install.python-poetry.org | python3 -
+```
+Another option is by using pip. Check if it is installed using:
+```bash
+$ pip3 --version
+```
+If an error is shown, you do not have pip. Install it using this command:
+```bash
+$ python3 -m ensurepip --upgrade
+```
+This will install pip in your python environment. Now you can install poetry using:
+```bash
+$ pip3 install poetry
 ```
 3. Clone the repository:
 ```bash
@@ -129,7 +141,11 @@ $ poetry shell
 ```
 This will install dependencies and create a venv for the program to run in.
 
-5. After doing this, you can run the program on your text editor
+5. After doing this, you can run the program on your text editor.
+You can also run it from the command line in the root directory of the project with this command:
+```bash
+$ python3 main.py
+```
 
 Once you're done, you can exit the venv:
 
@@ -144,7 +160,7 @@ On Windows:
 deactivate.bat
 ```
 
-You can also delete the files associated with it if you want, but you don't have to.
+You can also delete the files associated with it if you want and if they are still there after deactivating, but you don't have to.
 This action cannot be undone.
 
 On macOS and Linux:
