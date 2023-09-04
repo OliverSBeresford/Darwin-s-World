@@ -110,38 +110,29 @@ then goes back to the outside and repeats.
 
 # How to Use
 1. Install Python 3.x from [here](https://www.python.org/download/releases/) (Or use your preffered package manager)
-2. Install poetry using this command:
-```bash
-$ curl -sSL https://install.python-poetry.org | python3 -
-```
-Another option is by using pip. Check if it is installed using:
-```bash
-$ pip3 --version
-```
-If an error is shown, you do not have pip. Install it using this command:
-```bash
-$ python3 -m ensurepip --upgrade
-```
-This will install pip in your python environment. Now you can install poetry using:
-```bash
-$ pip3 install poetry
-```
+
 3. Clone the repository:
 ```bash
 $ git clone https://github.com/OliverSBeresford/Darwin-s-World
 ```
 or download as zip and extract.
 
-4. This python project uses poetry to install dependencies and create a virtual environment to run the code in.
+3. This python project uses pip3 to install dependencies and create a virtual environment to run the code in.
 
-Before running the program, in the root directory, run:
+Before running the program, in the root directory, run (on MacOS or Linux):
 ```bash
-$ poetry install
-$ poetry shell
+$ python3 -m venv <venv-name>
+$ source <venv_name>/bin/activate
 ```
-This will install dependencies and create a venv for the program to run in.
+On Windows:
+```bash
+$ python3 -m venv <venv-name>
+$ <venv-name>\Scripts\activate
+```
 
-5. After doing this, you can run the program on your text editor.
+This will create a venv for the program to run in and install the dependencies in it.
+
+4. After doing this, you can run the program on your text editor.
 You can also run it from the command line in the root directory of the project with this command:
 ```bash
 $ python3 main.py
@@ -166,12 +157,12 @@ This action cannot be undone.
 On macOS and Linux:
 
 ```shell
-rm -r venv
+rm -r <venv-name>
 ```
 
 On Windows:
 ```shell
-rmdir /s /q venv
+rmdir /s /q <venv-name>
 ```
 
 # License
