@@ -36,12 +36,15 @@ def runSimulation(class1, class2, simOrNo, rows=False, creatures=10):
 
 # This runs the simulation "times" times and return a dictionary
 # Format: {class1: numWins, class2: numWins}
-def runXTimes(class1, class2, times, rows=False, creatures=10):
+def runXTimes(class1, class2, times, rows=False, creatures=10, mutation=None, epoch=None):
     dict = {class1: 0, class2: 0}
     winner = 0
     for i in range(times):
         os.system("clear")
-        print(f"{math.floor(i / times * 100)} % complete...")
+        if mutation != None and epoch != None:
+            print(f"Mutation {mutation} of epoch {epoch} {math.floor(i / times * 100)} % complete...")
+        else:
+            print(f"{math.floor(i / times * 100)} % complete...")
         winner = runSimulation(class1, class2, False, rows, creatures)
         while winner == "tie":
             winner = runSimulation(class1, class2, False, rows, creatures)
@@ -70,7 +73,7 @@ def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False,
         for j in range(mutations):
             Evo.currentActions = []
             # With each mutation, tries it 5 times against Class2
-            winners = runXTimes(class1, class2, rounds, rows, creatures)
+            winners = runXTimes(class1, class2, rounds, rows, creatures, i, j)
             # If this time is the best time out of the 32 so far,
             # writes down that set of actions
             if winners[Evo] > maxWins:
@@ -86,6 +89,15 @@ def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False,
     file.close()
     return "Complete. You can now use the \"Trained\" class to use the evolved creature."
 
+def get_int(prompt):
+    valid = False
+    while not valid:
+        try:
+            result = int(input(prompt))
+            valid = True
+        except:
+            valid = False
+    return result
 
 def main():
     pygame.init()
@@ -94,33 +106,24 @@ def main():
     class1 = Rover
     class2 = Flytrap
     
-    if int(input("Are you training the evo class? yes = 1, no = 0\n>>")):
-        epochs = int(input("How many epochs? More epochs generally means a more highly adapted creature. There is no overfitting.\n>>"))
-        mutations = int(input("How many mutations? More mutations allows us to test more different mutation sets per epoch but will make the process longer.\n>>"))
-        rounds = int(input("How many rounds per mutation? More rounds means each mutation will be more thoroughly tested.\n>>"))
-        rows = int(input("How many rows?\n>>"))
-        creatures = int(input("How many creatures per species?\n>>"))
+    if class1 == Evo or class2 == Evo and int(input("Are you training the evo class? yes = 1, no = 0\n>>")):
+        epochs = get_int("How many epochs? More epochs generally means a more highly adapted creature. There is no overfitting.\n>>")
+        mutations = get_int("How many mutations? More mutations allows us to test more different mutation sets per epoch but will make the process longer.\n>>")
+        rounds = get_int("How many rounds per mutation? More rounds means each mutation will be more thoroughly tested.\n>>")
+        rows = get_int("How many rows?\n>>")
+        creatures = get_int("How many creatures per species?\n>>")
         print(trainCreature(class1, class2, epochs, mutations, rounds, rows, creatures))
         return
 
-    try:
-        run = bool(
-            int(
-                input(
-                    "Would you like to see the simulation or the results? -> 1/0\n>>"
-                )))
-    except:
-        print("I said 1/0")
-        return
-    times = 1 if run else int(
-        input("How many times would you like the program to run?\n->>"))
+    run = bool(get_int(
+                "Would you like to see the simulation or the results? -> 1/0\n>>"
+    ))
+    
+    times = 1 if run else get_int("How many times would you like the program to run?\n->>")
     rows = 15
     if not run:
-        rows = int(
-            input(
-                "Choose the amount of rows and columns for the execution\n>>"))
-        creatures = int(
-            input("How many creatures do you want on each side?\n>>"))
+        rows = get_int("Choose the amount of rows and columns for the execution\n>>")
+        creatures = get_int("How many creatures do you want on each side?\n>>")
     Spiral.rows = rows
 
     pygame.display.set_caption('Darwin\'s World')
