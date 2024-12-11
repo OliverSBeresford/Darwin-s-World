@@ -28,6 +28,8 @@ class Darwin:
         self.class1 = firstClass
         self.class2 = secondClass
         self.amCr = amountOfCreatures
+        self.speed = 0.1
+        self.key_up = True
 
     #Method that makes each creature take a turn, then prints it
     def darwinUpdate(self):
@@ -52,7 +54,11 @@ class Darwin:
             if self.sim:
                 self.updateBoard(self.creatures[i])
                 # Change this to make it faster or slower
-                time.sleep(0.05)
+                for event in pygame.event.get():
+                    if event.type == pygame.KEYDOWN and event.key == pygame.K_s and self.speed >= 0.01:
+                        self.speed -= 0.01
+
+                time.sleep(self.speed)
 
     #Updates screen
     def updateBoard(self, creature):
