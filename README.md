@@ -119,7 +119,7 @@ or download as zip and extract.
 
 3. This python project uses pip3 to install dependencies and create a virtual environment to run the code in.
 
-Before running the program, in the root directory, run (on MacOS or Linux):
+Before running the program, in the project directory, run (on MacOS or Linux):
 ```bash
 $ python3 -m venv <venv-name>
 $ source <venv_name>/bin/activate
