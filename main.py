@@ -30,7 +30,8 @@ def runSimulation(class1, class2, simOrNo, rows=False, creatures=10):
             # If it's taking too long
             if time.time() - start >= 2:
                 return "tie"
-        simulation.darwinUpdate()
+        if simulation.darwinUpdate() == "END":
+            return "END"
     return type(simulation.creatures[0])
 
 
@@ -134,7 +135,11 @@ def main():
     # here is where you choose which classes to use, you send 2 classes as parameters for the runSimulation function
 
     if run:
-        print(str(runSimulation(class1, class2, True)(1, 2, 3)), "wins!")
+        winner = runSimulation(class1, class2, simOrNo=True)
+        if winner != "END":
+            print(f"{str(runSimulation(class1, class2, True)(1, 2, 3))} wins!")
+        else:
+            print("Game ended")
     else:
         os.system("clear")
         dict = runXTimes(class1, class2, times, rows, creatures)

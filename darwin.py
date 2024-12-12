@@ -57,6 +57,8 @@ class Darwin:
                 for event in pygame.event.get():
                     if event.type == pygame.KEYDOWN and event.key == pygame.K_s and self.speed >= 0.01:
                         self.speed -= 0.01
+                    if event.type == pygame.QUIT:
+                        return 'END'
 
                 time.sleep(self.speed)
 
