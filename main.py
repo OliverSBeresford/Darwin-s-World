@@ -43,7 +43,7 @@ def runXTimes(class1, class2, times, rows=False, creatures=10, mutation=None, ep
     for i in range(times):
         os.system("clear")
         if mutation != None and epoch != None:
-            print(f"Mutation {mutation} of epoch {epoch} {math.floor(i / times * 100)} % complete...")
+            print(f"Mutation {mutation} of epoch {epoch} is {math.floor(i / times * 100)}% complete...")
         else:
             print(f"{math.floor(i / times * 100)} % complete...")
         winner = runSimulation(class1, class2, False, rows, creatures)
@@ -74,7 +74,7 @@ def trainCreature(class1, class2, epochs=50, mutations=32, rounds=5, rows=False,
         for j in range(mutations):
             Evo.currentActions = []
             # With each mutation, tries it 5 times against Class2
-            winners = runXTimes(class1, class2, rounds, rows, creatures, i, j)
+            winners = runXTimes(class1, class2, rounds, rows, creatures, epoch=i, mutation=j)
             # If this time is the best time out of the 32 so far,
             # writes down that set of actions
             if winners[Evo] > maxWins:
@@ -105,7 +105,7 @@ def main():
 
     # This is where you choose which classes to use
     class1 = Rover
-    class2 = Flytrap
+    class2 = Trained
     
     if class1 == Evo or class2 == Evo and int(input("Are you training the evo class? yes = 1, no = 0\n>>")):
         epochs = get_int("How many epochs? More epochs generally means a more highly adapted creature. There is no overfitting.\n>>")
@@ -137,7 +137,7 @@ def main():
     if run:
         winner = runSimulation(class1, class2, simOrNo=True)
         if winner != "END":
-            print(f"{str(runSimulation(class1, class2, True)(1, 2, 3))} wins!")
+            print(f"{str(winner)} wins!")
         else:
             print("Game ended")
     else:

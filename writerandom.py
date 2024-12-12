@@ -35,11 +35,12 @@ def initClumps(totalClumps: int, i: int):
         randAction("ifwall", totalClumps, 9, i),
         randAction("ifempty", totalClumps, 11, i),
         randAction("infect", totalClumps, 1, i),
-        randAction("go", totalClumps, 1,
-                   i), right_or_left[random.randint(0, 1)],
         randAction("go", totalClumps, 1, i),
         right_or_left[random.randint(0, 1)],
-        randAction("go", totalClumps, 1, i), actions[random.randint(0, 2)],
+        randAction("go", totalClumps, 1, i),
+        right_or_left[random.randint(0, 1)],
+        randAction("go", totalClumps, 1, i),
+        actions[random.randint(0, 2)],
         randAction("go", totalClumps, 1, i)
     ]
 
